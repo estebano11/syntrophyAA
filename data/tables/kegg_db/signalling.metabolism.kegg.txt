@@ -1,0 +1,131 @@
+99978 Cell growth
+K06190 ispZ; intracellular septation protein
+K07321 cooC; CO dehydrogenase maturation factor
+K07322 ytfE, scdA; regulator of cell morphogenesis and NO signaling
+K15722 cedA; cell division activator
+K20073 mapZ, locZ; mid-cell-anchored protein Z
+K22304 dicB; cell division inhibition protein DicB
+K06317 bofA; inhibitor of the pro-sigma K processing machinery
+K06318 bofC; forespore regulator of the sigma-K checkpoint
+K06319 cgeA; spore maturation protein CgeA
+K06320 cgeB; spore maturation protein CgeB
+K06321 cgeC; spore maturation protein CgeC
+K06322 cgeD; spore maturation protein CgeD
+K06323 cgeE; spore maturation protein CgeE
+K06325 cotB; spore coat protein B
+K06326 cotC; spore coat protein C
+K06327 cotD; spore coat protein D
+K06328 cotE; spore coat protein E
+K06329 cotF; spore coat protein F
+K06330 cotH; spore coat protein H
+K06331 cotI; spore coat protein I
+K06332 cotJA; spore coat protein JA
+K06333 cotJB; spore coat protein JB
+K06334 cotJC; spore coat protein JC
+K06335 cotM; spore coat protein M
+K25519 cotR; putative sporulation hydrolase
+K06337 cotS; spore coat-associated protein S
+K06338 cotSA; spore coat protein SA
+K06339 cotT; spore coat protein T
+K06340 cotV; spore coat protein V
+K06341 cotW; spore coat protein W
+K06342 cotX; spore coat protein X
+K06343 cotY_Z; CotY/CotZ family spore coat protein
+K06345 coxA; spore cortex protein
+K06346 jag; spoIIIJ-associated protein
+K06348 kapD; sporulation inhibitor KapD
+K06349 kbaA; KinB signaling pathway activation protein
+K06350 kipA; antagonist of KipI
+K06351 kipI; inhibitor of KinA
+K06357 phrI; phosphatase RapI regulator
+K06370 safA; morphogenetic protein associated with SpoVID
+K06371 sda; developmental checkpoint coupling sporulation initiation to replication initiation
+K06372 sinI; antagonist of SinR
+K06373 spmA; spore maturation protein A
+K06374 spmB; spore maturation protein B
+K06376 spo0E; stage 0 sporulation regulatory protein
+K06377 spo0M; sporulation-control protein
+K06378 spoIIAA; stage II sporulation protein AA (anti-sigma F factor antagonist)
+K06380 spoIIB; stage II sporulation protein B
+K06384 spoIIM; stage II sporulation protein M
+K06385 spoIIP; stage II sporulation protein P
+K06386 spoIIQ; stage II sporulation protein Q
+K06387 spoIIR; stage II sporulation protein R
+K06388 spoIISA; stage II sporulation protein SA
+K06389 spoIISB; stage II sporulation protein SB
+K06390 spoIIIAA; stage III sporulation protein AA
+K06391 spoIIIAB; stage III sporulation protein AB
+K06392 spoIIIAC; stage III sporulation protein AC
+K06393 spoIIIAD; stage III sporulation protein AD
+K06394 spoIIIAE; stage III sporulation protein AE
+K06395 spoIIIAF; stage III sporulation protein AF
+K06396 spoIIIAG; stage III sporulation protein AG
+K06397 spoIIIAH; stage III sporulation protein AH
+K06398 spoIVA; stage IV sporulation protein A
+K06400 spoIVCA; site-specific DNA recombinase
+K06401 spoIVFA; stage IV sporulation protein FA
+K06403 spoVAA; stage V sporulation protein AA
+K06404 spoVAB; stage V sporulation protein AB
+K06405 spoVAC; stage V sporulation protein AC
+K06406 spoVAD; stage V sporulation protein AD
+K06407 spoVAE; stage V sporulation protein AE
+K06408 spoVAF; stage V sporulation protein AF
+K06410 spoVFA; dipicolinate synthase subunit A
+K06411 spoVFB; dipicolinate synthase subunit B
+K06412 spoVG; stage V sporulation protein G
+K06413 spoVK; stage V sporulation protein K
+K06414 spoVM; stage V sporulation protein M
+K06415 spoVR; stage V sporulation protein R
+K06416 spoVS; stage V sporulation protein S
+K06417 spoVID; stage VI sporulation protein D
+K07257 spsF; spore coat polysaccharide biosynthesis protein SpsF
+K06418 SASP-A, sspA; small acid-soluble spore protein A (major alpha-type SASP)
+K06419 SASP-B, sspB; small acid-soluble spore protein B (major beta-type SASP)
+K06420 sspC; small acid-soluble spore protein C (minor alpha/beta-type SASP)
+K06421 sspD; small acid-soluble spore protein D (minor alpha/beta-type SASP)
+K06422 sspE; small acid-soluble spore protein E (minor gamma-type SASP)
+K06423 sspF; small acid-soluble spore protein F (minor alpha/beta-type SASP)
+K06424 sspG; small acid-soluble spore protein G (minor)
+K06425 sspH; small acid-soluble spore protein H (minor)
+K06426 sspI; small acid-soluble spore protein I (minor)
+K06427 sspJ; small acid-soluble spore protein J (minor)
+K06428 sspK; small acid-soluble spore protein K (minor)
+K06429 sspL; small acid-soluble spore protein L (minor)
+K06430 sspM; small acid-soluble spore protein M (minor)
+K06431 sspN; small acid-soluble spore protein N (minor)
+K06432 sspO, cotK; small acid-soluble spore protein O (minor)
+K06433 sspP, cotL; small acid-soluble spore protein P (minor)
+K06434 tlp; small acid-soluble spore protein (thioredoxin-like protein)
+K06435 usd; required for translation of spoIIID
+K06436 yabG; spore coat assemly protein
+K06437 yknT; sigma-E controlled sporulation protein
+K06438 yqfD; similar to stage IV sporulation protein
+K06439 yraD; similar to spore coat protein
+K06440 yraG; similar to spore coat protein
+K16654 K16654; spore-specific protein
+K06288 gerAA; spore germination protein AA
+K06290 gerAC; spore germination protein AC
+K06291 gerBA; spore germination protein BA
+K06293 gerBC; spore germination protein BC
+K06294 gerD; spore germination protein D
+K06295 gerKA; spore germination protein KA
+K06297 gerKC; spore germination protein KC
+K06298 gerM; germination protein M
+K06299 gerPA; spore germination protein PA
+K06300 gerPB; spore germination protein PB
+K06301 gerPC; spore germination protein PC
+K06302 gerPD; spore germination protein PD
+K06303 gerPE; spore germination protein PE
+K06304 gerPF; spore germination protein PF
+K06305 gerQ; spore germination protein Q
+K06307 yfkQ; spore germination protein
+K06308 yfkR; spore germination protein
+K06309 yfkT; spore germination protein
+K06310 yndD; spore germination protein
+K06312 yndF; spore germination protein
+K06313 ypeB; spore germination protein
+K22718 blr; divisome-associated membrane protein
+K22719 envC; murein hydrolase activator
+K25385 BRINP1, DBCCR1, FAM5A; BMP/retinoic acid-inducible neural-specific protein 1
+K25386 BRINP2_3, DBCCR1L, FAM5B_C; BMP/retinoic acid-inducible neural-specific protein 2/3
+

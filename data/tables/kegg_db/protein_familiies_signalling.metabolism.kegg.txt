@@ -1,0 +1,193 @@
+02048 Prokaryotic defense system [BR:ko02048]
+K15342 cas1; CRISP-associated protein Cas1
+K09951 cas2; CRISPR-associated protein Cas2
+K07012 cas3; CRISPR-associated endonuclease/helicase Cas3 [EC:3.1.-.- 5.6.2.4]
+K07475 cas3; CRISPR-associated endonuclease Cas3-HD [EC:3.1.-.-]
+K19085 csa1; CRISPR-associated protein Csa1
+K19074 csa2; CRISPR-associated protein Csa2
+K07725 csa3; CRISPR-associated protein Csa3
+K19086 csa4, cas8a2; CRISPR-associated protein Csa4
+K19087 csa5; CRISPR-associated protein Csa5
+K19088 cst1, cas8a; CRISPR-associated protein Cst1
+K19075 cst2, cas7; CRISPR-associated protein Cst2
+K07464 cas4; CRISPR-associated exonuclease Cas4 [EC:3.1.12.1]
+K19089 cas5a_b_c; CRISPR-associated protein Cas5a/b/c
+K19090 cas5t; CRISPR-associated protein Cas5t
+K19091 cas6; CRISPR-associated endoribonuclease Cas6 [EC:3.1.-.-]
+K19114 csh1; CRISPR-associated protein Csh1
+K19115 csh2; CRISPR-associated protein Csh2
+K19116 cas5h; CRISPR-associated protein Cas5h
+K19117 csd1, cas8c; CRISPR-associated protein Csd1
+K19118 csd2, cas7; CRISPR-associated protein Csd2
+K19119 cas5d; CRISPR-associated protein Cas5d
+K19120 csc1; CRISPR-associated protein Csc1
+K19121 csc2; CRISPR-associated protein Csc2
+K19122 csc3; CRISPR-associated protein Csc3
+K19123 casA, cse1; CRISPR system Cascade subunit CasA
+K19046 casB, cse2; CRISPR system Cascade subunit CasB
+K19124 casC, cse4; CRISPR system Cascade subunit CasC
+K19125 casD, cse5; CRISPR system Cascade subunit CasD
+K19126 casE, cse3; CRISPR system Cascade subunit CasE
+K19127 csy1; CRISPR-associated protein Csy1
+K19128 csy2; CRISPR-associated protein Csy2
+K19129 csy3; CRISPR-associated protein Csy3
+K19130 csy4, cas6f; CRISPR-associated endonuclease Csy4 [EC:3.1.-.-]
+K19131 csb1; CRISPR-associated protein Csb1
+K19132 csb2; CRISPR-associated protein Csb2
+K19133 csb3; CRISPR-associated protein Csb3
+K19134 csx10; CRISPR-associated protein Csx10
+K19135 csx14; CRISPR-associated protein Csx14
+K19136 csx17; CRISPR-associated protein Csx17
+K09952 csn1, cas9; CRISPR-associated endonuclease Csn1 [EC:3.1.-.-]
+K19137 csn2; CRISPR-associated protein Csn2
+K07016 csm1, cas10; CRISPR-associated protein Csm1
+K19138 csm2; CRISPR-associated protein Csm2
+K09002 csm3; CRISPR-associated protein Csm3
+K19139 csm4; CRISPR-associated protein Csm4
+K19140 csm5; CRISPR-associated protein Csm5
+K07061 cmr1; CRISPR-associated protein Cmr1
+K19076 cmr2, cas10; CRISPR-associated protein Cmr2
+K09127 cmr3; CRISPR-associated protein Cmr3
+K09000 cmr4; CRISPR-associated protein Cmr4
+K19141 cmr5; CRISPR-associated protein Cmr5
+K19142 cmr6; CRISPR-associated protein Cmr6
+K19143 csx1; CRISPR-associated protein Csx1
+K19144 csx3; CRISPR-associated protein Csx3
+K19145 csx16; CRISPR-associated protein Csx16
+K19146 csaX; CRISPR-associated protein CsaX
+K01153 hsdR; type I restriction enzyme, R subunit [EC:3.1.21.3]
+K01154 hsdS; type I restriction enzyme, S subunit [EC:3.1.21.3]
+K03427 hsdM; type I restriction enzyme M protein [EC:2.1.1.72]
+K01155 E3.1.21.4; type II restriction enzyme [EC:3.1.21.4]
+K06223 dam; DNA adenine methylase [EC:2.1.1.72]
+K13581 ccrM; modification methylase [EC:2.1.1.72]
+K07317 K07317; adenine-specific DNA-methyltransferase [EC:2.1.1.72]
+K07318 K07318; adenine-specific DNA-methyltransferase [EC:2.1.1.72]
+K07319 yhdJ; adenine-specific DNA-methyltransferase [EC:2.1.1.72]
+K00571 E2.1.1.72; site-specific DNA-methyltransferase (adenine-specific) [EC:2.1.1.72]
+K00558 DNMT1, dcm; DNA (cytosine-5)-methyltransferase 1 [EC:2.1.1.37]
+K00590 E2.1.1.113; site-specific DNA-methyltransferase (cytosine-N4-specific) [EC:2.1.1.113]
+K24451 zim; modification methylase
+K01156 res; type III restriction enzyme [EC:3.1.21.5]
+K07316 mod; adenine-specific DNA-methyltransferase [EC:2.1.1.72]
+K07451 mcrA; 5-methylcytosine-specific restriction enzyme A [EC:3.1.21.-]
+K07452 mcrB; 5-methylcytosine-specific restriction enzyme B [EC:3.1.21.-]
+K19147 mcrC; 5-methylcytosine-specific restriction enzyme subunit McrC
+K07448 mrr; restriction system protein
+K18920 hokA; protein HokA
+K18921 hokB; protein HokB
+K18919 hokC_D; protein HokC/D
+K18922 hokE; protein HokE
+K18870 sokB; sRNA antisense regulator of MokB and HokB protein
+K18871 sokC; sRNA antisense regulator of MokC and HokC protein
+K19048 symE; toxic protein SymE
+K18524 symR; sRNA antisense regulator of SymE protein
+K18862 ldrA_B_C_D; small toxic polypeptide LdrA/B/C/D
+K18863 rdlA_B_C_D; sRNA antisense regulator of LdrA/B/C/D protein
+K19148 tisB; small toxic protein TisB
+K18526 istR; sRNA antisense regulator of TisB protein
+K19149 ibsA; small toxic protein IbsA
+K19150 ibsB; small toxic protein IbsB
+K19151 ibsC; small toxic protein IbsC
+K19152 ibsD; small toxic protein IbsD
+K19153 ibsE; small toxic protein IbsE
+K18864 sibA; sRNA antisense regulator of IbsA protein
+K18865 sibB; sRNA antisense regulator of IbsB protein
+K18867 sibC; sRNA antisense regulator of IbsC protein
+K18868 sibD; sRNA antisense regulator of IbsD protein
+K18869 sibE; sRNA antisense regulator of IbsE protein
+K19154 shoB; small toxic protein ShoB
+K18872 ohsC; sRNA antisense regulator of ShoB protein
+K19779 ralR; endodeoxyribonuclease RalR [EC:3.1.-.-]
+K19780 ralA, rcbA; antisense regulator of RalR protein
+K07171 mazF, ndoA, chpA; mRNA interferase MazF [EC:3.1.-.-]
+K07172 mazE, chpAI; antitoxin MazE
+K26981 mazE1; antitoxin MazE1
+K26982 mazE2; antitoxin MazE2
+K26983 mazE3; antitoxin MazE3
+K26984 mazE4; antitoxin MazE4
+K26985 mazE5; antitoxin MazE5
+K26986 mazE6; antitoxin MazE6
+K26987 mazE7; antitoxin MazE7
+K26988 mazE8; antitoxin MazE8
+K26989 mazE9; antitoxin MazE9
+K07723 ndoAI; CopG family transcriptional regulator / antitoxin EndoAI
+K18841 chpB, chpBK; mRNA interferase ChpB [EC:3.1.-.-]
+K18842 chpS, chpBI; antitoxin ChpS
+K19155 yhaV; toxin YhaV [EC:3.1.-.-]
+K19156 prlF, sohA; antitoxin PrlF
+K06218 relE, stbE; mRNA interferase RelE/StbE
+K18918 relB; RHH-type transcriptional regulator, rel operon repressor / antitoxin RelB
+K18923 stbD; antitoxin StbD
+K19157 yafQ; mRNA interferase YafQ [EC:3.1.-.-]
+K07473 dinJ; DNA-damage-inducible protein J
+K19158 yoeB; toxin YoeB [EC:3.1.-.-]
+K19159 yefM; antitoxin YefM
+K07154 hipA; serine/threonine-protein kinase HipA [EC:2.7.11.1]
+K15773 hipB; HTH-type transcriptional regulator / antitoxin HipB
+K07339 hicA; mRNA interferase HicA [EC:3.1.-.-]
+K18843 hicB; antitoxin HicB
+K19160 yafO; mRNA interferase YafO [EC:3.1.-.-]
+K19161 yafN; antitoxin YafN
+K05839 hha; haemolysin expression modulating protein
+K19162 tomB; hha toxicity modulator TomB
+K03973 pspC; phage shock protein C
+K03970 pspB; phage shock protein B
+K19163 ccdB; toxin CcdB
+K19164 ccdA; antitoxin CcdA
+K19092 parE1_3_4; toxin ParE1/3/4
+K19093 parE2; toxin ParE2
+K07746 parD1_3_4; antitoxin ParD1/3/4
+K19094 parD2; antitoxin ParD2
+K07341 doc; death on curing protein
+K19165 phd; antitoxin Phd
+K19166 higB; mRNA interferase HigB [EC:3.1.-.-]
+K07334 higB-1; toxin HigB-1
+K18831 higA; HTH-type transcriptional regulator / antitoxin HigA
+K21498 higA-1; antitoxin HigA-1
+K13651 mqsR; motility quorum-sensing regulator / GCU-specific mRNA interferase toxin
+K13655 mqsA; HTH-type transcriptional regulator / antitoxin MqsA
+K18828 mvpA, vapC; tRNA(fMet)-specific endonuclease VapC [EC:3.1.-.-]
+K18829 mvpT, vapB; antitoxin VapB
+K19686 vapC; ribonuclease VapC [EC:3.1.-.-]
+K19687 vapB; antitoxin VapB
+K16214 pezT; UDP-N-acetylglucosamine kinase [EC:2.7.1.176]
+K18830 pezA; HTH-type transcriptional regulator / antitoxin PezA
+K21487 yobL; toxin YobL [EC:3.1.-.-]
+K21488 yobK; antitoxin YobK
+K21489 yokI; toxin YokI [EC:3.1.-.-]
+K21490 yokJ; antitoxin YokJ
+K21491 yqcG; toxin YqcG [EC:3.1.-.-]
+K21492 yqcF; antitoxin YqcF
+K21493 yxiD; toxin YxiD [EC:3.1.-.-]
+K21494 yxxD; antitoxin YxxD
+K07062 fitB; toxin FitB [EC:3.1.-.-]
+K21495 fitA; antitoxin FitA
+K21496 BC_0920; toxin [EC:3.1.-.-]
+K21497 BC_0921; antitoxin
+K19334 tabA; biofilm protein TabA
+K13650 mcbA; MqsR-controlled colanic acid and biofilm protein A
+K12148 bssS; biofilm regulator BssS
+K19688 bssR; biofilm regulator BssR
+K12151 bhsA; multiple stress resistance protein BhsA
+K03531 ftsZ; cell division protein FtsZ
+K03569 mreB; rod shape-determining protein MreB and related proteins
+K02621 parC; topoisomerase IV subunit A [EC:5.6.2.2]
+K02622 parE; topoisomerase IV subunit B [EC:5.6.2.2]
+K01885 EARS, gltX; glutamyl-tRNA synthetase [EC:6.1.1.17]
+K07060 nob1; endoribonuclease Nob1 [EC:3.1.-.-]
+K19167 abiQ; protein AbiQ
+K18837 cbtA; cytoskeleton-binding toxin CbtA and related proteins
+K18838 cbeA; cytoskeleton bundling-enhancing protein CbeA and related proteins
+K19168 cptA; toxin CptA
+K09159 cptB; antitoxin CptB
+K18839 ghoT; toxin GhoT
+K18840 ghoS; antitoxin GhoS
+K04487 iscS, NFS1; cysteine desulfurase [EC:2.8.1.7]
+K19169 dndB; DNA sulfur modification protein DndB
+K19170 dndC; DNA sulfur modification protein DndC
+K19171 dndD; DNA sulfur modification protein DndD
+K19172 dndE; DNA sulfur modification protein DndE
+K19173 dptF; DNA phosphorothioation-dependent restriction protein DptF
+K19174 dptG; DNA phosphorothioation-dependent restriction protein DptG
+K19175 dptH; DNA phosphorothioation-dependent restriction protein DptH

@@ -1,0 +1,84 @@
+03008 Ribosome biogenesis in eukaryotes [PATH:ko03008]
+K03115 CSNK2B; casein kinase II subunit beta
+K03097 CSNK2A; casein kinase II subunit alpha [EC:2.7.11.1]
+K14544 UTP22, NOL6; U3 small nucleolar RNA-associated protein 22
+K14545 RRP7; ribosomal RNA-processing protein 7
+K14546 UTP5, WDR43; U3 small nucleolar RNA-associated protein 5
+K14547 UTP8; U3 small nucleolar RNA-associated protein 8
+K14548 UTP4, CIRH1A; U3 small nucleolar RNA-associated protein 4
+K14549 UTP15; U3 small nucleolar RNA-associated protein 15
+K14550 UTP10, HEATR1; U3 small nucleolar RNA-associated protein 10
+K14551 UTP9; U3 small nucleolar RNA-associated protein 9
+K14552 NAN1, UTP17, WDR75; NET1-associated nuclear protein 1 (U3 small nucleolar RNA-associated protein 17)
+K14553 UTP18; U3 small nucleolar RNA-associated protein 18
+K14554 UTP21, WDR36; U3 small nucleolar RNA-associated protein 21
+K14555 UTP13, TBL3; U3 small nucleolar RNA-associated protein 13
+K14556 DIP2, UTP12, WDR3; U3 small nucleolar RNA-associated protein 12
+K14557 UTP6; U3 small nucleolar RNA-associated protein 6
+K14558 PWP2, UTP1; periodic tryptophan protein 2
+K14559 MPP10; U3 small nucleolar RNA-associated protein MPP10
+K14560 IMP3; U3 small nucleolar ribonucleoprotein protein IMP3
+K14561 IMP4; U3 small nucleolar ribonucleoprotein protein IMP4
+K14562 TCOF1; Treacher Collins syndrome protein
+K14563 NOP1, FBL; rRNA 2'-O-methyltransferase fibrillarin [EC:2.1.1.-]
+K14564 NOP56; nucleolar protein 56
+K14565 NOP58; nucleolar protein 58
+K12845 SNU13, NHP2L; U4/U6 small nuclear ribonucleoprotein SNU13
+K11131 DKC1, NOLA4, CBF5; H/ACA ribonucleoprotein complex subunit 4 [EC:5.4.99.-]
+K11129 NHP2, NOLA2; H/ACA ribonucleoprotein complex subunit 2
+K11128 GAR1, NOLA1; H/ACA ribonucleoprotein complex subunit 1
+K11130 NOP10, NOLA3; H/ACA ribonucleoprotein complex subunit 3
+K14566 UTP24, FCF1; U3 small nucleolar RNA-associated protein 24
+K14567 UTP14; U3 small nucleolar RNA-associated protein 14
+K03685 rnc, DROSHA, RNT1; ribonuclease III [EC:3.1.26.3]
+K14568 EMG1, NEP1; rRNA small subunit pseudouridine methyltransferase Nep1 [EC:2.1.1.260]
+K14569 BMS1; ribosome biogenesis protein BMS1
+K14521 NAT10, KRE33; N-acetyltransferase 10 [EC:2.3.1.-]
+K11108 RCL1; RNA 3'-terminal phosphate cyclase-like protein
+K01164 POP1; ribonuclease P/MRP protein subunit POP1 [EC:3.1.26.5]
+K14522 POP3; ribonuclease P/MRP protein subunit POP3 [EC:3.1.26.5]
+K14523 RPP38; ribonucleases P/MRP protein subunit RPP38 [EC:3.1.26.5]
+K03538 POP4, RPP29; ribonuclease P protein subunit POP4 [EC:3.1.26.5]
+K03537 POP5; ribonuclease P/MRP protein subunit POP5 [EC:3.1.26.5]
+K14524 POP6; ribonuclease P/MRP protein subunit POP6 [EC:3.1.26.5]
+K14525 RPP25; ribonucleases P/MRP protein subunit RPP25 [EC:3.1.26.5]
+K14526 POP7, RPP2; ribonuclease P/MRP protein subunit POP7 [EC:3.1.26.5]
+K14527 RPP20, POP7; ribonuclease P/MRP protein subunit RPP20 [EC:3.1.26.5]
+K14528 POP8; ribonuclease P/MRP protein subunit POP8 [EC:3.1.26.5]
+K03539 RPP1, RPP30; ribonuclease P/MRP protein subunit RPP1 [EC:3.1.26.5]
+K14531 SNM1; ribonuclease MRP protein subunit SNM1
+K14532 RMP1; ribonuclease MRP protein subunit RMP1
+K14530 RPP40; ribonucleases P/MRP protein subunit RPP40 [EC:3.1.26.5]
+K14570 REX1, REXO1, REXO5, RNH70; RNA exonuclease [EC:3.1.-.-]
+K13288 orn, REX2, REXO2; oligoribonuclease [EC:3.1.-.-]
+K12618 XRN1, SEP1, KEM1; 5'-3' exoribonuclease 1 [EC:3.1.13.-]
+K12619 XRN2, RAT1; 5'-3' exoribonuclease 2 [EC:3.1.13.-]
+K06943 NOG1; nucleolar GTP-binding protein
+K14537 NUG2, GNL2; nuclear GTP-binding protein
+K14538 NUG1, GNL3; nuclear GTP-binding protein
+K14571 RIX7, NVL; ribosome biogenesis ATPase
+K14572 MDN1, REA1; midasin
+K14573 NOP4, RBM28; nucleolar protein 4
+K11883 NOB1; RNA-binding protein NOB1
+K14758 HRR25; casein kinase I homolog HRR25 [EC:2.7.11.1]
+K07936 RAN; GTP-binding nuclear protein Ran
+K14290 XPO1, CRM1; exportin-1
+K07562 NMD3; 60S ribosomal export protein NMD3
+K14284 NXF, TAP, MEX67; nuclear RNA export factor
+K14543 MTR2; mRNA transport regulator MTR2
+K14285 NXT1_2, P15; NTF2-related export protein 1/2
+K03264 EIF6; translation initiation factor 6
+K14574 SDO1, SBDS; ribosome maturation protein SDO1
+K14536 RIA1; ribosome assembly protein 1 [EC:3.6.5.-]
+K14539 LSG1; large subunit GTPase 1 [EC:3.6.1.-]
+K14575 AFG2, DRG1, SPATA5; AAA family ATPase
+K18532 AK6, FAP7; adenylate kinase [EC:2.7.4.3]
+K07178 RIOK1; RIO kinase 1 [EC:2.7.11.1]
+K07179 RIOK2; RIO kinase 2 [EC:2.7.11.1]
+K01979 SSUrRNA; small subunit 18S ribosomal RNA
+K01986 LSU5.8S; large subunit 5.8S ribosomal RNA
+K01982 LSUrRNA; large subunit 28S/25S ribosomal RNA
+K01981 LSU5S; large subunit 5S ribosomal RNA
+K14483 SNORD3, U3, SNR17; small nucleolar RNA SNORD3
+K14576 RMRP; small nucleolar RNA MRP
+K26477 NME1; small nucleolar RNA MRP

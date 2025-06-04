@@ -1,0 +1,30 @@
+<TABLE>
+<TR><TD COLSPAN=5><a name="description"></a>&nbsp;<p><p><span> </span></p>
+<div class='desctit' style='text-align: center;'><strong>9.B.220.&nbsp; The CAAX Protease Self-Immunity (CAAX-PSI) Family<br /><br /></strong></div>
+<p>Members of the CAAX-PSI family are proteases (after a isoprenyl group is attached 
+to the Cys residue in the C-terminal CAAX motif of a protein to attach 
+it to the membrane, the AAX tripeptide being removed by one of the CAAX 
+prenyl proteases) (<span id='ref34547099.11343912' class='cite'>Pei and Grishin 2001</span>). The family contains the CAAX prenyl protease. The 
+proteins contain a highly conserved Glu-Glu motif at the amino end of 
+the alignment. The alignment also contains two histidine residues that 
+may be involved in zinc binding. While they are involved in membrane 
+anchoring of proteins in eukaryotes, little is known about their 
+function in prokaryotes (<span id='ref34547099.11343912' class='cite'>Pei and Grishin 2001</span>). In some known bacteriocin loci, Abi genes have 
+been found downstream of bacteriocin structural genes where they are 
+probably involved in self-immunity (<span id='ref34547100.20154137' class='cite'>Kjos <em>et al.</em> 2010</span>). Investigation of the 
+bacteriocin-like loci in the Gram positive bacterial locus from 
+Lactobacillus sakei 23K confirmed that the bacteriocin-like genes 
+(sak23Kalphabeta) exhibited antimicrobial activity when expressed in a 
+heterologous host and that the associated Abi gene (sak23Ki) conferred 
+immunity against the cognate bacteriocin. Interestingly, the immunity 
+genes from three similar systems conferred a high degree of 
+cross-immunity against each other's bacteriocins, suggesting the 
+recognition of a common receptor. Site-directed mutagenesis demonstrated
+ that the conserved motifs constituting the putative proteolytic active 
+site of the Abi proteins are essential for the immunity function of 
+Sak23Ki - thus a new concept in self-immunity (<span id='ref34547100.20154137' class='cite'>Kjos <em>et al.</em> 2010</span>).</p>
+<p>&nbsp;</p><BR></TD></TR><TR><TD COLSPAN=5><HR>This family belongs to the <A HREF="superfamily.php?id=68">CAAX Superfamily</A>.<BR><HR></TD></TR><TR><TD COLSPAN=5><a name="references"></a>&nbsp;<p><B>References:</B><P></TD></TR><TR><TD COLSPAN=5>Kjos, M., L. Snipen, Z. Salehian, I.F. Nes, and D.B. Diep. (2010).  The abi proteins and their involvement in bacteriocin self-immunity.  J. Bacteriol. 192: 2068-2076.<BR><HR></TD></TR><TR><TD COLSPAN=5>Pei, J. and N.V. Grishin. (2001).  Type II CAAX prenyl endopeptidases belong to a novel superfamily of putative membrane-bound metalloproteases.  Trends. Biochem. Sci. 26: 275-277.<BR><HR></TD></TR><TR><TD COLSPAN=5><B>Examples:</B><P></TD></TR><TR bgcolor="#99ccff"><TD>TC#</TD><TD>Name</TD><TD>Organismal Type</TD><TD>Example</TD></TR><TR bgcolor="#99ccff"><TD><b><A NAME="9.B.220.1.1"></A><A HREF="tcprotein.php?substrate=9.B.220.1.1&tcname=">9.B.220.1.1</a></TD><TD><b><font color=#3333CC><p>Uncharacterized CAAX protease of 231 aas and 8 TMSs.</p></TD><TD><b><font color=#3333CC></TD><TD><b><font color=#3333CC><p>UP of Candidatus <em>Wolfebacteria </em></p>
+<pre class="genbank"><em>            bacterium</em></pre></TD></TR><TR bgcolor="#ffffff" valign=top><TD COLSPAN=4 valign=top>&nbsp;</CENTER></TD></TR><TR><TD COLSPAN=5><B>Examples:</B><P></TD></TR><TR bgcolor="#99ccff"><TD>TC#</TD><TD>Name</TD><TD>Organismal Type</TD><TD>Example</TD></TR><TR bgcolor="#99ccff"><TD><b><A NAME="9.B.220.2.1"></A><A HREF="tcprotein.php?substrate=9.B.220.2.1&tcname=">9.B.220.2.1</a></TD><TD><b><font color=#3333CC><p>Peptidase A24 of 254 aas and 8 TMSs in a 2 + 4 + 2 arrangement.&nbsp; Homologous to type 4 prepilin-like protein leader peptidases listed under TC#s 3.A.15, 1.A.54 and 3.A.11.</p></TD><TD><b><font color=#3333CC></TD><TD><b><font color=#3333CC><p>Peptidase A24 of <em>Nocardioides jensenii</em></p></TD></TR><TR bgcolor="#ffffff" valign=top><TD COLSPAN=4 valign=top>&nbsp;</CENTER></TD></TR><TR bgcolor="#99ccff"><TD><b><A NAME="9.B.220.2.2"></A><A HREF="tcprotein.php?substrate=9.B.220.2.2&tcname=">9.B.220.2.2</a></TD><TD><b><font color=#3333CC><p>Prepilin peptidase of 259 aas and 8 TMSs</p></TD><TD><b><font color=#3333CC></TD><TD><b><font color=#3333CC><p>Peptidase of<em> Amycolatopsis kentuckyensis</em></p></TD></TR><TR bgcolor="#ffffff" valign=top><TD COLSPAN=4 valign=top>&nbsp;</CENTER></TD></TR><TR><TD COLSPAN=5><B>Examples:</B><P></TD></TR><TR bgcolor="#99ccff"><TD>TC#</TD><TD>Name</TD><TD>Organismal Type</TD><TD>Example</TD></TR><TR><TD COLSPAN=5><B>Examples:</B><P></TD></TR><TR bgcolor="#99ccff"><TD>TC#</TD><TD>Name</TD><TD>Organismal Type</TD><TD>Example</TD></TR><TR><TD COLSPAN=5><B>Examples:</B><P></TD></TR><TR bgcolor="#99ccff"><TD>TC#</TD><TD>Name</TD><TD>Organismal Type</TD><TD>Example</TD></TR></TABLE>
+</CENTER>
+</BODY>
+</HTML>

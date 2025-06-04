@@ -1,0 +1,45 @@
+<TABLE>
+<TR><TD COLSPAN=5><a name="description"></a>&nbsp;<p><p style='text-align: center;'><strong>5.B.14.&nbsp; The Flavin-based Extracellular Electron Transfer (F-EET) Family&nbsp;</strong>&nbsp;</p>
+<p>Extracellular electron transfer (EET) describes microbial 
+bioelectrochemical processes in which electrons are transferred from the
+ cytosol to the exterior of the cell<sup> </sup>or vice versa. Mineral-respiring Gram-negaive bacteria use elaborate haem-based electron transfer mechanisms (see TC#s 5.B.8 and 5.B.9).&nbsp;<span id='ref34549341.30209391' class='cite'>Light <em>et al.</em> 2018</span> showed that the food-borne pathogen, <em>Listeria 
+monocytogenes</em>, uses a flavin-based EET mechanism to deliver 
+electrons to extracellular iron or an electrode. By performing a forward genetic 
+screen to identify <em>L. monocytogenes</em> mutants with diminished 
+extracellular ferric iron reductase activity, an 
+eight-gene locus was identified that is responsible for EET. This locus encodes a 
+specialized cytoplasmic NADH dehydrogenase that segregates EET from aerobic 
+respiration by channelling electrons to a discrete membrane-localized 
+quinone pool. Other proteins facilitate the assembly of an
+extracellular flavoprotein that, in conjunction with free-molecule 
+flavin shuttles, mediates electron transfer to extracellular acceptors such as Fe<sup>3+</sup>. 
+This system thus establishes a simple electron conduit that is 
+compatible with the single-membrane&nbsp;structure of the Gram-positive cell.
+ Activation of EET supports growth on non-fermentable carbon sources, 
+and an EET mutant exhibited a competitive defect within the mouse 
+gastrointestinal tract. Orthologues of the genes responsible for EET are
+ present in hundreds of species across the Firmicutes phylum, including 
+multiple pathogens and commensal members of the intestinal microbiota, 
+and correlate with EET activity in assayed strains (<span id='ref34549344.30209391' class='cite'>Light <em>et al.</em> 2018</span>). In fact, EET is probably associated with half of all bacteria, and the process requires extracytoplasmic flavinylation by AbpE, a&nbsp; mediator of extracytosolic electron transfer (<span id='ref34553329.34032212' class='cite'>M&eacute;heust <em>et al.</em> 2021</span>).</p>
+<p>Type II NADH dehydrogenase&mdash;or Ndh1 in <em>L. monocytogenes</em>&mdash;catalyses 
+electron exchange from cytosolic NADH to a lipid-soluble quinone 
+derivative, which is the first step in the respiratory electron 
+transport chain.
+ Ndh2, which is encoded by&nbsp;one of the genes in the EET locus, is&nbsp;a 
+protein with an N-terminal type II NADH dehydrogenase domain and a 
+unique transmembrane C-terminal domain that is absent from functionally 
+characterized enzymes. Consistent with&nbsp;Ndh2 being a novel NADH dehydrogenase, <span id='ref34549344.30209391' class='cite'>Light <em>et al.</em> 2018</span> observed that EET activation correlated with cellular NAD<sup>+</sup> levels.
+ Furthermore, the proteins DmkA and DmkB&mdash;which are encoded by two other 
+genes in the EET locus&mdash;are paralogues of the highly conserved microbial 
+enzymes MenA and HepT, which catalyse terminal steps in the production 
+of the quinone demethylmenaquinone. In <em>Escherichia coli</em>,
+ three different quinones&mdash;demethylmenaquinone, menaquinone and 
+ubiquinone&mdash;are used to selectively channel electrons to different 
+electron acceptors. Thus, a distinct quinone derivative and NADH 
+dehydrogenase functionally segregate electron fluxes for EET and 
+aerobic respiration (<span id='ref34549344.30209391' class='cite'>Light <em>et al.</em> 2018</span>).</p><BR></TD></TR><TR><TD COLSPAN=5><a name="references"></a>&nbsp;<p><B>References:</B><P></TD></TR><TR><TD COLSPAN=5>Light, S.H., L. Su, R. Rivera-Lugo, J.A. Cornejo, A. Louie, A.T. Iavarone, C.M. Ajo-Franklin, and D.A. Portnoy. (2018).  A flavin-based extracellular electron transfer mechanism in diverse Gram-positive bacteria.  Nature 562: 140-144.<BR><HR></TD></TR><TR><TD COLSPAN=5>Méheust, R., S. Huang, R. Rivera-Lugo, J.F. Banfield, and S.H. Light. (2021).  Post-translational flavinylation is associated with diverse extracytosolic redox functionalities throughout bacterial life.  Elife 10:. [Epub:  Ahead of Print]<BR><HR></TD></TR><TR><TD COLSPAN=5><B>Examples:</B><P></TD></TR><TR bgcolor="#99ccff"><TD>TC#</TD><TD>Name</TD><TD>Organismal Type</TD><TD>Example</TD></TR><TR bgcolor="#99ccff"><TD><b><A NAME="5.B.14.1.1"></A><A HREF="tcprotein.php?substrate=5.B.14.1.1&tcname=">5.B.14.1.1</a></TD><TD><b><font color=#3333CC><p>Extracellular electron transfer chain, (EET) possibly consisting of an 8 protein system, all constituents of which are encoded within a single gene cluster (<span id="ref34549344.30209391" class="cite">Light <em>et al.</em> 2018</span>). Some of these proteins may serve as auxiliary proteins rather than direct electron transfer proteins. One such protein is AbpE (i.e., Q8XQC0; DUF2271) which posttranslationally flavinylates EET proteins (<span id="ref34553329.34032212" class="cite">M&eacute;heust <em>et al.</em> 2021</span>). <span>Flavin transferases catalyze the transfer of 
+the FMN moiety of FAD to the hydroxyl group of a
+ threonine residue in a target flavoprotein.</span> See family description for more details.</p></TD><TD><b><font color=#3333CC></TD><TD><b><font color=#3333CC><p>ETT of <em>Listeria monocytogenes<br /></em>FmnA, 266 aas and 6 TMSs;<br />DmkA, 319 aas and 9 TMSs, Q8Y438 (hits ABC-type porters)<br />FmnB, 360 aas and 1 N-terminal TMS, (an FAD:protein FMM transferase), Q8Y437<br />PplA, 299 aas and 1 N-erminal TMS, Q8Y436<br />Ndh2, 628 aas and 4-6 TMSs, Q8Y435<br />EetA, 144 aas and 1 N-terminal TMSs, Q8Y434<br />EetB, 180 aas and 5 TMSs, Q927J9 (hits 2.A.87.3.1 with 35% identity)<br />DmkB, 326 aas and 3 putative TMSs, Q8Y433<em><br /></em></p></TD></TR><TR bgcolor="#ffffff" valign=top><TD COLSPAN=4 valign=top>&nbsp;</CENTER></TD></TR></TABLE>
+</CENTER>
+</BODY>
+</HTML>

@@ -1,0 +1,72 @@
+gene	GENE	name
+maxbin2.spades.001_1_1361	Acs	acs
+maxbin2.spades.001_1_501	Acs 2	acs 2
+maxbin2.spades.001_1_29	Acs 3	acs 3
+maxbin2.spades.001_1_743	atpA	atpA
+maxbin2.spades.001_1_1471	Cdh	CdhE
+maxbin2.spades.001_1_1470	Cdh	CdhD
+maxbin2.spades.001_1_1468	Cdh	CdhC
+maxbin2.spades.001_1_1467	Cdh	CdhB
+maxbin2.spades.001_1_1466	Cdh	CdhA
+maxbin2.spades.001_1_1390	Cdh	CdhE
+maxbin2.spades.001_1_1468	Cdh 2	CdhA 2
+maxbin2.spades.001_1_193	eha	ehaA
+maxbin2.spades.001_1_1030	ehb	ehbB
+maxbin2.spades.001_1_1016	ehb	ehbP
+maxbin2.spades.001_1_919	Fdh	fdhB
+maxbin2.spades.001_1_1069	Frh	frhA
+maxbin2.spades.001_1_1067	Frh	frhG
+maxbin2.spades.001_1_1066	Frh	frhB
+maxbin2.spades.001_1_151	Frh 2	frhB 2
+maxbin2.spades.001_1_8	Frh 3	frhB 3
+maxbin2.spades.001_1_211	Ftr.1	ftr
+maxbin2.spades.001_1_1038	Ftr.2	ftr
+maxbin2.spades.001_1_1317	Fwd-Fmd.1	fwdB_fmdB
+maxbin2.spades.001_1_1316	Fwd-Fmd.1	fwdC_fmdC
+maxbin2.spades.001_1_1315	Fwd-Fmd.1	fwdA_fmdA
+maxbin2.spades.001_1_1314	Fwd-Fmd.1	fwdD_fmdD
+maxbin2.spades.001_1_1313	Fwd-Fmd.1	fwdG
+maxbin2.spades.001_1_1312	Fwd-Fmd.1	fwdF_fmdF
+maxbin2.spades.001_1_1311	Fwd-Fmd.1	fwdH
+maxbin2.spades.001_1_1110	Fwd-Fmd.1	fwdE_fmdE
+maxbin2.spades.001_1_715	Fwd-fmd.2	fwdF_fmdF
+maxbin2.spades.001_1_709	Fwd-fmd.2	fwdB_fmdB
+maxbin2.spades.001_1_708	Fwd-fmd.2	fwdC_fmdC
+maxbin2.spades.001_1_707	Fwd-fmd.2	fwdE_fmdE
+maxbin2.spades.001_1_50	Fwd-Fmd.2	fwdC_fmdC
+maxbin2.spades.001_1_1148	Hdr	hdrA2
+maxbin2.spades.001_1_1623	Hdr 2	hdrB2
+maxbin2.spades.001_1_1622	Hdr 2	hdrC2
+maxbin2.spades.001_1_923	Hmd	hmd
+maxbin2.spades.001_1_569	Mch	mch
+maxbin2.spades.001_1_949	Mcr I	mcrB
+maxbin2.spades.001_1_948	Mcr I	mcrD
+maxbin2.spades.001_1_947	Mcr I	McrC 2
+maxbin2.spades.001_1_946	Mcr I	mcrG
+maxbin2.spades.001_1_945	Mcr I	mcrA
+maxbin2.spades.001_1_912	Mcr II	mcrB
+maxbin2.spades.001_1_911	Mcr II	McrD
+maxbin2.spades.001_1_910	Mcr II	mcrG
+maxbin2.spades.001_1_909	Mcr II	mcrA
+maxbin2.spades.001_1_1507	Mer	mer
+maxbin2.spades.001_1_1224	Mtd	mtd
+maxbin2.spades.001_1_944	Mtr.1	mtrE
+maxbin2.spades.001_1_943	Mtr.1	mtrD
+maxbin2.spades.001_1_942	Mtr.1	mtrC
+maxbin2.spades.001_1_941	Mtr.1	mtrB
+maxbin2.spades.001_1_939	Mtr.1	mtrF
+maxbin2.spades.001_1_938	Mtr.1	mtrG
+maxbin2.spades.001_1_937	Mtr.1	mtrH
+maxbin2.spades.001_1_940	MtrA.1	mtrA
+maxbin2.spades.001_1_841	MtrA.2	mtrA
+maxbin2.spades.001_1_918	mvh	mvhD
+maxbin2.spades.001_1_916	mvh	mvhD
+maxbin2.spades.001_1_915	mvh	mvhG
+maxbin2.spades.001_1_914	mvh	mvhA
+maxbin2.spades.001_1_820	Ofor	oforB
+maxbin2.spades.001_1_819	Ofor	oforA
+maxbin2.spades.001_1_339	Ofor 2	oforB 2
+maxbin2.spades.001_1_1496	Por	porC - porG
+maxbin2.spades.001_1_1495	Por	porD
+maxbin2.spades.001_1_1494	Por	porA
+maxbin2.spades.001_1_1493	Por	porB

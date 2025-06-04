@@ -1,0 +1,109 @@
+Family	Description	Abbreviation
+1.D.169	The Ion Transporting beta-Alanine Nanodot (Ala-CD) Family	C-ND
+1.D.211	The Phenylalanine-based Peptide Cation Channel (PAP-CCh) Family	PAP-CCh
+1.D.78	The Acyclic 3-Aminobenzoate/Alanine Octapeptide (ACOC) Family	ACOC
+2.A.104	The L-Alanine Exporter (AlaE) Family	AlaE
+2.A.25	The Alanine or Glycine:Cation Symporter (AGCS) Family	AGCS
+2.A.81	The Aspartate:Alanine Exchanger (AAEx) Family	AAE
+1.B.35	The Oligogalacturonate-specific Porin (KdgM) Family	KdgM
+1.B.82	The Chloroplast Trigalactosyldiacylglycerol-4 Porin (TGD4) Family.	TGD4
+1.D.138	The GALA Synthetic Peptide (GALA) Family	GALA
+1.D.169	The Ion Transporting beta-Alanine Nanodot (Ala-CD) Family	C-ND
+1.D.174	The Synthetic Self-assembled 2-hydroxy-N1,N3-diarylisophthalamide (SSHI) Family	SSHI
+1.D.175	The Artificial Lipoid-supported Anion Porin Ensemble (ALAPE) Family	ALAPE
+1.D.211	The Phenylalanine-based Peptide Cation Channel (PAP-CCh) Family	PAP-CCh
+1.D.5	The Alamethicin (ALM) or Peptaibol Antibiotic Channel-forming (Alamethicin) Family	Alamethicin
+1.D.78	The Acyclic 3-Aminobenzoate/Alanine Octapeptide (ACOC) Family	ACOC
+2.A.104	The L-Alanine Exporter (AlaE) Family	AlaE
+2.A.25	The Alanine or Glycine:Cation Symporter (AGCS) Family	AGCS
+2.A.81	The Aspartate:Alanine Exchanger (AAEx) Family	AAE
+2.B.17	The Isophthalaminde Derivative H+:Cl- Co-transporter (IDC) Family	IDC
+2.B.78	The Synthetic Isophthalamide Anion Transporter (IPA-AT) Family	IPA-AT
+2.A.64	The Twin Arginine Targeting (Tat) Family	Tat
+8.A.224	The Splicing factor, Arginine/Serine-rich 19 (SCAF1) Family	SCAF1
+9.A.5	The Putative Arginine Transporter (ArgW) Family	ArgW
+2.A.13.1.3	C4-dicarboxylate transporter, YhiT (probably transports succinate, fumarate, aspartate, asparagine, carbamoyl phosphate and dihydroorotate; Zaharik et al., 2007)	Bacteria
+2.A.25.1.9	Probable Glycine/alanine/asparagine/glutamine uptake porter, AgcS (Bualuang et al. 2014).	Bacteria
+2.A.3.1.24	Asparagine transporter of 499 aas and 12 TMSs, 91% identical to the orthologue in Salmonella enterica (2.A.3.1.8) (Jennings et al. 1995).	Bacteria
+2.A.3.1.8	Asparagine permease (AnsP) of 497 aas and 12 TMSs (Jennings et al. 1995).	Bacteria
+2.A.3.11.1	The aspartate uptake permease, YveA (also transports L-aspartate hydroxamate and glutamate, and possibly asparagine and glutamine; Lorca et al., 2003)	Bacteria
+2.A.3.9.2	Spore germination protein B2 (BB) (amino acid [D-alanine and L-asparagine] receptor)	Bacteria
+2.A.7.3.2	YdeD (EamA) efflux pump for O-acetylserine, cysteine, asparagine and glutamine (Dassler et al., 2000; Franke et al. 2003)	Bacteria
+3.A.1.3.19	Acidic amino acid uptake porter, AatJMQP (Singh and Röhm, 2008). It is the sole system that transports glutamate and glutamine, but it can also transport aspartate and asparagine (Singh and Röhm 2008).	Bacteria
+3.A.1.3.25	Glutamine transporter, GlnQP. Takes up glutamine, asparagine and glutamate which compete for each other for binding to the substrate/transmembrane protein constituent of the system (Fulyani et al. 2015). Tandem substrate binding domains differ in substrate specificity and affinity, allowing cells to efficiently accumulate different amino acids via a single ABC transporter. Analysis revealed the roles of individual residues in determining the substrate affinity (Fulyani et al. 2013). Protein-protein interactions and conformational states were studied simultaneously using PIFE-FRET (Ploetz et al. 2021).	Bacteria
+3.A.1.3.7	Glutamate/glutamine/aspartate/asparagine porter	Bacteria
+3.E.1.1.1	Bacteriodophisna	Archaea
+2.A.81	The Aspartate:Alanine Exchanger (AAEx) Family	AAE
+9.A.70	The Aspartate Amino Transferase (AAT) Family	AAT
+9.B.3	The Cysteine Protease Binding Protein-8 (CPBP8) Family	CPBP8
+1.A.41	The Avian Reovirus p10 Viroporin/Glutamine Dumper 1 (p10 Viroporin/GDU1) Family	p10 Viroporin/GDU1
+1.D.9	The Polyglutamine Ion Channel (PG-IC) Family	PG-IC
+1.A.10	The Glutamate-gated Ion Channel (GIC) Family of Neurotransmitter Receptors	GIC
+2.A.27	The Glutamate:Na+ Symporter (ESS) Family	ESS
+2.A.68	The p-Aminobenzoyl-glutamate Transporter (AbgT) Family	AbgT
+9.B.321	The Actinobacterial Nutrient-sensing Signal Transduction Pathway Controlling Glutamate Metabolism (SigT) Family	SigT
+9.B.33	The Sensor Histidine Kinase (SHK) Family	SHK
+1.D.100	The Leucine (L)-Lysine (K) Synthetic Peptide Channel-forming (LK-SPC) Family	LK-SPC
+1.D.100	The Leucine (L)-Lysine (K) Synthetic Peptide Channel-forming (LK-SPC) Family	LK-SPC
+2.A.124	The Lysine Exporter (LysO) Family	LysO
+2.A.75	The L-Lysine Exporter (LysE) Family	LysE
+2.A.3.8.4	L-methionine transporter, MUP1. Also transports selenomethionine (SeMet) (Kitajima et al. 2010).	Eukaryota
+2.A.35.1.5	The putative methionine porter, MetT. Regulated by S-adenosylmethionine-dependent repressor MetJ (Rodionov et al. 2011).	Bacteria
+2.A.35.1.8	Predicted methionine uptaie cation symporter, MetT, of 433 aas and 12 TMSs (Rodionov et al. 2004).	Bacteria
+2.A.7.3.20	S-adenosylmethionine/S-adenosylhomocysteine transporter (SAM/SAH transporter) (SAMHT; CTL843). May function in SAM uptake and SAH export, perhaps by an SAM/SAH antiport mechanism (Binet et al. 2011).	Bacteria
+2.A.7.3.7	"The S-adenosylmethionine uptake transporter, Sam (Tucker et al., 2003) (may function by an exchange mechanism (i.e., S-adenosyl- 
+ methionine/S-adenosylhomocysteine exchange))"	Bacteria
+2.A.76.1.5	The leucine exporter (LeuE; YeaS) (binds and probably transports L-methionine, L-histidine, L-α-amino-n-butyrate, norleucine, azaleucine, S(2-aminoethyl)-L-cysteine, 3,4-dehydro-DL-proline, L-alanine, and both D- and L-valine) (Kutukova et al., 2005; Hori et al., 2011; Radi et al. 2022). Expression is under the control of the leucine-responsive protein, Lrp, and amino acids in the medium (Kutukova et al. 2005). Mutation of the leuE gene allows tolerance to high levels of histidine, presumably by allowing histidine efflux (Radi et al. 2022).	Bacteria
+2.A.78.1.2	Branched chain amino acid efflux pump, BrnEF (extrudes L-methionine, L-isoleucine, L-leucine and L-valine) (Trötschel et al., 2005). Its deletion results in a slight increase (13%) in lysine production and a decrease in cell mass (Xiao et al. 2020).	Bacteria
+2.A.78.1.3	L-Methionine efflux pump (probably exports other neutral, hydrophobic amino acids as well; R. Figge, personal communication)	Bacteria
+3.A.1.24.1	The L- and D-methionine porter (also transports formyl-L-methionine and other methionine derivatives) (Zhang et al., 2003). The 3.7A structure of MetNI has been solved. An allosteric regulatory mechanism operates at the level of transport activity, so increased intracellular levels of the transported ligand stabilize an inward-facing, ATPase-inactive state of MetNI to inhibit further ligand translocation into the cell (Kadaba et al., 2008). The structure of an MetQ homologue in Neisseria meningitidis has been solved at 2.25 Å resolution revealing a bound methionine in the cleft between the two domains (Yang et al. 2009). Conformational changes in MetQ provide substrate access through the binding protein to the transmembrane translocation pathway. MetQ likely mediates uptake of methionine derivatives through two mechanisms: in the methionine-bound form, substrate is delivered from the periplasm to the transporter (the canonical mechanism) and in the apo form, it facilitates ligand binding when complexed to the transporter (the noncanonical mechanism). This dual role of substrate-binding proteins was proposed to provide a kinetic strategy for ABC transporters to transport both high- and low-affinity substrates present in a physiological concentration range (Nguyen et al. 2018).	Bacteria
+3.A.1.24.2	The L- and D-methionine porter (also transports methionine sulfoxide (Hullo et al., 2004)	Bacteria
+3.A.1.24.3	The methionine porter, AtmBDE (Sperandio et al., 2007)	Bacteria
+3.A.1.24.4	L-Methionine uptake porter, MetQNI	Bacteria
+3.A.1.24.6	Putative peptide transporter, PepABC. The three components of this system are encoded in an operon with a gene encoding a peptidase (Q04MS7), providing the only tentative evidence for the substrate transported. However the similarity with the methionine transporter of Streptococcus mutans (TC# 3.A.1.24.3) suggests that this porter may also be a methionine uptake porter.	Bacteria
+3.A.1.29.1	The putative methionine precursor/uptake transporter, MtsTUV (T is most similar to 3.A.1.23.2; U is most similar to 2.A.36.7.1 and 3.A.1.14.2; V is most similar to 3.A.1.23.2 and 3.A.1.25.1) (Rodionov et al., 2009)	Bacteria
+3.A.1.3.24	Putative methionine uptake porter, Sco_5260, 5259, 5258. Defects cause impaired sporulation, reduced growth and reduced production of actinorhodin and undecylprodigiosin. Induced by S-adenosylmethionine (Shin et al. 2007).	Bacteria
+3.A.1.5.34	Putative oligopeptide uptake porter. Induced by S-adenosylmethionine. Deletion caused impaired sporulation and impaired the enhancing activity of S-adenosylmethionine on actinorhodin (but not undecylprodigiosin) production (Shin et al. 2007).	Bacteria
+3.A.1.5.36	Peptide transporter encoded adjacent to the putative transport system with TC#3.A.1.5.35 (Akanuma et al. 2011). Induced by exogenous S-adenosylmethionine (SAM) at a concentration of 2muM which also enhanced antibiotic production and inhibited morphological development (Park et al. 2005). SAM can be imported into cells. Mutants in the bldK genes confer resistance to the toxic tripeptide, bialaphos (Nodwell et al. 1996).	Bacteria
+1.D.211	The Phenylalanine-based Peptide Cation Channel (PAP-CCh) Family	PAP-CCh
+2.A.120	The Proline/Amino Acid Permease (PAAP) Family	PAAP
+8.A.202	The Proline-rich Receptor (PrR) Family	PrR
+8.A.219	The Proline-rich Anti-Microbial Peptide (PrAMP) Family	PrAMP
+2.A.76	The Resistance to Homoserine/Threonine (RhtB) Family	RhtB
+2.A.79	The Threonine/Serine Exporter (ThrE) Family	ThrE
+2.B.109	The Alpha-AminOxy Serine Ion Carrier (AAOS-IC) Family	AAOS-IC
+8.A.131	The Transmembrane Protease Serine 3 (TMPRSS3) Family	TMPRSS3
+8.A.224	The Splicing factor, Arginine/Serine-rich 19 (SCAF1) Family	SCAF1
+8.B.13	The Kunitz-type Serine Protease Inhibitor (HAI) Family	HAI
+9.A.29	The Lantibiotic Immunity Protein/Serine Connector (LIP/SIP) Family	LIP
+2.A.76	The Resistance to Homoserine/Threonine (RhtB) Family	RhtB
+2.A.79	The Threonine/Serine Exporter (ThrE) Family	ThrE
+2.A.18.8.5	H+-coupled amino acid transporter-4; SLC36A4. SLC36A4 is widely distributed and has high-affinity (Km = 2-3 µM) for proline and tryptophan (Thwaites and Anderson 2011). Gut microbiota-derived butyrate may have therapeutic potential in affective disorders characterized by either aberrant serotonergic activity or neuroinflammation due to its role in rescuing the oxidative stress-induced perturbations of tryptophan transport (Rode et al. 2021).	Eukaryota
+2.A.22.4.1	High affinity tryptophan:Na+ symporter, TnaT, of 501 aas and 12 TMSs (Androutsellis-Theotokis et al., 2003). The Km for Tryptophan is 145 nM; tryptamine and serotonin weakly inhibited with Ki values of 200 and 440 μM, respectively. An evolutionarily conserved role of adjacent transmembrane segments 7 and 8 has been proposed (Kniazeff et al. 2005).	Bacteria
+2.A.3.1.22	Transporter for phenylalainine, tyrosine and tryptophan of 449 aas and 12 TMSs, FywP or YsjA (Trip et al. 2013).	Bacteria
+2.A.3.1.3	Aromatic amino acid:H+ symporter, AroP of 457 aas and 12 TMSs (Cosgriff and Pittard 1997). Transports phenylalanine, tyrosine and tryptophan (Honoré and Cole 1990).	Bacteria
+2.A.3.10.8	Tryptophan permease, Tat2. Regulated via endocytosis by ATP-binding Cassette Transporters, Pdr5 (3.A.1.205.1) and Yor1 (3.A.208.3) as well as a seven-transmembrane protein, RSB1 (9.A.27.1.2) (Johnson et al., 2010). Residues involved in binding and catalysis have been identified (Kanda and Abe 2013). residues and regions important for proper folding and ER retention have been identified (Mochizuki et al. 2015). Tat2 may be a target of the anti-fungal agent, glabridine (Kalli et al. 2023).	Eukaryota
+2.A.3.3.24	Plastidic cationic amino acid transporter, CAT, of 582 aas and 14 TMSs. Exports phenylalanine, tyrosine and tryptophan our of chloroplasts into the cytoplasm (Widhalm et al. 2015).	Eukaryota
+2.A.3.8.1	L-type neutral amino acid transporter, LAT1 (Na+-independent) (prefers amino acids with branched or aromatic side chains: Phe, Ile, Leu, Val, Trp, His; catalyzes obligatory exchange with μM affinities on the outside and mM affinities on the inside [1000x difference]). Both LAT1 and LAT2 (2.A.3.8.6) catalyze uptake of S-nitroso-L-cysteine. These and other LAT family members are specifically inhibited by 2-aminobicyclo[2.2.1]heptane-2-carboxylic acid (Li and Whorton, 2005). Mediates tryptophan:kynurenine exchange (Kaper et al., 2007). Also transports thyroid hormones and their derivatives (Kinne et al., 2011; Krause and Hinz 2017; Krause and Hinz 2019). The chicken orthologue transports thyrold hormones, especially T2, with low affinity (Nele Bourgeois et al. 2016). Lat1 transports 26 biologically active ultrashort peptides (USPs) into cells as is also true of LAT2 and PEPT1 (Khavinson et al. 2023). The sizes and structures of ligand-binding sites of the amino acid transporters LAT1, LAT2, and of the peptide transporter PEPT1 are sufficient for the transport of the 26 biologically active di-, tri-, and tetra-peptides. Comparative analyses of the binding of all possible di- and tri-peptides (8400 compounds) at the binding sites of the LAT and PEPT family transporters was considered (Khavinson et al. 2023). The 26 biologically active USPs systematically showed higher binding scores to LAT1, LAT2, and PEPT1, as compared with di- and tri-peptides. Most of the 26 studied USPs were found to bind to the LAT1, LAT2, and PEPT1 transporters more efficiently than the previously known substrates or inhibitors of these transporters. Peptides ED, DS, DR, EDR, EDG, AEDR, AEDL, KEDP, and KEDG, and peptoids DS7 and KE17 with negatively charged Asp- or Glu- amino acid residues at the N-terminus and neutral or positively charged residues at the C-terminus of the peptide were found to be the most effective ligands of the transporters under investigation. It can be assumed that the antitumor effect of the KE, EW, EDG, and AEDG peptides could be associated with their ability to inhibit the LAT1, LAT2, and PEPT1 amino acid transporters (Khavinson et al. 2023). LAT1 enables T cell activation under inflammatory conditions in mice (Ogbechi et al. 2023).	Eukaryota
+2.A.42.1.2	High affinity (3 μM tryptophan permease, Mtr. Also transports indole. It functions to scavenge trace amounts of tryptophan in the medium for protein synthesis when concentrations are very low (Gu et al. 2013).	Bacteria
+2.A.42.1.3	Low affinity (70 μM) tryptophan permease, coregulated with the enzyme tryptophanase. It functions in tryptohan degradation, yielding carbon and nitrogen (Gu et al. 2013).	Bacteria
+2.A.7.17.2	General amino acid exporter (probably including aromatic amino acids as well as thr, met lys, glu and others), YddG. Its topology with 10 TMSs and both the N- and C-termini inside has been established (Airich et al. 2010). This system has been used for the export of tryptophan for commercial purposes (Wang et al. 2013). The 3-d structures (PD# 5I20) of a homologue (TC# 2.A.7.3.66) has been determined at 2.4 Å resolution, showing the outward facing conformation of a basket shaped structure with a central substrate binding cavity (Tsuchiya et al. 2016). Mutants of the yddG gene can export phenylalanine (Radi et al. 2022).	Bacteria
+2.A.7.3.74	The putative tryptophan efflux protein, YcbK	Bacteria
+1.D.226	The L-Tyrosine-modified NanoChannel (TmNC) Family	TmNC
+2.A.1.44.1	The L-amino acid transporter-3, LAT3 (transports neutral amino acids such as L-leucine, L-isoleucine, L-valine, and L-phenylalanine by a Na+-independent, electroneutral, facilitated diffusion process; it also transports amino acid alcohols and thyroid hormones such as 3,3'-T2) (Prostate cancer up-regulated gene product) (Krause and Hinz 2019).	Eukaryota
+2.A.1.53.2	The valine uptake permease, PhtJ (required for maximal growth in macrophages and Acanthamoeba castellanii) (Chen et al., 2008)	Bacteria
+2.A.26.1.9	Branched chain amino acid (Leucine, Isoleucine, Valine) transporter of 456 aas and 12 TMSs, BrnQ (Trip et al. 2013).	Bacteria
+2.A.3.10.27	Valine amino-acid permease (Branched-chain amino-acid permease 3)	Eukaryota
+2.A.3.3.23	Branched chain amino acid (Leucine/isoleucine/valine) uptake transporter of 469 aas and 12 TMSs, BcaP or CitA (den Hengst et al. 2006).	Bacteria
+2.A.76.1.1	Homoserine/homoserine lactone/β-hydroxynorvaline efflux permease (probable substrate:H+ antiporter), RhtB (YigK). Expression is under the control of the leucine-responsive protein, Lrp, and amino acids in the medium (Kutukova et al. 2005).	Bacteria
+2.A.76.1.5	The leucine exporter (LeuE; YeaS) (binds and probably transports L-methionine, L-histidine, L-α-amino-n-butyrate, norleucine, azaleucine, S(2-aminoethyl)-L-cysteine, 3,4-dehydro-DL-proline, L-alanine, and both D- and L-valine) (Kutukova et al., 2005; Hori et al., 2011; Radi et al. 2022). Expression is under the control of the leucine-responsive protein, Lrp, and amino acids in the medium (Kutukova et al. 2005). Mutation of the leuE gene allows tolerance to high levels of histidine, presumably by allowing histidine efflux (Radi et al. 2022).	Bacteria
+2.A.78.1.2	Branched chain amino acid efflux pump, BrnEF (extrudes L-methionine, L-isoleucine, L-leucine and L-valine) (Trötschel et al., 2005). Its deletion results in a slight increase (13%) in lysine production and a decrease in cell mass (Xiao et al. 2020).	Bacteria
+3.A.1.3.23	Amino acid transporter, PA5152-PA5155. Probably transports numerous amino acids including lysine, arginine, histidine, D-alanine and D-valine (Johnson et al. 2008). Regulated by ArgR.	Bacteria
+3.A.1.4.1	Leucine; leucine/isoleucine/valine porter (also transports phenylalanine and tyrosine; Koyanagi et al., 2004)	Bacteria
+2.A.3.3.14	Cationic amino acid transporter 4, vacuolar	Eukaryota
+3.A.1.23.2	-	-
+3.A.1.105.12	Three component ABC-2 transporter	-
+3.A.1.8.2	"The molybdate/tungstate ABC transporter, ModABC.  The trans-inhibited 
+3-d structure of ModABC, is available (3D31.A and  3D31.B)(Gerber et al., 2008)"	-
+3.A.1.122.20	-	-
+2.A.3.3.14	-	-

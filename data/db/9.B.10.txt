@@ -1,0 +1,15 @@
+<TABLE>
+<TR><TD COLSPAN=5><a name="description"></a>&nbsp;<p><p style='text-align: center;'><strong>9.B.10 The Putative Tripartite Zn<sup>2 </sup>Transporter (TZT) Family</strong></p>
+<p><a class='reflink' href='#ref6362'>Gaballa <em>et al.</em>, 2002</a> have suggested that the <em>yciABC</em> genes, in <em>Bacillus subtilis</em>, in a single operon, encode a zinc transporter. These genes are regulated by the zinc uptake repressor, Zur. Analysis of a yciA-lacZ fusion indicated that this operon is induced
+under zinc starvation conditions and derepressed in the <em>zur</em> mutant.
+Phenotypic analyses suggest that the YciA, YciB, and YciC proteins may
+function as part of the same Zn(II) transport pathway. Mutation of <em>yciA</em> or <em>yciC</em>, singly or in combination, had little effect on growth of the
+wild-type strain but significantly impaired the growth of the <em>ycdH</em> mutant under conditions of zinc limitation. Since the YciA, YciB, and
+YciC proteins are not obviously related to any known transporter
+family, they may define a new class of metal ion uptake systems. Mutant
+strains lacking all three identified zinc uptake systems (YciABC, YcdHI-YceA, and ZosA) are dependent on micromolar levels of added zinc
+for optimal growth.</p>
+<p>The three proteins, YciA, B and C are annotaed as a GTP cyclohydrolase (FolE2), a transpeptidase (DUF5011), and a metal chaparone protein, respectively.&nbsp; It is quite likely that these proteins do not function in transport in spite of the suggestion of Gaballa et al. (2002).</p><BR></TD></TR><TR><TD COLSPAN=5><a name="references"></a>&nbsp;<p><B>References:</B><P></TD></TR><TR><TD COLSPAN=5>Benz, R., A. Schmid, C. Maier, and E. Bremer. (1988).  Characterization of the nucleoside-binding site inside the Tsx channel of <i>Escherichia coli</i> outer membrane. Reconstitution experiments with lipid bilayer membranes.  Eur J Biochem 176: 699-705.<BR><HR></TD></TR><TR><TD COLSPAN=5>Gaballa, A., T. Wang, R.W. Ye, and J.D. Helmann. (2002).  Functional analysis of the <i>Bacillus subtilis</i> Zur regulon.  J. Bacteriol. 184: 6508-6514.<BR><HR></TD></TR><TR><TD COLSPAN=5><B>Examples:</B><P></TD></TR><TR bgcolor="#99ccff"><TD>TC#</TD><TD>Name</TD><TD>Organismal Type</TD><TD>Example</TD></TR><TR bgcolor="#99ccff"><TD><b><A NAME="9.B.10.1.1"></A><A HREF="tcprotein.php?substrate=9.B.10.1.1&tcname=">9.B.10.1.1</a></TD><TD><b><font color=#3333CC><p>The putative zinc uptake permease, YciABC (<span id="ref6362.12426338" class="cite">Gaballa <em>et al.</em>, 2002</span>).</p></TD><TD><b><font color=#3333CC><p>Bacteria<em></em></p></TD><TD><b><font color=#3333CC><p>YciABC of <em>Bacillus subtilis</em><br />YciA (P94398)<br />YciB (P94399)<br /> YciC (P94400)</p></TD></TR><TR bgcolor="#ffffff" valign=top><TD COLSPAN=4 valign=top>&nbsp;</CENTER></TD></TR><TR><TD COLSPAN=5><B>Examples:</B><P></TD></TR><TR bgcolor="#99ccff"><TD>TC#</TD><TD>Name</TD><TD>Organismal Type</TD><TD>Example</TD></TR></TABLE>
+</CENTER>
+</BODY>
+</HTML>

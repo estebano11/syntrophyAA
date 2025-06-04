@@ -1,0 +1,32 @@
+04112 Cell cycle - Caulobacter [PATH:ko04112]
+K02313 dnaA; chromosomal replication initiator protein
+K02314 dnaB; replicative DNA helicase [EC:5.6.2.3]
+K13583 gcrA; GcrA cell cycle regulator
+K13584 ctrA; two-component system, cell cycle response regulator CtrA
+K13581 ccrM; modification methylase [EC:2.1.1.72]
+K01338 lon; ATP-dependent Lon protease [EC:3.4.21.53]
+K03531 ftsZ; cell division protein FtsZ
+K03589 ftsQ; cell division protein FtsQ
+K03590 ftsA; cell division protein FtsA
+K03588 ftsW, spoVE; cell division protein FtsW
+K02563 murG; UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase [EC:2.4.1.227]
+K13585 hfaA; holdfast attachment protein HfaA
+K13586 hfaB; holdfast attachment protein HfaB
+K13582 podJ; localization factor PodJL
+K06985 K06985; aspartyl protease family protein
+K11749 rseP; regulator of sigma E protease [EC:3.4.24.-]
+K07716 pleC; two-component system, cell cycle sensor histidine kinase PleC [EC:2.7.13.3]
+K11357 divJ; two-component system, cell cycle sensor histidine kinase DivJ [EC:2.7.13.3]
+K11443 divK; two-component system, cell cycle response regulator DivK
+K13587 cckA; two-component system, cell cycle sensor histidine kinase and response regulator CckA [EC:2.7.13.3]
+K13588 chpT; histidine phosphotransferase ChpT
+K13589 cpdR; two-component system, cell cycle response regulator CpdR
+K03544 clpX, CLPX; ATP-dependent Clp protease ATP-binding subunit ClpX
+K01358 clpP, CLPP; ATP-dependent Clp protease, protease subunit [EC:3.4.21.92]
+K02488 pleD; two-component system, cell cycle response regulator [EC:2.7.7.65]
+K13590 dgcB; diguanylate cyclase [EC:2.7.7.65]
+K13591 popA; two-component system, cell cycle response regulator PopA
+K13592 rcdA; regulator of CtrA degradation
+K13245 pdeA; c-di-GMP-specific phosphodiesterase [EC:3.1.4.52]
+K13593 tipF; cyclic-di-GMP phosphodiesterase, flagellum assembly factor TipF
+K02651 flp, pilA; pilus assembly protein Flp/PilA

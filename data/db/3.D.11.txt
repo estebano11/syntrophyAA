@@ -1,0 +1,29 @@
+<TABLE>
+<TR><TD COLSPAN=5><a name="description"></a>&nbsp;<p><p style="text-align: center;"><strong>3.D.11.&nbsp; The Periplasmic Nitrate Reductase Complex (NAP) Complex Family&nbsp;</strong></p>
+<p>The <em>nap</em> operon of <em>Escherichia <span class="highlight">coli</span> </em> K-12, encoding a periplasmic nitrate reductase (NapABCDFGH), encodes seven 
+proteins. The catalytic complex in the periplasm, NapA-NapB, receives electrons from the quinol pool via the membrane-bound 
+cytochrome NapC. Like NapA, B and C, a fourth polypeptide, NapD, is also
+ essential for Nap activity (<span id="ref34548611.11967083" class="cite">Brondijk <em>et al.</em> 2002</span>). However, none of the remaining three 
+polypeptides, NapF, G and H, which are predicted to encode non-haem, 
+iron-sulphur proteins, are essential for Nap activity. The relative rates of growth and electron
+ transfer from physiological substrates to Nap have been investigated 
+using strains defective in the two membrane-bound nitrate reductases, 
+and also defective in either ubiquinone or menaquinone biosynthesis. Nap is coupled more effectively to menaquinol 
+oxidation than to ubiquinol oxidation. Conversely, parallel experiments&nbsp; revealed that nitrate reductase A couples 
+more effectively with ubiquinol than with menaquinol. NapF, NapG and <span class="highlight">NapH</span> play no role in electron transfer from menaquinol to the 
+NapAB complex but, in the Ubi+Men- background, deletion of napF, napGH 
+or napFGH all resulted in total loss of nitrate-dependent growth. 
+Electron transfer from ubiquinol to NapAB was totally dependent upon 
+NapGH, but not on NapF. NapC was essential for electron transfer from 
+both ubiquinol and menaquinol to NapAB. Thus, NapG and H, but not NapF, are essential for electron transfer from 
+ubiquinol to NapAB. The decreased yield of biomass resulting from loss 
+of NapF in a Ubi+Men+ strain implicates NapF in an energy-conserving 
+role coupled to the oxidation of ubiquinol.&nbsp;<span id="ref34548611.11967083" class="cite">Brondijk <em>et al.</em> 2002</span> proposed that NapG and H 
+form an energy-conserving quinol dehydrogenase functioning as either 
+components of a proton pump or in a Q cycle, as electrons are 
+transferred from ubiquinol to NapC.</p><BR></TD></TR><TR><TD COLSPAN=5><HR>This family belongs to the <A HREF="superfamily.php?id=105">Iron-Sulfur Protein (ISP) Superfamily</A>.<BR><HR></TD></TR><TR><TD COLSPAN=5><a name="references"></a>&nbsp;<p><B>References:</B><P></TD></TR><TR><TD COLSPAN=5>Brondijk, T.H., D. Fiegen, D.J. Richardson, and J.A. Cole. (2002).  Roles of NapF, NapG and NapH, subunits of the <i>Escherichia coli</i> periplasmic nitrate reductase, in ubiquinol oxidation.  Mol. Microbiol. 44: 245-255.<BR><HR></TD></TR><TR><TD COLSPAN=5><B>Examples:</B><P></TD></TR><TR bgcolor="#99ccff"><TD>TC#</TD><TD>Name</TD><TD>Organismal Type</TD><TD>Example</TD></TR><TR bgcolor="#99ccff"><TD><b><A NAME="3.D.11.1.1"></A><A HREF="tcprotein.php?substrate=3.D.11.1.1&tcname=">3.D.11.1.1</a></TD><TD><b><font color=#3333CC><p>The periplasmic nitrate reductase complex (NapABCDFGH). This system is believed to be energy coupled, either by H<sup>+</sup> pumping or due to an involvement in the Q cycle. See family description and <span id="ref34548611.11967083" class="cite">Brondijk <em>et al.</em> 2002.</span></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p></TD><TD><b><font color=#3333CC></TD><TD><b><font color=#3333CC><p>NapABCDFGH of<em> E. coli<br /></em>NapA, 828 aas<br />NapB, 149 aas<br />NapC, 200 aas<br />NapD, 87 aas<br />NapF, 164 aas<br />NapG, 231 aas and 1 N-terminal TMS<br />NapH, 287 aas and 5 TMSs<em><br /></em></p></TD></TR><TR bgcolor="#ffffff" valign=top><TD COLSPAN=4 valign=top>&nbsp;</CENTER></TD></TR></TABLE>
+</CENTER>
+</BODY>
+</HTML>

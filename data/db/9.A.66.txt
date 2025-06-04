@@ -1,0 +1,43 @@
+<TABLE>
+<TR><TD COLSPAN=5><a name="description"></a>&nbsp;<p><p style='text-align: center;'><strong>9.A.66 The Mistic (Mistic) Family&nbsp; </strong></p>
+<p><span style='font-family: Times;'> Mistic is an unusual 110 residue 
+hydrophilic integral membrane protein that folds autonomously into the 
+membrane, bypassing the cellular translocon machinery.  Mistic can be 
+used for high-level production of other membrane proteins in their 
+native conformations, including many eukaryotic proteins that have 
+previously been intractable to bacterial expression.  The 3-D structure 
+of Mistic has been solved revealing a 4-helix bundle with an unexpected 
+polar lipid-facing surface (<span id='ref3103.15731457' class='cite'>Roosild <em>et al.</em> 2005</span>).
+ The functional core of Mistic consists of 84 moderately conserved 
+residues that are sufficient for membrane targeting and integration (<span id='ref4634.16704729' class='cite'>Roosild <em>et al.</em> 2006</span>). Cytoplasmic homologues that polymerize and form fibrils are present in <em>Bacillus leicheniformis </em>(<span id='ref6589.19475664' class='cite'>Dvir <em>et al.</em> 2009</span>). <br /></span></p>
+<p><span style='font-family: Times;'> </span></p>
+<p><span style='font-family: Times;'> Isolated Mistic associate tightly with the bacterial membrane when expressed recombinantly in <em>E. coli</em>,
+ and the monomeric detergent-solubilized protein binds tightly to 
+micelles. Mistic targets proteins to the 
+membrane, and when fused at its C-terminus to other proteins, 
+it targets them to the membrane, facilitating
+ insertion. The gene encoding it, <em>mstX</em>, 
+overlaps by 4 nucleotides the <em>yugO</em> gene.&nbsp; </span></p>
+<p><span style='font-family: Times;'>Mistic may facilitate insertion 
+of YugO (TC# 1.A.1.13.4). </span>MstX and <span class='highlight'>YugO</span> are regulators of biofilm formation in <em>B. subtilis </em>(<span id='ref34545853.23737939' class='cite'>Lundberg <em>et al.</em> 2013</span>). Expression of <em>mstX</em> and the downstream putative K<sup>+</sup> efflux channel gene, <em><span class='highlight'>yugO</span></em>,
+ is necessary for biofilm development in <em>B. subtilis</em>, and 
+overexpression of <em>mstX</em> induces biofilm assembly. Transcription of the 
+<em>mstX-<span class='highlight'>yugO</span></em> operon is under negative regulation by SinR, a transcription factor 
+that governs the switch between planktonic and sessile states. 
+Furthermore, MstX regulates the activity of Spo0A through a positive 
+autoregulatory loop involving KinC, a histidine kinase that is activated
+ by potassium leakage. The addition of potassium abrogated MstX-mediated
+ biofilm formation (<span id='ref34545853.23737939' class='cite'>Lundberg <em>et al.</em> 2013</span>).&nbsp;</p>
+<p>The interaction of Mistic with the bacterial membrane 
+promotes the overexpression of other membrane proteins. The third 
+helical fragment of Mistic interacts only with micelles but does 
+not partition into lipid bilayers, but the other three 
+helices interact with membranes in vivo and in vitro. Nevertheless, all 
+of these short sequences can replace full-length Mistic as N-terminal 
+fusions to achieve overexpression of a human G-protein-coupled receptor 
+in <em>E. coli</em> (<span id='ref34545854.25297828' class='cite'>Marino <em>et al.</em> 2015</span>). A bioinformatic analysis of the Mistic family 
+expanded the number of homologs from 4 to 20, including proteins outside
+ the genus <em><span class='highlight'>Bacillus</span></em>. A highly conserved Shine-Dalgarno sequence in the operon mstX-<span class='highlight'>yugO</span> is important for downstream translation of the potassium ion channel <span class='highlight'>YugO</span> (<span id='ref34545854.25297828' class='cite'>Marino <em>et al.</em> 2015</span>). &nbsp;</p><BR></TD></TR><TR><TD COLSPAN=5><a name="references"></a>&nbsp;<p><B>References:</B><P></TD></TR><TR><TD COLSPAN=5>Dvir, H., M.E. Lundberg, S.K. Maji, R. Riek, and S. Choe. (2009).  Mistic: cellular localization, solution behavior, polymerization, and fibril formation.  Protein. Sci. 18: 1564-1570.<BR><HR></TD></TR><TR><TD COLSPAN=5>Lundberg, M.E., E.C. Becker, and S. Choe. (2013).  MstX and a putative potassium channel facilitate biofilm formation in <i>Bacillus subtilis</i>.  PLoS One 8: e60993.<BR><HR></TD></TR><TR><TD COLSPAN=5>Marino, J., N. Bordag, S. Keller, and O. Zerbe. (2015).  Mistic''s membrane association and its assistance in overexpression of a human GPCR are independent processes.  Protein. Sci. 24: 38-48.<BR><HR></TD></TR><TR><TD COLSPAN=5>Roosild, T.P., J. Greenwald, M. Vega, S. Castronovo, R. Riek, and S. Choe. (2005).  NMR structure of Mistic, a membrane-integrating protein for membrane protein expression.  Science 307: 1317-1321.<BR><HR></TD></TR><TR><TD COLSPAN=5>Roosild, T.P., M. Vega, S. Castronovo, and S. Choe. (2006).  Characterization of the family of Mistic homologues.  BMC Struct Biol 6: 10.<BR><HR></TD></TR><TR><TD COLSPAN=5><B>Examples:</B><P></TD></TR><TR bgcolor="#99ccff"><TD>TC#</TD><TD>Name</TD><TD>Organismal Type</TD><TD>Example</TD></TR><TR bgcolor="#99ccff"><TD><b><A NAME="9.A.66.1.1"></A><A HREF="tcprotein.php?substrate=9.A.66.1.1&tcname=">9.A.66.1.1</a></TD><TD><b><font color=#3333CC>Mistic</TD><TD><b><font color=#3333CC>Bacilli</TD><TD><b><font color=#3333CC>Mistic of <i>Bacillus subtilis</i> (AAX20121)</TD></TR><TR bgcolor="#ffffff" valign=top><TD COLSPAN=4 valign=top>&nbsp;</CENTER></TD></TR><TR bgcolor="#99ccff"><TD><b><A NAME="9.A.66.1.2"></A><A HREF="tcprotein.php?substrate=9.A.66.1.2&tcname=">9.A.66.1.2</a></TD><TD><b><font color=#3333CC><p>Membrane-integrating protein, MstX of 82 aas</p></TD><TD><b><font color=#3333CC></TD><TD><b><font color=#3333CC><p>MstX of <em>Oceanobacillus picturae</em></p></TD></TR><TR bgcolor="#ffffff" valign=top><TD COLSPAN=4 valign=top>&nbsp;</CENTER></TD></TR><TR bgcolor="#99ccff"><TD><b><A NAME="9.A.66.1.3"></A><A HREF="tcprotein.php?substrate=9.A.66.1.3&tcname=">9.A.66.1.3</a></TD><TD><b><font color=#3333CC><p>MstX of 82 aas</p></TD><TD><b><font color=#3333CC></TD><TD><b><font color=#3333CC><p>MstX of <em>Fictibacillus macauensis</em></p></TD></TR><TR bgcolor="#ffffff" valign=top><TD COLSPAN=4 valign=top>&nbsp;</CENTER></TD></TR></TABLE>
+</CENTER>
+</BODY>
+</HTML>

@@ -1,0 +1,27 @@
+<TABLE>
+<TR><TD COLSPAN=5><a name="description"></a>&nbsp;<p><p align='center'><strong>1.C.82  The Pore-forming Amphipathic Helical Peptide HP(2-20) (HP2-20) Family </strong></p>
+<p>HP(2-20) (residues 2-20 of parental HP derived from the N-terminus of <em>Helicobacter pylori</em> Ribosomal Protein L1) and its analogue, HPA3, exhibit broad-spectrum antimicrobial activity. Analogues, HPA3 and HPA3NT3, exert potent antibacterial effects in low-salt buffer and antifungal activity against chitin-containing fungi, while having little or no hemolytic activity or cytotoxicity against mammalian cell lines. HP(2-20) and its analogues interact with liposomes and disturb both neutral and negatively-charged membranes, as demonstrated by the release of encapsulated fluorescent markers (Park et al., 2007). The pore created by HP(2-20) shows that the radius is approximately 1.8 nm, whereas HPA3, HPA3NT3, and melittin have apparent radii between 3.3 and 4.8 nm. Electron microscopy showed that liposomes and various microbial cells treated with HPA3 and HPA3NT3 exhibited oligomerization and blebbing similar to that seen with melittin, while HP(2-20) exhibited flabbiness. Thus, HP(2-20) may exert its antibiotic effects through a small pore (about 1.8 nm), whereas HPA3 and HPA3NT3 formed larger pores. HPA3 pore formation is electrophoretically facilitated by trans-negative transmembrane potentials, and HPA3 peptides translocate into the trans monolayers after forming the pores (<span id='ref6060.18433718' class='cite'>Merenta <em>et al</em>., 2008</span>).&nbsp;</p>
+<p>Amphipathic peptides can cause biological membranes to leak either by 
+dissolving their lipid content via a detergent-like mechanism or by 
+forming pores on the membrane surface. These modes of membrane damage 
+have been related to the toxicity of amyloid peptides and to the 
+activity of antimicrobial peptides.&nbsp;<span id='ref34555406.36095304' class='cite'>Yang <em>et al.</em> 2022</span> performed tan all-atom simulations in which membrane-bound amphipathic 
+peptides self-assemble into beta-sheets that subsequently either form 
+stable pores inside the bilayer or drag lipids out of the membrane 
+surface. An analysis of these simulations showed that the acyl tails of 
+lipids interact strongly with non-polar side chains of peptides 
+deposited on the membrane. These strong interactions enable lipids to be
+ dragged out of the bilayer by oligomeric structures accounting for 
+detergent-like damage. They also disturb the orientation of lipid tails 
+in the vicinity of peptides. These distortions are minimized around pore
+ structures. Membrane-bound beta-sheets become twisted with one of their
+ extremities partially penetrating the lipid bilayer. This allows 
+peptides on opposite leaflets to interact and form a long transmembrane 
+beta-sheet that initiates poration. In simulations, where peptides are 
+deposited on a single leaflet, the twist in beta-sheets allows them to 
+penetrate the membrane and form pores (<span id='ref34555408.36095304' class='cite'>Yang <em>et al.</em> 2022</span>).</p>
+<p>The transport reaction catalyzed by HP(2-20) and its analogues is:</p>
+<p align='center'>small molecule (in) <img src='arrow.gif' alt='' /> small molecule (out).</p><BR></TD></TR><TR><TD COLSPAN=5><a name="references"></a>&nbsp;<p><B>References:</B><P></TD></TR><TR><TD COLSPAN=5>Mereuta, L., T. Luchian, Y. Park, and K.S. Hahm. (2008).  Single-molecule investigation of the interactions between reconstituted planar lipid membranes and an analogue of the HP(2-20) antimicrobial peptide.  Biochem. Biophys. Res. Commun. 373: 467-472.<BR><HR></TD></TR><TR><TD COLSPAN=5>Park, S.C., M.H. Kim, M.A. Hossain, S.Y. Shin, Y. Kim, L. Stella, J.D. Wade, Y. Park, and K.S. Hahm. (2008).  Amphipathic &#945;-helical peptide, HP (2-20), and its analogues derived from <i>Helicobacter pylori</i>: pore formation mechanism in various lipid compositions.  Biochim. Biophys. Acta. 1778(1): 229-241.<BR><HR></TD></TR><TR><TD COLSPAN=5>Yang, Y., H. Distaffen, S. Jalali, A.J. Nieuwkoop, B.L. Nilsson, and C.L. Dias. (2022).  Atomic Insights into Amyloid-Induced Membrane Damage.  ACS Chem Neurosci 13: 2766-2777.<BR><HR></TD></TR><TR><TD COLSPAN=5><B>Examples:</B><P></TD></TR><TR bgcolor="#99ccff"><TD>TC#</TD><TD>Name</TD><TD>Organismal Type</TD><TD>Example</TD></TR><TR bgcolor="#99ccff"><TD><b><A NAME="1.C.82.1.1"></A><A HREF="tcprotein.php?substrate=1.C.82.1.1&tcname=">1.C.82.1.1</a></TD><TD><b><font color=#3333CC><p>Pore-forming peptide HP(2-20) (<span id="ref4445.17961502" class="cite">Park <em>et al.</em>, 2008</span>). (derived from the ribosomal protein L1 N-terminus). The 3-D structure is known (1P0G_A).</p></TD><TD><b><font color=#3333CC><p>Bacteria</p></TD><TD><b><font color=#3333CC><p>HP(2-20) of <em>Helicobacter pylori</em> (Q9ZK21)</p></TD></TR><TR bgcolor="#ffffff" valign=top><TD COLSPAN=4 valign=top>&nbsp;</CENTER></TD></TR><TR bgcolor="#99ccff"><TD><b><A NAME="1.C.82.1.2"></A><A HREF="tcprotein.php?substrate=1.C.82.1.2&tcname=">1.C.82.1.2</a></TD><TD><b><font color=#3333CC><p>50S ribosomal protein L1 of 230 aas</p></TD><TD><b><font color=#3333CC></TD><TD><b><font color=#3333CC><p>L1 of <em>Snodgrassella alvi</em></p></TD></TR><TR bgcolor="#ffffff" valign=top><TD COLSPAN=4 valign=top>&nbsp;</CENTER></TD></TR></TABLE>
+</CENTER>
+</BODY>
+</HTML>

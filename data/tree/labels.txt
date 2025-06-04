@@ -1,0 +1,50 @@
+LABELS
+#use this template to change the leaf labels, or define/change the internal node names
+#additionally, you can specify a custom class for internal nodes, which can be used to automatically collapse them
+#lines starting with a hash are comments and ignored during parsing
+
+#=================================================================#
+#                    MANDATORY SETTINGS                           #
+#=================================================================#
+#select the separator which is used to delimit the data below (TAB,SPACE or COMMA).This separator must be used throughout this file.
+
+#SEPARATOR TAB
+#SEPARATOR SPACE
+SEPARATOR COMMA
+
+#Internal tree nodes can be specified using IDs directly, or using the 'last common ancestor' method described in iTOL help pages
+#=================================================================#
+#       Actual data follows after the "DATA" keyword              #
+#=================================================================#
+DATA
+#NODE_ID,LABEL,CLASS
+
+#Examples
+#change the label for leaf node 9606
+#9606,Homo sapiens
+Tepidanaerobacteraceae_sp._UNIPD32,Tepidanaerobacteraceae sp. PD32
+Symbiobacterium_sp._UNIPD15,Symbiobacterium sp. PD15
+Limnochordia_sp._UNIPD22,Limnochordia sp. PD22
+Carbobacillus_sp._UNIPD11,Carbobacillus sp. PD11
+Tissierellaceae_sp._UNIPD12,Tissierellaceae sp. PD12
+Firmicutes_sp._UNIPD7,Firmicutes sp. PD7
+Firmicutes_sp._UNIPD31,Firmicutes sp. PD31
+Methanothermobacter_wolfeii_UNIPD21,M. wolfeii PD21
+Tepidimicrobiaceae_sp._UNIPD26,Tepidimicrobiaceae sp. PD26
+Tepidimicrobiaceae_sp._UNIPD23,Tepidimicrobiaceae sp. PD23
+Moorellia_sp._UNIPD25,Moorellia sp. PD25
+Pseudoclostridium_thermosuccinogenes_UNIPD28,P. thermosuccinogenes PD28
+Caldanaerobacter_subterraneus_UNIPD13,C. subterraneus PD13
+Moorellia_sp._UNIPD5,Moorellia sp. PD5
+Tepidanaerobacteraceae_sp._UNIPD27,Tepidanaerobacteraceae sp. PD27
+Peptococcales_sp._UNIPD24,Peptococcales sp. PD24
+Geobacillus_thermodenitrificans_UNIPD6,G. thermodenitrificans PD6
+Tepidimicrobium_xylanilyticum_UNIPD19,T. xylanilyticum PD19
+Limnochordia_sp._UNIPD14,Limnochordia sp. PD14
+Tepidanaerobacteraceae_sp._UNIPD1,Tepidanaerobacteraceae sp. PD1
+Methanothermobacter_thermautotrophicus_UNIPD4,M. thermautotrophicus PD4
+Symbiobacterium_terraclitae_UNIPD18,Symbiobacterium terraclitae PD18
+Tepidanaerobacteraceae_sp._UNIPD3,Tepidanaerobacteraceae sp. PD3
+Lutisporaceae_sp._UNIPD17,Lutisporaceae sp. PD17
+Peptococcales_sp._UNIPD29,Peptococcales sp. PD29
+Bacilli_sp._UNIPD10,Bacilli sp. PD10

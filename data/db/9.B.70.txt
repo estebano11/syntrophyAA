@@ -1,0 +1,66 @@
+<TABLE>
+<TR><TD COLSPAN=5><a name="description"></a>&nbsp;<p><p align='center'><span style='font-family: Times;'> <strong> 9.B.70  The Multicomponent Putative SpoIIIAE Exporter (SpoIIIA-E) Family </strong></span></p>
+<p><span style='font-family: Times;'><strong> </strong> </span></p>
+<p><span style='font-family: Times;'> The SpoIIIAA-AH operon encodes 8 proteins, all of which are required for activation of sigma G during spore development in <em>Bacillus subtilis.</em> Mutations in any one of these genes blocks sporulation.  This operon is transcribed from a sigma E promoter in the mother cell after asymmetric cell division.  SpoIIIAH is known to have a single N-terminal TMS with the remainder of the proteins facing outward.  It interacts with SpoIIQ which is present on the forespore cell surface.  These two proteins possibly function as a 'zipper' to facilitate engulfment (<span id='ref3345.15574594' class='cite'>Blaylock <em>et al</em>., 2004</span>).  The other proteins may serve as a protein export system with SpoIIIAA serving as the ATPase and SpoIIIAE serving as the substrate protein. SpoIIIAA is an ATPase with Walker A and B motifs, both of which are essential for sporulation.  Residues 97-246 show weak similarity to residues 252-404 of FtsY (TC #3.A.5.1.1), the bacterial equivalent of the SRP receptor subunit.  It also shows similarity in the Walker A (GX<sub>4</sub>GKT) and B (Hy<sub>4</sub>DE) motifs with the ABC proteins of the ABC superfamily (TC #3.A.1.14.2 and #3.A.1.4.1, respectively).  SpoIIIAA is a member of the triple A or VirB11 family. </span></p>
+<p><span style='font-family: Times;'> SpoIIIAE is a 405 aa protein with 7 putative TMSs.  It appears to have an N-terminal Sec-type signal peptide followed by TMSs 2-7.  Residues 200-350 appear to show very limited sequence similarity with many transport proteins from different families.  These include: 2.A.23.1.4 (CPA1); 9.A.15.1.1(YhaG); 3.A.7.1.1. (VirB6); 2.A.31.3.2 (AE); 3.A.1.1.14 (AraH in ABC); 2.A.52.1.4 (NiCoT); 2.A.6.2.15 (RND) and 4.A.1.2.4 (Tre(Glc-PTS)).  The significance of these observations is not known.  These regions in SpoIIIAE and the other transporters generally show 2 TMSs, a hydrophilic loop of ~50 aas, and 2 more TMSs.  SpoIIIAE may possibly be exported from the mother cell via the SpoIIIA exporter and inserted into the forespore membrane where it might function as a small molecule permease to promote sigma G-activation.  All other constituents of the system have 1-3 TMS   (see below)                                                 and may form part of the export system. </span>Based on the similarity of SpoIIIAH to a component of type III secretion systems, Camp and Losick (<span id='ref5273.18485064' class='cite'>2008</span>) have suggested that signalling is mediated by a channel that links the mother cell to the forespore.</p>
+<p>At an early stage during <em>Bacillus subtilis</em> endospore development, the
+bacterium divides asymmetrically to produce two daughter cells. The
+smaller cell (forespore) differentiates into the endospore, while the
+larger cell (mother cell) becomes a terminally differentiated cell that
+nurtures the developing forespore. During development the mother cell
+engulfs the forespore to produce a protoplast, surrounded by two
+bilayer membranes, which separate it from the cytoplasm of the mother
+cell. The activation of &sigma;<sup>G</sup>, which drives late gene expression in
+the forespore, follows forespore engulfment and requires expression of
+the spoIIIA locus in the mother cell. One of the spoIIIA-encoded
+proteins SpoIIIAH is targeted specifically to the membrane surrounding
+the forespore, through an interaction of its C-terminal extracellular
+domain with the C-terminal extracellular domain of the forespore
+membrane protein SpoIIQ (P71044). <span id='ref6543.18812514' class='cite'>Meisner <em>et al.</em>, 2008</span> identified a homologous relationship
+between the C-terminal domain of SpoIIIAH and the YscJ/FliF protein
+family, members of which form multimeric rings involved in type III
+secretion systems and flagella. If SpoIIIAH forms a similar ring
+structure, it may also form a channel between the mother cell and
+forespore membranes. To test this hypothesis <span id='ref6543.18812514' class='cite'>Meisner <em>et al.</em>, 2008</span> developed a
+compartmentalized biotinylation assay, which they used to show that the
+C-terminal extracellular domain of SpoIIIAH is accessible to enzymatic
+modification from the forespore cytoplasm. These and other results led them to suggest that SpoIIIAH forms part of a channel between the
+forespore and mother cell that is required for the activation of &sigma;<sup>G</sup>.</p>
+<p>Sporulating <em>Bacillus <span class='highlight'>subtilis</span></em> cells assemble a multimeric membrane complex connecting the mother cell
+ and developing spore that is required to maintain forespore 
+differentiation (<span id='ref34547424.27381174' class='cite'>Rodrigues <em>et al.</em> 2016</span>). An early step in the assembly of this transenvelope 
+complex (called the A-Q complex) is an interaction between the 
+extracellular domains of the forespore membrane protein <span class='highlight'>SpoIIQ</span> and the mother cell membrane protein SpoIIIAH. This interaction 
+provides a platform onto which the remaining components of the complex 
+assemble and also functions as an anchor for cell-cell signalling and 
+morphogenetic proteins involved in spore development. <span class='highlight'>SpoIIQ</span> is required to recruit SpoIIIAH to the sporulation septum on the mother cell side. <span id='ref34547424.27381174' class='cite'>Rodrigues <em>et al.</em> 2016 </span>identified GerM, a lipoprotein previously
+ implicated in spore germination, as the missing factor required for <span class='highlight'>SpoIIQ</span> localization. GerM and SpoIIIAH, derived from the mother cell, and <span class='highlight'>SpoIIQ</span>,
+ from the forespore, have reciprocal localization dependencies 
+suggesting they constitute a tripartite platform for the assembly of the
+ A-Q complex and a hub for the localization of mother cell and forespore
+ proteins.</p>
+<p>During engulfment, an essential channel, the so-called 
+feeding tube apparatus, crosses both membranes to create a 
+direct conduit between the mother cell and the forespore. At least nine 
+proteins are required to create this channel, including <span class='highlight'>SpoIIQ</span> and SpoIIIAA-AH.&nbsp;<span id='ref34547423.28784753' class='cite'>Zeytuni <em>et al.</em> 2017</span> presented the near-atomic resolution structure 
+of SpoIIIAG, determined by single-particle 
+cryo-EM. A 3D reconstruction revealed that SpoIIIAG assembles into a 
+large and stable 30-fold symmetric complex with a mushroom-like 
+architecture. The complex is collectively composed of three distinctive 
+circular structures: a 60-stranded vertical &beta;-barrel that forms a large 
+inner channel encircled by two concentric rings, one &beta;-mediated and the 
+other formed by repeats of a ring-building motif (RBM), common to the 
+architecture of various dual membrane secretion systems of distinct 
+function. The&nbsp; structure shows that 
+SpoIIIAG exhibits a dramatic adaptation of the RBM fold with a &beta;-triangle insertion that assembles into the prominent channel, 
+the dimensions of which suggest the potential passage of large 
+macromolecules between the mother cell and forespore during the feeding 
+process. Indeed, mutation of residues located at key interfaces between 
+monomers of this RBM resulted in severe defects both in vivo and in 
+vitro (<span id='ref34547423.28784753' class='cite'>Zeytuni <em>et al.</em> 2017</span>).</p>
+<p><span style='font-family: Times;'> The reactions thought to be catalyzed by the SpoIIIA exporter is: </span></p>
+<p align='center'><span style='font-family: Times;'> Small molecules</span><span style='font-family: Times;'><span style='font-family: Times;'><sub>(mother cell)</sub></span>, SpoIIIAE<sub>(mother cell)</sub></span> and other proteins<span style='font-family: Times;'><sub>(mother cell)</sub></span> &rarr;  small molecules<sub>(forespore)</sub>, SpoIIIAE<sub>(forespore membrane) and other proteins</sub><sub><sub>(forespore)</sub></sub></p><BR></TD></TR><TR><TD COLSPAN=5><a name="references"></a>&nbsp;<p><B>References:</B><P></TD></TR><TR><TD COLSPAN=5>Blaylock, B., Jiang, X., Rubio, A., Moran, C.P., Jr., and Pogliano, K.  (2004).  Zipper-like interaction between proteins in adjacent daughter cells mediates protein localization.  Genes Dev. 18: 2916-2928.<BR><HR></TD></TR><TR><TD COLSPAN=5>Camp, A.H. and R. Losick. (2008).  A novel pathway of intercellular signalling in <i>Bacillus subtilis</i> involves a protein with similarity to a component of type III secretion channels.  Mol. Microbiol. 69: 402-417.<BR><HR></TD></TR><TR><TD COLSPAN=5>Illing, N. and Errington, J.  (1990).  The <i>spoIIIA</i> locus is not a major determinant of prespore-specific gene expression during sporulation in <i>Bacillus subtilis.</i>  J. Bacteriol. 172: 6930-6936.   <BR><HR></TD></TR><TR><TD COLSPAN=5>Illing, N. and Errington, J.  (1991).  The <i>spoIIIA</i> operon of <i>Bacillus subtilis</i> defines a new temporal class of mother-cell-specific sporulation genes under the control of the sigma E form of RNA polymerase.  Mol. Microbiol. 5: 1927-1940.     <BR><HR></TD></TR><TR><TD COLSPAN=5>Kellner, E.M., Decatur, A., and Moran, C.P., Jr.  (1996).  Two-stage regulation of an anti-sigma factor determines developmental fate during bacterial endospore formation.  Mol. Microbiol. 21: 913-924.    <BR><HR></TD></TR><TR><TD COLSPAN=5>Meisner, J., X. Wang, M. Serrano, A.O. Henriques, and C.P. Moran, Jr. (2008).  A channel connecting the mother cell and forespore during bacterial endospore formation.  Proc. Natl. Acad. Sci. USA 105: 15100-15105.<BR><HR></TD></TR><TR><TD COLSPAN=5>Morlot, C. and C.D.A. Rodrigues. (2018).  The New Kid on the Block: A Specialized Secretion System during Bacterial Sporulation.  Trends Microbiol. 26: 663-676.<BR><HR></TD></TR><TR><TD COLSPAN=5>Rodrigues, C.D., F.H. Ramírez-Guadiana, A.J. Meeske, X. Wang, and D.Z. Rudner. (2016).  GerM is required to assemble the basal platform of the SpoIIIA-SpoIIQ transenvelope complex during sporulation in <i>Bacillus subtilis</i>.  Mol. Microbiol. 102: 260-273.<BR><HR></TD></TR><TR><TD COLSPAN=5>Serrano, M., Neves, A., Soares, C.M., Moran, C.P., Jr., and Henriques, A.O.  (2004).  Role of the anti-sigma factor SpoIIAB in regulation of sigmaG during <i>Bacillus subtilis</i> sporulation.  J. Bacteriol. 186: 4000-4013.    <BR><HR></TD></TR><TR><TD COLSPAN=5>Zeytuni, N., C. Hong, K.A. Flanagan, L.J. Worrall, K.A. Theiltges, M. Vuckovic, R.K. Huang, S.C. Massoni, A.H. Camp, Z. Yu, and N.C. Strynadka. (2017).  Near-atomic resolution cryoelectron microscopy structure of the 30-fold homooligomeric SpoIIIAG channel essential to spore formation in <i>Bacillus subtilis</i>.  Proc. Natl. Acad. Sci. USA 114: E7073-E7081.<BR><HR></TD></TR><TR><TD COLSPAN=5><B>Examples:</B><P></TD></TR><TR bgcolor="#99ccff"><TD>TC#</TD><TD>Name</TD><TD>Organismal Type</TD><TD>Example</TD></TR><TR bgcolor="#99ccff"><TD><b><A NAME="9.B.70.1.1"></A><A HREF="tcprotein.php?substrate=9.B.70.1.1&tcname=">9.B.70.1.1</a></TD><TD><b><font color=#3333CC><p>The putative SpoIIIA-SpoIIQ exporter.&nbsp; SpoIIIAE and SpoIIQ form a transenvelop channel (resembling in function a gap junction in animals) that allows the passage of small molecules and proteins from the mother cell to the forespore (<span id="ref34547424.27381174" class="cite">Rodrigues <em>et al.</em> 2016</span>). The SpoIIIA-SpoIIQ complex appears to be a hybrid composed of different parts from 
+well-defined specialized secretion systems (<span id="ref34549150.29475625" class="cite">Morlot and Rodrigues 2018</span>).</p></TD><TD><b><font color=#3333CC><p>Firmicutes</p></TD><TD><b><font color=#3333CC><p>SpoIIIAA-AH of <em>Bacillus subtilis</em><br /> SpoIIIAA (307 aas; 0 TMSs; ATPase) (Q01367) <br /> SpoIIIAB (171 aas; 1 N-terminal TMS) (Q01368) <br /> SpoIIIAC (68 aas; 2 TMSs) (P49780) <br /> SpoIIIAD (133 aas; 3-4 TMSs) (P49781) <br /> SpoIIIAE (405 aas; 6-7 TMSs) (P49782) <br /> SpoIIIAF (206 aas; 2 TMSs) (P49783) <br /> SpoIIIAG (229 aas; 1-3 TMSs) (P49784) <br /> SpoIIIAH (218 aas; 1 N-terminal TMS) (P49785)<br />SpoIIQ (283 aas; 1 N-terminal TMS) (P71044)</p></TD></TR><TR bgcolor="#ffffff" valign=top><TD COLSPAN=4 valign=top>&nbsp;</CENTER></TD></TR></TABLE>
+</CENTER>
+</BODY>
+</HTML>

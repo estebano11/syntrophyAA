@@ -1,0 +1,901 @@
+	Sample	MAG	Step	expr
+0	Control	C. subterraneus UNIPD13	WL_01	31.652887370262857
+1640	AA+Ab	Symbiobacterium sp. UNIPD15	WL_01	49.84203933050254
+1639	AA	Symbiobacterium sp. UNIPD15	WL_01	103.9848338083409
+441	Control	Tepidimicrobiaceae sp. UNIPD26	WL_01	6.306501166531543
+442	AA	Tepidimicrobiaceae sp. UNIPD26	WL_01	6.6652758393952505
+443	AA+Ab	Tepidimicrobiaceae sp. UNIPD26	WL_01	4.927521730103851
+1638	Control	Symbiobacterium sp. UNIPD15	WL_01	145.77246486480658
+504	Control	Tepidanaerobacteraceae sp. UNIPD3	WL_01	6.424592239024599
+505	AA	Tepidanaerobacteraceae sp. UNIPD3	WL_01	9.125452186757096
+506	AA+Ab	Tepidanaerobacteraceae sp. UNIPD3	WL_01	9.959856329529206
+1576	AA	Moorella thermoacetica UNIPD30	WL_01	1.8289002482629397
+1575	Control	Moorella thermoacetica UNIPD30	WL_01	2.1655778036386484
+567	Control	S. terraclitae UNIPD18	WL_01	3.5478594414704236
+568	AA	S. terraclitae UNIPD18	WL_01	1.0584498359559482
+569	AA+Ab	S. terraclitae UNIPD18	WL_01	1.4771230972688034
+1514	AA+Ab	Carbobacillus sp. UNIPD11	WL_01	0.5769091375025202
+380	AA+Ab	Tepidanaerobacteraceae sp. UNIPD32	WL_01	2.8102959257458857
+1513	AA	Carbobacillus sp. UNIPD11	WL_01	0.911722238788764
+379	AA	Tepidanaerobacteraceae sp. UNIPD32	WL_01	3.245952938978412
+1701	Control	Firmicutes sp. UNIPD31	WL_01	
+191	AA+Ab	Acetivibrionales sp. UNIPD20	WL_01	1.2762455056498023
+1829	AA+Ab	Moorellia sp. UNIPD5	WL_01	30.928710094318344
+1828	AA	Moorellia sp. UNIPD5	WL_01	6.954233103825175
+1827	Control	Moorellia sp. UNIPD5	WL_01	25.654369440385832
+252	Control	Lutisporaceae sp. UNIPD17	WL_01	12.444082931221988
+253	AA	Lutisporaceae sp. UNIPD17	WL_01	6.7350357264624305
+254	AA+Ab	Lutisporaceae sp. UNIPD17	WL_01	1.3652252743597693
+1766	AA+Ab	Tepidimicrobiaceae sp. UNIPD23	WL_01	2.0498787893271913
+1765	AA	Tepidimicrobiaceae sp. UNIPD23	WL_01	1.8609086584799126
+1764	Control	Tepidimicrobiaceae sp. UNIPD23	WL_01	1.5823472546833737
+315	Control	Peptostreptococcales sp. UNIPD2	WL_01	1.0010042876501066
+316	AA	Peptostreptococcales sp. UNIPD2	WL_01	1.0010042876501066
+317	AA+Ab	Peptostreptococcales sp. UNIPD2	WL_01	1.0010042876501066
+1703	AA+Ab	Firmicutes sp. UNIPD31	WL_01	
+1702	AA	Firmicutes sp. UNIPD31	WL_01	
+378	Control	Tepidanaerobacteraceae sp. UNIPD32	WL_01	1.8215200964574547
+190	AA	Acetivibrionales sp. UNIPD20	WL_01	1.276245505649802
+1512	Control	Carbobacillus sp. UNIPD11	WL_01	0.7618147694720637
+694	AA	Bacilli sp. UNIPD10	WL_01	
+945	Control	G. thermodenitrificans UNIPD6	WL_01	0.3643926244575945
+946	AA	G. thermodenitrificans UNIPD6	WL_01	0.3643926244575945
+947	AA+Ab	G. thermodenitrificans UNIPD6	WL_01	0.3643926244575945
+1199	AA+Ab	T. xylanilyticum UNIPD19	WL_01	1.5803338099889135
+1198	AA	T. xylanilyticum UNIPD19	WL_01	2.5394937211075193
+1197	Control	T. xylanilyticum UNIPD19	WL_01	1.5518195219045572
+1008	Control	Peptococcales sp. UNIPD29	WL_01	1.2323329107147025
+1009	AA	Peptococcales sp. UNIPD29	WL_01	1.2963967662395897
+1010	AA+Ab	Peptococcales sp. UNIPD29	WL_01	1.2003009829522588
+1136	AA+Ab	Limnochordia sp. UNIPD14	WL_01	79.85109645573651
+1135	AA	Limnochordia sp. UNIPD14	WL_01	45.0053949495765
+1134	Control	Limnochordia sp. UNIPD14	WL_01	36.83238129405912
+1071	Control	Aeribacillus composti  UNIPD16	WL_01	0.33978933061501876
+1072	AA	Aeribacillus composti  UNIPD16	WL_01	0.33978933061501876
+1073	AA+Ab	Aeribacillus composti  UNIPD16	WL_01	0.3397893306150187
+1323	Control	Limnochordia sp. UNIPD22	WL_01	8.7600866028658
+693	Control	Bacilli sp. UNIPD10	WL_01	
+884	AA+Ab	Bacteria sp. UNIPD9	WL_01	2.351281316899023
+882	Control	Bacteria sp. UNIPD9	WL_01	8.43038655249571
+695	AA+Ab	Bacilli sp. UNIPD10	WL_01	
+1451	AA+Ab	Tissierellaceae sp. UNIPD12	WL_01	113.93604499568585
+1450	AA	Tissierellaceae sp. UNIPD12	WL_01	70.59084954750726
+1449	Control	Tissierellaceae sp. UNIPD12	WL_01	151.38076649908217
+756	Control	Tepidanaerobacteraceae sp. UNIPD1	WL_01	1.3012016879714932
+757	AA	Tepidanaerobacteraceae sp. UNIPD1	WL_01	1.3012016879714932
+758	AA+Ab	Tepidanaerobacteraceae sp. UNIPD1	WL_01	1.3012016879714934
+1388	AA+Ab	C. subterraneus  UNIPD8	WL_01	126.63912207729093
+1387	AA	C. subterraneus  UNIPD8	WL_01	97.02688004390613
+1386	Control	C. subterraneus  UNIPD8	WL_01	34.93174097599512
+819	Control	Peptococcales sp. UNIPD24	WL_01	2.2964147696727424
+820	AA	Peptococcales sp. UNIPD24	WL_01	2.673265747411959
+821	AA+Ab	Peptococcales sp. UNIPD24	WL_01	1.7380776027739298
+1325	AA+Ab	Limnochordia sp. UNIPD22	WL_01	5.292920588082844
+1324	AA	Limnochordia sp. UNIPD22	WL_01	1.6871319920811896
+883	AA	Bacteria sp. UNIPD9	WL_01	6.175035777255945
+189	Control	Acetivibrionales sp. UNIPD20	WL_01	1.276245505649802
+1577	AA+Ab	Moorella thermoacetica UNIPD30	WL_01	3.2543705345343334
+1892	AA+Ab	Moorellia sp. UNIPD25	WL_01	1.449921340926822
+1891	AA	Moorellia sp. UNIPD25	WL_01	1.2454419812673023
+64	AA	Tepidanaerobacteraceae sp. UNIPD27	WL_01	5.948267105180697
+1953	Control	P. thermosuccinogenes UNIPD28	WL_01	1.5046677012054377
+1955	AA+Ab	P. thermosuccinogenes UNIPD28	WL_01	1.7238402247037605
+1890	Control	Moorellia sp. UNIPD25	WL_01	1.3061464116365722
+63	Control	Tepidanaerobacteraceae sp. UNIPD27	WL_01	7.237781930673031
+1954	AA	P. thermosuccinogenes UNIPD28	WL_01	0.9806202848584411
+65	AA+Ab	Tepidanaerobacteraceae sp. UNIPD27	WL_01	8.09615741784477
+128	AA+Ab	Firmicutes sp. UNIPD7	WL_01	2.1152072164289715
+127	AA	Firmicutes sp. UNIPD7	WL_01	2.884978597394833
+126	Control	Firmicutes sp. UNIPD7	WL_01	1.4091862346482962
+1	AA	C. subterraneus UNIPD13	WL_01	99.82260599819962
+2	AA+Ab	C. subterraneus UNIPD13	WL_01	112.7184167068849
+1883	AA+Ab	Moorellia sp. UNIPD5	WL_02	61.05044453762494
+623	AA+Ab	S. terraclitae UNIPD18	WL_02	0.5984440454817475
+622	AA	S. terraclitae UNIPD18	WL_02	0.5984440454817475
+1377	Control	Limnochordia sp. UNIPD22	WL_02	3.2154833938266525
+1504	AA	Tissierellaceae sp. UNIPD12	WL_02	487.1512553311338
+938	AA+Ab	Bacteria sp. UNIPD9	WL_02	
+621	Control	S. terraclitae UNIPD18	WL_02	0.7979253939756633
+1503	Control	Tissierellaceae sp. UNIPD12	WL_02	702.0542431071767
+1755	Control	Firmicutes sp. UNIPD31	WL_02	0.6045436646361778
+496	AA	Tepidimicrobiaceae sp. UNIPD26	WL_02	9.021791098776257
+1756	AA	Firmicutes sp. UNIPD31	WL_02	1.2209910957775663
+1757	AA+Ab	Firmicutes sp. UNIPD31	WL_02	1.2066193200486515
+1190	AA+Ab	Limnochordia sp. UNIPD14	WL_02	78.69192678059935
+308	AA+Ab	Lutisporaceae sp. UNIPD17	WL_02	0.7614666413342684
+307	AA	Lutisporaceae sp. UNIPD17	WL_02	3.1134176777569365
+306	Control	Lutisporaceae sp. UNIPD17	WL_02	5.133711983452728
+497	AA+Ab	Tepidimicrobiaceae sp. UNIPD26	WL_02	13.778860141017624
+874	AA	Peptococcales sp. UNIPD24	WL_02	2.107181321121948
+495	Control	Tepidimicrobiaceae sp. UNIPD26	WL_02	9.364871772747437
+937	AA	Bacteria sp. UNIPD9	WL_02	
+369	Control	Peptostreptococcales sp. UNIPD2	WL_02	0.5984440454817475
+1629	Control	Moorella thermoacetica UNIPD30	WL_02	1.3611551613803572
+434	AA+Ab	Tepidanaerobacteraceae sp. UNIPD32	WL_02	3.8632630930887064
+433	AA	Tepidanaerobacteraceae sp. UNIPD32	WL_02	7.36904930596561
+432	Control	Tepidanaerobacteraceae sp. UNIPD32	WL_02	1.4597796014840434
+873	Control	Peptococcales sp. UNIPD24	WL_02	1.565467306060805
+875	AA+Ab	Peptococcales sp. UNIPD24	WL_02	4.255904827035435
+747	Control	Bacilli sp. UNIPD10	WL_02	1.294259255108983
+1946	AA+Ab	Moorellia sp. UNIPD25	WL_02	0.5952380952380953
+1253	AA+Ab	T. xylanilyticum UNIPD19	WL_02	1.5546748166064575
+1252	AA	T. xylanilyticum UNIPD19	WL_02	4.564124393486928
+748	AA	Bacilli sp. UNIPD10	WL_02	1.1985164251572722
+1631	AA+Ab	Moorella thermoacetica UNIPD30	WL_02	3.421841350673545
+1505	AA+Ab	Tissierellaceae sp. UNIPD12	WL_02	449.74008318361734
+936	Control	Bacteria sp. UNIPD9	WL_02	
+1251	Control	T. xylanilyticum UNIPD19	WL_02	1.232381750175376
+749	AA+Ab	Bacilli sp. UNIPD10	WL_02	0.6889071576941392
+1692	Control	Symbiobacterium sp. UNIPD15	WL_02	3.4214890328610834
+1693	AA	Symbiobacterium sp. UNIPD15	WL_02	3.8201935613430593
+1694	AA+Ab	Symbiobacterium sp. UNIPD15	WL_02	1.7543710692009307
+117	Control	Tepidanaerobacteraceae sp. UNIPD27	WL_02	1.7604916376997837
+118	AA	Tepidanaerobacteraceae sp. UNIPD27	WL_02	90.14787769592857
+119	AA+Ab	Tepidanaerobacteraceae sp. UNIPD27	WL_02	121.51322939249673
+1442	AA+Ab	C. subterraneus  UNIPD8	WL_02	119.9347426680449
+1441	AA	C. subterraneus  UNIPD8	WL_02	75.22233072182915
+371	AA+Ab	Peptostreptococcales sp. UNIPD2	WL_02	0.5984440454817475
+370	AA	Peptostreptococcales sp. UNIPD2	WL_02	0.5984440454817475
+1379	AA+Ab	Limnochordia sp. UNIPD22	WL_02	1.8795425978961313
+1630	AA	Moorella thermoacetica UNIPD30	WL_02	0.6159655126232262
+1189	AA	Limnochordia sp. UNIPD14	WL_02	43.664461500981155
+1378	AA	Limnochordia sp. UNIPD22	WL_02	2.0960419003953024
+2008	AA	P. thermosuccinogenes UNIPD28	WL_02	0.6107169551827618
+1945	AA	Moorellia sp. UNIPD25	WL_02	0.5952380952380953
+1819	AA	Tepidimicrobiaceae sp. UNIPD23	WL_02	4.617933704332301
+1820	AA+Ab	Tepidimicrobiaceae sp. UNIPD23	WL_02	1.2859228897949222
+180	Control	Firmicutes sp. UNIPD7	WL_02	1.2385007489787254
+2007	Control	P. thermosuccinogenes UNIPD28	WL_02	0.6107169551827618
+181	AA	Firmicutes sp. UNIPD7	WL_02	0.7057156820753061
+1188	Control	Limnochordia sp. UNIPD14	WL_02	100.7697496730387
+1568	AA+Ab	Carbobacillus sp. UNIPD11	WL_02	0.6081593587993164
+2009	AA+Ab	P. thermosuccinogenes UNIPD28	WL_02	0.5654473851688089
+1127	AA+Ab	Aeribacillus composti  UNIPD16	WL_02	
+1126	AA	Aeribacillus composti  UNIPD16	WL_02	
+1567	AA	Carbobacillus sp. UNIPD11	WL_02	1.2392762256406715
+1566	Control	Carbobacillus sp. UNIPD11	WL_02	1.8731515105209269
+182	AA+Ab	Firmicutes sp. UNIPD7	WL_02	0.9911175438293778
+1062	Control	Peptococcales sp. UNIPD29	WL_02	0.5905584998382382
+558	Control	Tepidanaerobacteraceae sp. UNIPD3	WL_02	5.605674439165764
+1063	AA	Peptococcales sp. UNIPD29	WL_02	0.6212591766469822
+1064	AA+Ab	Peptococcales sp. UNIPD29	WL_02	1.1504163228677335
+1125	Control	Aeribacillus composti  UNIPD16	WL_02	
+56	AA+Ab	C. subterraneus UNIPD13	WL_02	111.362444569589
+243	Control	Acetivibrionales sp. UNIPD20	WL_02	0.5952380952380953
+559	AA	Tepidanaerobacteraceae sp. UNIPD3	WL_02	17.994142561612282
+811	AA	Tepidanaerobacteraceae sp. UNIPD1	WL_02	6.289308176100629
+55	AA	C. subterraneus UNIPD13	WL_02	73.5376916683739
+812	AA+Ab	Tepidanaerobacteraceae sp. UNIPD1	WL_02	6.289308176100629
+1000	AA	G. thermodenitrificans UNIPD6	WL_02	
+810	Control	Tepidanaerobacteraceae sp. UNIPD1	WL_02	6.289308176100629
+999	Control	G. thermodenitrificans UNIPD6	WL_02	
+1440	Control	C. subterraneus  UNIPD8	WL_02	192.6080691128643
+54	Control	C. subterraneus UNIPD13	WL_02	188.29036341213467
+1001	AA+Ab	G. thermodenitrificans UNIPD6	WL_02	
+1881	Control	Moorellia sp. UNIPD5	WL_02	47.39515047313128
+1882	AA	Moorellia sp. UNIPD5	WL_02	5.60641546784309
+1818	Control	Tepidimicrobiaceae sp. UNIPD23	WL_02	6.190850259903044
+245	AA+Ab	Acetivibrionales sp. UNIPD20	WL_02	0.5952380952380953
+244	AA	Acetivibrionales sp. UNIPD20	WL_02	0.5952380952380953
+560	AA+Ab	Tepidanaerobacteraceae sp. UNIPD3	WL_02	9.57734928058753
+1944	Control	Moorellia sp. UNIPD25	WL_02	0.9920634920634921
+1430	AA+Ab	C. subterraneus  UNIPD8	WL_03	65.51800106563897
+548	AA+Ab	Tepidanaerobacteraceae sp. UNIPD3	WL_03	2.8719695755938712
+105	Control	Tepidanaerobacteraceae sp. UNIPD27	WL_03	2.0979465826619763
+863	AA+Ab	Peptococcales sp. UNIPD24	WL_03	6.189034959501461
+1554	Control	Carbobacillus sp. UNIPD11	WL_03	1.7753771221648957
+861	Control	Peptococcales sp. UNIPD24	WL_03	7.6856225162336145
+862	AA	Peptococcales sp. UNIPD24	WL_03	6.918556720012124
+1932	Control	Moorellia sp. UNIPD25	WL_03	1.1778563015312131
+547	AA	Tepidanaerobacteraceae sp. UNIPD3	WL_03	4.772513744733298
+43	AA	C. subterraneus UNIPD13	WL_03	73.19630902079506
+1555	AA	Carbobacillus sp. UNIPD11	WL_03	2.286953824290844
+1933	AA	Moorellia sp. UNIPD25	WL_03	1.1778563015312131
+1934	AA+Ab	Moorellia sp. UNIPD25	WL_03	1.1778563015312131
+44	AA+Ab	C. subterraneus UNIPD13	WL_03	47.599503326905996
+800	AA+Ab	Tepidanaerobacteraceae sp. UNIPD1	WL_03	1.1655011655011656
+799	AA	Tepidanaerobacteraceae sp. UNIPD1	WL_03	1.1655011655011656
+485	AA+Ab	Tepidimicrobiaceae sp. UNIPD26	WL_03	1.28188613699185
+798	Control	Tepidanaerobacteraceae sp. UNIPD1	WL_03	1.1655011655011656
+546	Control	Tepidanaerobacteraceae sp. UNIPD3	WL_03	2.5251759590812513
+484	AA	Tepidimicrobiaceae sp. UNIPD26	WL_03	2.541451838120272
+1367	AA+Ab	Limnochordia sp. UNIPD22	WL_03	3.258630824691566
+1617	Control	Moorella thermoacetica UNIPD30	WL_03	1.5760677258960973
+1618	AA	Moorella thermoacetica UNIPD30	WL_03	1.2275469290711982
+1619	AA+Ab	Moorella thermoacetica UNIPD30	WL_03	3.4096639793188377
+1366	AA	Limnochordia sp. UNIPD22	WL_03	2.15828676253928
+1556	AA+Ab	Carbobacillus sp. UNIPD11	WL_03	2.6579789526927686
+1365	Control	Limnochordia sp. UNIPD22	WL_03	1.9184337516123764
+483	Control	Tepidimicrobiaceae sp. UNIPD26	WL_03	3.8438126001165007
+106	AA	Tepidanaerobacteraceae sp. UNIPD27	WL_03	31.147555817583314
+359	AA+Ab	Peptostreptococcales sp. UNIPD2	WL_03	1.1737089201877935
+422	AA+Ab	Tepidanaerobacteraceae sp. UNIPD32	WL_03	2.863363063926526
+988	AA	G. thermodenitrificans UNIPD6	WL_03	1.2632277647863277
+989	AA+Ab	G. thermodenitrificans UNIPD6	WL_03	1.2632277647863277
+1176	Control	Limnochordia sp. UNIPD14	WL_03	38.134071689014036
+1493	AA+Ab	Tissierellaceae sp. UNIPD12	WL_03	98.72074465397021
+1996	AA	P. thermosuccinogenes UNIPD28	WL_03	1.1875051906331482
+1997	AA+Ab	P. thermosuccinogenes UNIPD28	WL_03	1.6492215400756938
+1492	AA	Tissierellaceae sp. UNIPD12	WL_03	76.40236698662706
+1806	Control	Tepidimicrobiaceae sp. UNIPD23	WL_03	2.08831116059015
+1807	AA	Tepidimicrobiaceae sp. UNIPD23	WL_03	1.0920953028787797
+1808	AA+Ab	Tepidimicrobiaceae sp. UNIPD23	WL_03	1.2844268035202484
+233	AA+Ab	Acetivibrionales sp. UNIPD20	WL_03	1.182033096926714
+232	AA	Acetivibrionales sp. UNIPD20	WL_03	1.182033096926714
+987	Control	G. thermodenitrificans UNIPD6	WL_03	1.2632277647863277
+231	Control	Acetivibrionales sp. UNIPD20	WL_03	1.182033096926714
+1050	Control	Peptococcales sp. UNIPD29	WL_03	2.2906292291662402
+1051	AA	Peptococcales sp. UNIPD29	WL_03	1.2207197856923158
+1052	AA+Ab	Peptococcales sp. UNIPD29	WL_03	2.2604671607225644
+1115	AA+Ab	Aeribacillus composti  UNIPD16	WL_03	1.1695906432748535
+1114	AA	Aeribacillus composti  UNIPD16	WL_03	1.1695906432748535
+1113	Control	Aeribacillus composti  UNIPD16	WL_03	1.1695906432748535
+1869	Control	Moorellia sp. UNIPD5	WL_03	10.171015414554926
+170	AA+Ab	Firmicutes sp. UNIPD7	WL_03	1.9302533982970744
+169	AA	Firmicutes sp. UNIPD7	WL_03	1.3744183039019076
+168	Control	Firmicutes sp. UNIPD7	WL_03	2.4120451649690557
+1870	AA	Moorellia sp. UNIPD5	WL_03	3.124158413056533
+1871	AA+Ab	Moorellia sp. UNIPD5	WL_03	13.802640132630213
+1491	Control	Tissierellaceae sp. UNIPD12	WL_03	100.53187419773714
+107	AA+Ab	Tepidanaerobacteraceae sp. UNIPD27	WL_03	36.39155724990128
+1177	AA	Limnochordia sp. UNIPD14	WL_03	38.251808073970814
+294	Control	Lutisporaceae sp. UNIPD17	WL_03	2.14286248129936
+421	AA	Tepidanaerobacteraceae sp. UNIPD32	WL_03	3.138763918493256
+420	Control	Tepidanaerobacteraceae sp. UNIPD32	WL_03	1.4341694330369517
+42	Control	C. subterraneus UNIPD13	WL_03	49.0948036306414
+737	AA+Ab	Bacilli sp. UNIPD10	WL_03	2.5618348375965354
+1680	Control	Symbiobacterium sp. UNIPD15	WL_03	7.21906544342075
+736	AA	Bacilli sp. UNIPD10	WL_03	1.250796080076972
+735	Control	Bacilli sp. UNIPD10	WL_03	1.2849814109863391
+1681	AA	Symbiobacterium sp. UNIPD15	WL_03	11.060796930432042
+1682	AA+Ab	Symbiobacterium sp. UNIPD15	WL_03	4.777256905342079
+1241	AA+Ab	T. xylanilyticum UNIPD19	WL_03	3.0707584143609816
+1240	AA	T. xylanilyticum UNIPD19	WL_03	2.6293618513897052
+1239	Control	T. xylanilyticum UNIPD19	WL_03	1.622781642665922
+1178	AA+Ab	Limnochordia sp. UNIPD14	WL_03	39.91099399470433
+924	Control	Bacteria sp. UNIPD9	WL_03	
+358	AA	Peptostreptococcales sp. UNIPD2	WL_03	1.1737089201877935
+295	AA	Lutisporaceae sp. UNIPD17	WL_03	1.1980982436947238
+296	AA+Ab	Lutisporaceae sp. UNIPD17	WL_03	1.496026334211496
+1745	AA+Ab	Firmicutes sp. UNIPD31	WL_03	3.2643422886322
+1744	AA	Firmicutes sp. UNIPD31	WL_03	3.580302306430051
+1743	Control	Firmicutes sp. UNIPD31	WL_03	3.333968526755951
+611	AA+Ab	S. terraclitae UNIPD18	WL_03	1.1574074074074074
+1429	AA	C. subterraneus  UNIPD8	WL_03	81.39185890266579
+1428	Control	C. subterraneus  UNIPD8	WL_03	46.03396462701639
+1995	Control	P. thermosuccinogenes UNIPD28	WL_03	1.1875051906331482
+609	Control	S. terraclitae UNIPD18	WL_03	1.1574074074074074
+926	AA+Ab	Bacteria sp. UNIPD9	WL_03	
+925	AA	Bacteria sp. UNIPD9	WL_03	
+357	Control	Peptostreptococcales sp. UNIPD2	WL_03	1.1737089201877935
+610	AA	S. terraclitae UNIPD18	WL_03	1.1574074074074074
+1467	Control	Tissierellaceae sp. UNIPD12	WL_04	100.53187419773714
+713	AA+Ab	Bacilli sp. UNIPD10	WL_04	2.5618348375965354
+901	AA	Bacteria sp. UNIPD9	WL_04	
+775	AA	Tepidanaerobacteraceae sp. UNIPD1	WL_04	1.1655011655011656
+1215	Control	T. xylanilyticum UNIPD19	WL_04	1.622781642665922
+20	AA+Ab	C. subterraneus UNIPD13	WL_04	47.599503326905996
+19	AA	C. subterraneus UNIPD13	WL_04	73.19630902079506
+963	Control	G. thermodenitrificans UNIPD6	WL_04	1.2632277647863277
+964	AA	G. thermodenitrificans UNIPD6	WL_04	1.2632277647863277
+965	AA+Ab	G. thermodenitrificans UNIPD6	WL_04	1.2632277647863277
+1216	AA	T. xylanilyticum UNIPD19	WL_04	2.6293618513897052
+18	Control	C. subterraneus UNIPD13	WL_04	49.0948036306414
+1153	AA	Limnochordia sp. UNIPD14	WL_04	38.251808073970814
+1152	Control	Limnochordia sp. UNIPD14	WL_04	38.134071689014036
+1026	Control	Peptococcales sp. UNIPD29	WL_04	2.2906292291662402
+1027	AA	Peptococcales sp. UNIPD29	WL_04	1.2207197856923158
+1028	AA+Ab	Peptococcales sp. UNIPD29	WL_04	2.2604671607225644
+1091	AA+Ab	Aeribacillus composti  UNIPD16	WL_04	1.1695906432748535
+1154	AA+Ab	Limnochordia sp. UNIPD14	WL_04	39.91099399470433
+774	Control	Tepidanaerobacteraceae sp. UNIPD1	WL_04	1.1655011655011656
+1217	AA+Ab	T. xylanilyticum UNIPD19	WL_04	3.0707584143609816
+712	AA	Bacilli sp. UNIPD10	WL_04	1.250796080076972
+776	AA+Ab	Tepidanaerobacteraceae sp. UNIPD1	WL_04	1.1655011655011656
+1406	AA+Ab	C. subterraneus  UNIPD8	WL_04	65.51800106563897
+1405	AA	C. subterraneus  UNIPD8	WL_04	81.39185890266579
+1404	Control	C. subterraneus  UNIPD8	WL_04	46.03396462701639
+1971	Control	P. thermosuccinogenes UNIPD28	WL_04	1.1875051906331482
+837	Control	Peptococcales sp. UNIPD24	WL_04	7.6856225162336145
+902	AA+Ab	Bacteria sp. UNIPD9	WL_04	
+838	AA	Peptococcales sp. UNIPD24	WL_04	6.918556720012124
+1343	AA+Ab	Limnochordia sp. UNIPD22	WL_04	3.258630824691566
+1342	AA	Limnochordia sp. UNIPD22	WL_04	2.15828676253928
+1341	Control	Limnochordia sp. UNIPD22	WL_04	1.9184337516123764
+1972	AA	P. thermosuccinogenes UNIPD28	WL_04	1.1875051906331482
+1973	AA+Ab	P. thermosuccinogenes UNIPD28	WL_04	1.6492215400756938
+900	Control	Bacteria sp. UNIPD9	WL_04	
+839	AA+Ab	Peptococcales sp. UNIPD24	WL_04	6.189034959501461
+711	Control	Bacilli sp. UNIPD10	WL_04	1.2849814109863391
+1089	Control	Aeribacillus composti  UNIPD16	WL_04	1.1695906432748535
+1469	AA+Ab	Tissierellaceae sp. UNIPD12	WL_04	98.72074465397021
+1783	AA	Tepidimicrobiaceae sp. UNIPD23	WL_04	1.0920953028787797
+524	AA+Ab	Tepidanaerobacteraceae sp. UNIPD3	WL_04	2.8719695755938712
+523	AA	Tepidanaerobacteraceae sp. UNIPD3	WL_04	4.772513744733298
+522	Control	Tepidanaerobacteraceae sp. UNIPD3	WL_04	2.5251759590812513
+270	Control	Lutisporaceae sp. UNIPD17	WL_04	2.14286248129936
+398	AA+Ab	Tepidanaerobacteraceae sp. UNIPD32	WL_04	2.863363063926526
+272	AA+Ab	Lutisporaceae sp. UNIPD17	WL_04	1.496026334211496
+1090	AA	Aeribacillus composti  UNIPD16	WL_04	1.1695906432748535
+1593	Control	Moorella thermoacetica UNIPD30	WL_04	1.5760677258960973
+1594	AA	Moorella thermoacetica UNIPD30	WL_04	1.2275469290711982
+1782	Control	Tepidimicrobiaceae sp. UNIPD23	WL_04	2.08831116059015
+1595	AA+Ab	Moorella thermoacetica UNIPD30	WL_04	3.4096639793188377
+1908	Control	Moorellia sp. UNIPD25	WL_04	1.1778563015312131
+461	AA+Ab	Tepidimicrobiaceae sp. UNIPD26	WL_04	1.28188613699185
+333	Control	Peptostreptococcales sp. UNIPD2	WL_04	1.1737089201877935
+334	AA	Peptostreptococcales sp. UNIPD2	WL_04	1.1737089201877935
+335	AA+Ab	Peptostreptococcales sp. UNIPD2	WL_04	1.1737089201877935
+460	AA	Tepidimicrobiaceae sp. UNIPD26	WL_04	2.541451838120272
+459	Control	Tepidimicrobiaceae sp. UNIPD26	WL_04	3.8438126001165007
+1656	Control	Symbiobacterium sp. UNIPD15	WL_04	7.21906544342075
+1657	AA	Symbiobacterium sp. UNIPD15	WL_04	11.060796930432042
+1658	AA+Ab	Symbiobacterium sp. UNIPD15	WL_04	4.777256905342079
+1721	AA+Ab	Firmicutes sp. UNIPD31	WL_04	3.2643422886322
+1720	AA	Firmicutes sp. UNIPD31	WL_04	3.580302306430051
+1719	Control	Firmicutes sp. UNIPD31	WL_04	3.333968526755951
+1909	AA	Moorellia sp. UNIPD25	WL_04	1.1778563015312131
+1910	AA+Ab	Moorellia sp. UNIPD25	WL_04	1.1778563015312131
+396	Control	Tepidanaerobacteraceae sp. UNIPD32	WL_04	1.4341694330369517
+1468	AA	Tissierellaceae sp. UNIPD12	WL_04	76.40236698662706
+1784	AA+Ab	Tepidimicrobiaceae sp. UNIPD23	WL_04	1.2844268035202484
+144	Control	Firmicutes sp. UNIPD7	WL_04	2.4120451649690557
+271	AA	Lutisporaceae sp. UNIPD17	WL_04	1.1980982436947238
+208	AA	Acetivibrionales sp. UNIPD20	WL_04	1.182033096926714
+1847	AA+Ab	Moorellia sp. UNIPD5	WL_04	13.802640132630213
+1846	AA	Moorellia sp. UNIPD5	WL_04	3.124158413056533
+1845	Control	Moorellia sp. UNIPD5	WL_04	10.171015414554926
+146	AA+Ab	Firmicutes sp. UNIPD7	WL_04	1.9302533982970744
+145	AA	Firmicutes sp. UNIPD7	WL_04	1.3744183039019076
+207	Control	Acetivibrionales sp. UNIPD20	WL_04	1.182033096926714
+209	AA+Ab	Acetivibrionales sp. UNIPD20	WL_04	1.182033096926714
+587	AA+Ab	S. terraclitae UNIPD18	WL_04	1.1574074074074074
+586	AA	S. terraclitae UNIPD18	WL_04	1.1574074074074074
+585	Control	S. terraclitae UNIPD18	WL_04	1.1574074074074074
+81	Control	Tepidanaerobacteraceae sp. UNIPD27	WL_04	2.0979465826619763
+1530	Control	Carbobacillus sp. UNIPD11	WL_04	1.7753771221648957
+397	AA	Tepidanaerobacteraceae sp. UNIPD32	WL_04	3.138763918493256
+1532	AA+Ab	Carbobacillus sp. UNIPD11	WL_04	2.6579789526927686
+82	AA	Tepidanaerobacteraceae sp. UNIPD27	WL_04	31.147555817583314
+83	AA+Ab	Tepidanaerobacteraceae sp. UNIPD27	WL_04	36.39155724990128
+1531	AA	Carbobacillus sp. UNIPD11	WL_04	2.286953824290844
+340	AA	Peptostreptococcales sp. UNIPD2	WL_05	
+341	AA+Ab	Peptostreptococcales sp. UNIPD2	WL_05	
+1725	Control	Firmicutes sp. UNIPD31	WL_05	
+1221	Control	T. xylanilyticum UNIPD19	WL_05	
+1790	AA+Ab	Tepidimicrobiaceae sp. UNIPD23	WL_05	2.4391135258768406
+1851	Control	Moorellia sp. UNIPD5	WL_05	8.863346196426464
+150	Control	Firmicutes sp. UNIPD7	WL_05	
+151	AA	Firmicutes sp. UNIPD7	WL_05	
+1852	AA	Moorellia sp. UNIPD5	WL_05	3.7955448838067896
+1097	AA+Ab	Aeribacillus composti  UNIPD16	WL_05	14.492753623188406
+1096	AA	Aeribacillus composti  UNIPD16	WL_05	14.492753623188406
+1914	Control	Moorellia sp. UNIPD25	WL_05	1.1074197120708749
+1222	AA	T. xylanilyticum UNIPD19	WL_05	
+1223	AA+Ab	T. xylanilyticum UNIPD19	WL_05	
+1095	Control	Aeribacillus composti  UNIPD16	WL_05	14.492753623188406
+908	AA+Ab	Bacteria sp. UNIPD9	WL_05	1.0857763300760044
+907	AA	Bacteria sp. UNIPD9	WL_05	1.0857763300760044
+1853	AA+Ab	Moorellia sp. UNIPD5	WL_05	10.70964833190271
+152	AA+Ab	Firmicutes sp. UNIPD7	WL_05	
+26	AA+Ab	C. subterraneus UNIPD13	WL_05	39.08756322158046
+25	AA	C. subterraneus UNIPD13	WL_05	54.595827365109194
+339	Control	Peptostreptococcales sp. UNIPD2	WL_05	
+276	Control	Lutisporaceae sp. UNIPD17	WL_05	
+277	AA	Lutisporaceae sp. UNIPD17	WL_05	
+278	AA+Ab	Lutisporaceae sp. UNIPD17	WL_05	
+214	AA	Acetivibrionales sp. UNIPD20	WL_05	1.1534025374855823
+1034	AA+Ab	Peptococcales sp. UNIPD29	WL_05	2.176463313533547
+1033	AA	Peptococcales sp. UNIPD29	WL_05	2.350710398123716
+213	Control	Acetivibrionales sp. UNIPD20	WL_05	1.1534025374855823
+1160	AA+Ab	Limnochordia sp. UNIPD14	WL_05	
+1158	Control	Limnochordia sp. UNIPD14	WL_05	
+971	AA+Ab	G. thermodenitrificans UNIPD6	WL_05	0.58350066930973
+969	Control	G. thermodenitrificans UNIPD6	WL_05	0.58350066930973
+1727	AA+Ab	Firmicutes sp. UNIPD31	WL_05	
+1726	AA	Firmicutes sp. UNIPD31	WL_05	
+215	AA+Ab	Acetivibrionales sp. UNIPD20	WL_05	1.1534025374855823
+1159	AA	Limnochordia sp. UNIPD14	WL_05	
+1788	Control	Tepidimicrobiaceae sp. UNIPD23	WL_05	2.6708922118464495
+1789	AA	Tepidimicrobiaceae sp. UNIPD23	WL_05	1.8437949431384617
+24	Control	C. subterraneus UNIPD13	WL_05	28.020723185086023
+970	AA	G. thermodenitrificans UNIPD6	WL_05	0.58350066930973
+1032	Control	Peptococcales sp. UNIPD29	WL_05	2.2345456750636035
+402	Control	Tepidanaerobacteraceae sp. UNIPD32	WL_05	2.041928403742716
+403	AA	Tepidanaerobacteraceae sp. UNIPD32	WL_05	5.1003485843598275
+1600	AA	Moorella thermoacetica UNIPD30	WL_05	1.1235852998990443
+1599	Control	Moorella thermoacetica UNIPD30	WL_05	1.0958232720241161
+89	AA+Ab	Tepidanaerobacteraceae sp. UNIPD27	WL_05	44.39599099276879
+88	AA	Tepidanaerobacteraceae sp. UNIPD27	WL_05	30.290256408759564
+906	Control	Bacteria sp. UNIPD9	WL_05	1.0857763300760044
+528	Control	Tepidanaerobacteraceae sp. UNIPD3	WL_05	19.68846251116383
+529	AA	Tepidanaerobacteraceae sp. UNIPD3	WL_05	11.908431749063174
+530	AA+Ab	Tepidanaerobacteraceae sp. UNIPD3	WL_05	9.575565454884037
+1538	AA+Ab	Carbobacillus sp. UNIPD11	WL_05	
+1410	Control	C. subterraneus  UNIPD8	WL_05	
+782	AA+Ab	Tepidanaerobacteraceae sp. UNIPD1	WL_05	6.41025641025641
+781	AA	Tepidanaerobacteraceae sp. UNIPD1	WL_05	6.41025641025641
+1601	AA+Ab	Moorella thermoacetica UNIPD30	WL_05	2.6007480406856476
+780	Control	Tepidanaerobacteraceae sp. UNIPD1	WL_05	6.41025641025641
+87	Control	Tepidanaerobacteraceae sp. UNIPD27	WL_05	2.1363189304178616
+1411	AA	C. subterraneus  UNIPD8	WL_05	
+1412	AA+Ab	C. subterraneus  UNIPD8	WL_05	
+1536	Control	Carbobacillus sp. UNIPD11	WL_05	
+592	AA	S. terraclitae UNIPD18	WL_05	1.1074197120708749
+593	AA+Ab	S. terraclitae UNIPD18	WL_05	1.1074197120708749
+1475	AA+Ab	Tissierellaceae sp. UNIPD12	WL_05	
+719	AA+Ab	Bacilli sp. UNIPD10	WL_05	
+718	AA	Bacilli sp. UNIPD10	WL_05	
+717	Control	Bacilli sp. UNIPD10	WL_05	
+1474	AA	Tissierellaceae sp. UNIPD12	WL_05	
+1473	Control	Tissierellaceae sp. UNIPD12	WL_05	
+1537	AA	Carbobacillus sp. UNIPD11	WL_05	
+467	AA+Ab	Tepidimicrobiaceae sp. UNIPD26	WL_05	
+591	Control	S. terraclitae UNIPD18	WL_05	1.1074197120708749
+465	Control	Tepidimicrobiaceae sp. UNIPD26	WL_05	
+404	AA+Ab	Tepidanaerobacteraceae sp. UNIPD32	WL_05	6.091599961337826
+1979	AA+Ab	P. thermosuccinogenes UNIPD28	WL_05	2.7253053709569977
+1978	AA	P. thermosuccinogenes UNIPD28	WL_05	1.280904475289688
+1977	Control	P. thermosuccinogenes UNIPD28	WL_05	1.280904475289688
+1664	AA+Ab	Symbiobacterium sp. UNIPD15	WL_05	8.4307840875299
+1663	AA	Symbiobacterium sp. UNIPD15	WL_05	10.449827391286673
+466	AA	Tepidimicrobiaceae sp. UNIPD26	WL_05	
+1915	AA	Moorellia sp. UNIPD25	WL_05	1.1074197120708749
+1916	AA+Ab	Moorellia sp. UNIPD25	WL_05	1.1074197120708749
+1347	Control	Limnochordia sp. UNIPD22	WL_05	
+1348	AA	Limnochordia sp. UNIPD22	WL_05	
+1349	AA+Ab	Limnochordia sp. UNIPD22	WL_05	
+1662	Control	Symbiobacterium sp. UNIPD15	WL_05	1.820810423509653
+845	AA+Ab	Peptococcales sp. UNIPD24	WL_05	
+844	AA	Peptococcales sp. UNIPD24	WL_05	
+843	Control	Peptococcales sp. UNIPD24	WL_05	
+1887	Control	Moorellia sp. UNIPD5	WL_06	146.2810020202011
+1194	Control	Limnochordia sp. UNIPD14	WL_06	
+1259	AA+Ab	T. xylanilyticum UNIPD19	WL_06	
+1511	AA+Ab	Tissierellaceae sp. UNIPD12	WL_06	
+1510	AA	Tissierellaceae sp. UNIPD12	WL_06	
+1509	Control	Tissierellaceae sp. UNIPD12	WL_06	
+1447	AA	C. subterraneus  UNIPD8	WL_06	
+1448	AA+Ab	C. subterraneus  UNIPD8	WL_06	
+1574	AA+Ab	Carbobacillus sp. UNIPD11	WL_06	
+1446	Control	C. subterraneus  UNIPD8	WL_06	
+2013	Control	P. thermosuccinogenes UNIPD28	WL_06	
+1952	AA+Ab	Moorellia sp. UNIPD25	WL_06	
+1258	AA	T. xylanilyticum UNIPD19	WL_06	
+1700	AA+Ab	Symbiobacterium sp. UNIPD15	WL_06	
+1699	AA	Symbiobacterium sp. UNIPD15	WL_06	
+1698	Control	Symbiobacterium sp. UNIPD15	WL_06	
+1257	Control	T. xylanilyticum UNIPD19	WL_06	
+1950	Control	Moorellia sp. UNIPD25	WL_06	
+1951	AA	Moorellia sp. UNIPD25	WL_06	
+1131	Control	Aeribacillus composti  UNIPD16	WL_06	
+1133	AA+Ab	Aeribacillus composti  UNIPD16	WL_06	
+1196	AA+Ab	Limnochordia sp. UNIPD14	WL_06	
+1572	Control	Carbobacillus sp. UNIPD11	WL_06	
+1635	Control	Moorella thermoacetica UNIPD30	WL_06	2.0887160359019092
+1636	AA	Moorella thermoacetica UNIPD30	WL_06	1.3115615477908995
+1637	AA+Ab	Moorella thermoacetica UNIPD30	WL_06	2.4286833414159523
+1385	AA+Ab	Limnochordia sp. UNIPD22	WL_06	
+1889	AA+Ab	Moorellia sp. UNIPD5	WL_06	134.93606192556655
+1888	AA	Moorellia sp. UNIPD5	WL_06	18.485413328038145
+1824	Control	Tepidimicrobiaceae sp. UNIPD23	WL_06	
+1825	AA	Tepidimicrobiaceae sp. UNIPD23	WL_06	
+1826	AA+Ab	Tepidimicrobiaceae sp. UNIPD23	WL_06	
+1384	AA	Limnochordia sp. UNIPD22	WL_06	
+1383	Control	Limnochordia sp. UNIPD22	WL_06	
+1195	AA	Limnochordia sp. UNIPD14	WL_06	
+1763	AA+Ab	Firmicutes sp. UNIPD31	WL_06	
+1762	AA	Firmicutes sp. UNIPD31	WL_06	
+1761	Control	Firmicutes sp. UNIPD31	WL_06	
+1132	AA	Aeribacillus composti  UNIPD16	WL_06	
+1573	AA	Carbobacillus sp. UNIPD11	WL_06	
+1007	AA+Ab	G. thermodenitrificans UNIPD6	WL_06	
+2015	AA+Ab	P. thermosuccinogenes UNIPD28	WL_06	
+251	AA+Ab	Acetivibrionales sp. UNIPD20	WL_06	1.2531328320802004
+1005	Control	G. thermodenitrificans UNIPD6	WL_06	
+312	Control	Lutisporaceae sp. UNIPD17	WL_06	
+313	AA	Lutisporaceae sp. UNIPD17	WL_06	
+314	AA+Ab	Lutisporaceae sp. UNIPD17	WL_06	
+375	Control	Peptostreptococcales sp. UNIPD2	WL_06	
+376	AA	Peptostreptococcales sp. UNIPD2	WL_06	
+944	AA+Ab	Bacteria sp. UNIPD9	WL_06	1.9011406844106462
+943	AA	Bacteria sp. UNIPD9	WL_06	1.2674271229404308
+942	Control	Bacteria sp. UNIPD9	WL_06	1.2674271229404308
+438	Control	Tepidanaerobacteraceae sp. UNIPD32	WL_06	1.5600698031127143
+439	AA	Tepidanaerobacteraceae sp. UNIPD32	WL_06	1.275799005194458
+440	AA+Ab	Tepidanaerobacteraceae sp. UNIPD32	WL_06	4.049419428460942
+501	Control	Tepidimicrobiaceae sp. UNIPD26	WL_06	
+502	AA	Tepidimicrobiaceae sp. UNIPD26	WL_06	
+503	AA+Ab	Tepidimicrobiaceae sp. UNIPD26	WL_06	
+881	AA+Ab	Peptococcales sp. UNIPD24	WL_06	
+816	Control	Tepidanaerobacteraceae sp. UNIPD1	WL_06	
+817	AA	Tepidanaerobacteraceae sp. UNIPD1	WL_06	
+818	AA+Ab	Tepidanaerobacteraceae sp. UNIPD1	WL_06	
+755	AA+Ab	Bacilli sp. UNIPD10	WL_06	
+754	AA	Bacilli sp. UNIPD10	WL_06	
+753	Control	Bacilli sp. UNIPD10	WL_06	
+250	AA	Acetivibrionales sp. UNIPD20	WL_06	1.2531328320802004
+629	AA+Ab	S. terraclitae UNIPD18	WL_06	
+627	Control	S. terraclitae UNIPD18	WL_06	
+879	Control	Peptococcales sp. UNIPD24	WL_06	
+566	AA+Ab	Tepidanaerobacteraceae sp. UNIPD3	WL_06	7.974314049435103
+565	AA	Tepidanaerobacteraceae sp. UNIPD3	WL_06	24.29106876619207
+564	Control	Tepidanaerobacteraceae sp. UNIPD3	WL_06	6.956536547296065
+880	AA	Peptococcales sp. UNIPD24	WL_06	
+628	AA	S. terraclitae UNIPD18	WL_06	
+249	Control	Acetivibrionales sp. UNIPD20	WL_06	1.2531328320802004
+377	AA+Ab	Peptostreptococcales sp. UNIPD2	WL_06	
+124	AA	Tepidanaerobacteraceae sp. UNIPD27	WL_06	15.941968892942965
+123	Control	Tepidanaerobacteraceae sp. UNIPD27	WL_06	1.4807654238672416
+125	AA+Ab	Tepidanaerobacteraceae sp. UNIPD27	WL_06	31.949678266902232
+1068	Control	Peptococcales sp. UNIPD29	WL_06	
+1069	AA	Peptococcales sp. UNIPD29	WL_06	
+1070	AA+Ab	Peptococcales sp. UNIPD29	WL_06	
+62	AA+Ab	C. subterraneus UNIPD13	WL_06	
+61	AA	C. subterraneus UNIPD13	WL_06	
+187	AA	Firmicutes sp. UNIPD7	WL_06	
+188	AA+Ab	Firmicutes sp. UNIPD7	WL_06	
+186	Control	Firmicutes sp. UNIPD7	WL_06	
+1006	AA	G. thermodenitrificans UNIPD6	WL_06	
+60	Control	C. subterraneus UNIPD13	WL_06	
+2014	AA	P. thermosuccinogenes UNIPD28	WL_06	
+1966	AA	P. thermosuccinogenes UNIPD28	WL_07	0.5360524998469384
+77	AA+Ab	Tepidanaerobacteraceae sp. UNIPD27	WL_07	75.14884310635541
+76	AA	Tepidanaerobacteraceae sp. UNIPD27	WL_07	57.77525515240729
+516	Control	Tepidanaerobacteraceae sp. UNIPD3	WL_07	6.03408132297666
+517	AA	Tepidanaerobacteraceae sp. UNIPD3	WL_07	15.970777899821732
+518	AA+Ab	Tepidanaerobacteraceae sp. UNIPD3	WL_07	13.203827877451367
+770	AA+Ab	Tepidanaerobacteraceae sp. UNIPD1	WL_07	1.3123359580052494
+769	AA	Tepidanaerobacteraceae sp. UNIPD1	WL_07	0.6999125109361332
+768	Control	Tepidanaerobacteraceae sp. UNIPD1	WL_07	0.5249343832020997
+75	Control	Tepidanaerobacteraceae sp. UNIPD27	WL_07	1.758054364838386
+579	Control	S. terraclitae UNIPD18	WL_07	
+1526	AA+Ab	Carbobacillus sp. UNIPD11	WL_07	
+1525	AA	Carbobacillus sp. UNIPD11	WL_07	
+1524	Control	Carbobacillus sp. UNIPD11	WL_07	
+580	AA	S. terraclitae UNIPD18	WL_07	
+581	AA+Ab	S. terraclitae UNIPD18	WL_07	
+12	Control	C. subterraneus UNIPD13	WL_07	
+13	AA	C. subterraneus UNIPD13	WL_07	
+1085	AA+Ab	Aeribacillus composti  UNIPD16	WL_07	
+14	AA+Ab	C. subterraneus UNIPD13	WL_07	
+1965	Control	P. thermosuccinogenes UNIPD28	WL_07	0.5360524998469384
+705	Control	Bacilli sp. UNIPD10	WL_07	
+706	AA	Bacilli sp. UNIPD10	WL_07	
+707	AA+Ab	Bacilli sp. UNIPD10	WL_07	
+1463	AA+Ab	Tissierellaceae sp. UNIPD12	WL_07	
+1462	AA	Tissierellaceae sp. UNIPD12	WL_07	
+1461	Control	Tissierellaceae sp. UNIPD12	WL_07	
+1967	AA+Ab	P. thermosuccinogenes UNIPD28	WL_07	0.4963174540666661
+1587	Control	Moorella thermoacetica UNIPD30	WL_07	0.512831927608847
+203	AA+Ab	Acetivibrionales sp. UNIPD20	WL_07	1.0256410256410255
+1589	AA+Ab	Moorella thermoacetica UNIPD30	WL_07	1.4262824118247073
+1715	AA+Ab	Firmicutes sp. UNIPD31	WL_07	0.5167689203007086
+329	AA+Ab	Peptostreptococcales sp. UNIPD2	WL_07	2.070393374741201
+328	AA	Peptostreptococcales sp. UNIPD2	WL_07	2.070393374741201
+327	Control	Peptostreptococcales sp. UNIPD2	WL_07	2.070393374741201
+201	Control	Acetivibrionales sp. UNIPD20	WL_07	1.0256410256410255
+1841	AA+Ab	Moorellia sp. UNIPD5	WL_07	54.918478193976966
+1714	AA	Firmicutes sp. UNIPD31	WL_07	0.5302576165990193
+1776	Control	Tepidimicrobiaceae sp. UNIPD23	WL_07	
+1778	AA+Ab	Tepidimicrobiaceae sp. UNIPD23	WL_07	
+266	AA+Ab	Lutisporaceae sp. UNIPD17	WL_07	0.6635978880593312
+265	AA	Lutisporaceae sp. UNIPD17	WL_07	0.7272257083881456
+1840	AA	Moorellia sp. UNIPD5	WL_07	7.611198475156514
+264	Control	Lutisporaceae sp. UNIPD17	WL_07	0.4055852727964561
+1839	Control	Moorellia sp. UNIPD5	WL_07	59.32082921153676
+1777	AA	Tepidimicrobiaceae sp. UNIPD23	WL_07	
+1713	Control	Firmicutes sp. UNIPD31	WL_07	0.6978098991554963
+1400	AA+Ab	C. subterraneus  UNIPD8	WL_07	
+390	Control	Tepidanaerobacteraceae sp. UNIPD32	WL_07	0.6446976157973677
+202	AA	Acetivibrionales sp. UNIPD20	WL_07	1.0256410256410255
+455	AA+Ab	Tepidimicrobiaceae sp. UNIPD26	WL_07	
+454	AA	Tepidimicrobiaceae sp. UNIPD26	WL_07	
+453	Control	Tepidimicrobiaceae sp. UNIPD26	WL_07	
+1904	AA+Ab	Moorellia sp. UNIPD25	WL_07	0.5224660397074191
+1903	AA	Moorellia sp. UNIPD25	WL_07	0.5224660397074191
+1650	Control	Symbiobacterium sp. UNIPD15	WL_07	
+1651	AA	Symbiobacterium sp. UNIPD15	WL_07	
+1652	AA+Ab	Symbiobacterium sp. UNIPD15	WL_07	
+1902	Control	Moorellia sp. UNIPD25	WL_07	0.5224660397074191
+392	AA+Ab	Tepidanaerobacteraceae sp. UNIPD32	WL_07	1.0934950102151508
+391	AA	Tepidanaerobacteraceae sp. UNIPD32	WL_07	1.3874055852192004
+138	Control	Firmicutes sp. UNIPD7	WL_07	
+139	AA	Firmicutes sp. UNIPD7	WL_07	
+140	AA+Ab	Firmicutes sp. UNIPD7	WL_07	
+1588	AA	Moorella thermoacetica UNIPD30	WL_07	0.5258242180929981
+1399	AA	C. subterraneus  UNIPD8	WL_07	
+1084	AA	Aeribacillus composti  UNIPD16	WL_07	
+959	AA+Ab	G. thermodenitrificans UNIPD6	WL_07	
+832	AA	Peptococcales sp. UNIPD24	WL_07	0.9821635815390017
+831	Control	Peptococcales sp. UNIPD24	WL_07	0.8115320624751416
+1210	AA	T. xylanilyticum UNIPD19	WL_07	
+1148	AA+Ab	Limnochordia sp. UNIPD14	WL_07	
+1147	AA	Limnochordia sp. UNIPD14	WL_07	
+1146	Control	Limnochordia sp. UNIPD14	WL_07	
+1211	AA+Ab	T. xylanilyticum UNIPD19	WL_07	
+958	AA	G. thermodenitrificans UNIPD6	WL_07	
+1398	Control	C. subterraneus  UNIPD8	WL_07	
+1337	AA+Ab	Limnochordia sp. UNIPD22	WL_07	
+1336	AA	Limnochordia sp. UNIPD22	WL_07	
+1020	Control	Peptococcales sp. UNIPD29	WL_07	0.518358557851745
+833	AA+Ab	Peptococcales sp. UNIPD24	WL_07	0.5685730865306
+1022	AA+Ab	Peptococcales sp. UNIPD29	WL_07	0.5048849065877195
+1021	AA	Peptococcales sp. UNIPD29	WL_07	0.5453058603797962
+895	AA	Bacteria sp. UNIPD9	WL_07	0.4938271604938272
+1083	Control	Aeribacillus composti  UNIPD16	WL_07	
+894	Control	Bacteria sp. UNIPD9	WL_07	0.4938271604938272
+957	Control	G. thermodenitrificans UNIPD6	WL_07	
+896	AA+Ab	Bacteria sp. UNIPD9	WL_07	0.7407407407407408
+1209	Control	T. xylanilyticum UNIPD19	WL_07	
+1335	Control	Limnochordia sp. UNIPD22	WL_07	
+956	AA+Ab	G. thermodenitrificans UNIPD6	WL_08	
+1208	AA+Ab	T. xylanilyticum UNIPD19	WL_08	
+1206	Control	T. xylanilyticum UNIPD19	WL_08	
+1711	AA	Firmicutes sp. UNIPD31	WL_08	
+1712	AA+Ab	Firmicutes sp. UNIPD31	WL_08	
+326	AA+Ab	Peptostreptococcales sp. UNIPD2	WL_08	0.9182736455463728
+325	AA	Peptostreptococcales sp. UNIPD2	WL_08	0.9182736455463728
+324	Control	Peptostreptococcales sp. UNIPD2	WL_08	0.9182736455463728
+955	AA	G. thermodenitrificans UNIPD6	WL_08	
+1207	AA	T. xylanilyticum UNIPD19	WL_08	
+1397	AA+Ab	C. subterraneus  UNIPD8	WL_08	
+389	AA+Ab	Tepidanaerobacteraceae sp. UNIPD32	WL_08	2.4997669718401228
+954	Control	G. thermodenitrificans UNIPD6	WL_08	
+1649	AA+Ab	Symbiobacterium sp. UNIPD15	WL_08	
+1648	AA	Symbiobacterium sp. UNIPD15	WL_08	
+1647	Control	Symbiobacterium sp. UNIPD15	WL_08	
+450	Control	Tepidimicrobiaceae sp. UNIPD26	WL_08	
+451	AA	Tepidimicrobiaceae sp. UNIPD26	WL_08	
+452	AA+Ab	Tepidimicrobiaceae sp. UNIPD26	WL_08	
+513	Control	Tepidanaerobacteraceae sp. UNIPD3	WL_08	3.8227964239361105
+893	AA+Ab	Bacteria sp. UNIPD9	WL_08	1.0394663712572039
+892	AA	Bacteria sp. UNIPD9	WL_08	0.7437132480121593
+891	Control	Bacteria sp. UNIPD9	WL_08	0.9087607578930871
+388	AA	Tepidanaerobacteraceae sp. UNIPD32	WL_08	3.384590454002007
+387	Control	Tepidanaerobacteraceae sp. UNIPD32	WL_08	1.7590482623956658
+262	AA	Lutisporaceae sp. UNIPD17	WL_08	
+1774	AA	Tepidimicrobiaceae sp. UNIPD23	WL_08	
+1900	AA	Moorellia sp. UNIPD25	WL_08	
+1901	AA+Ab	Moorellia sp. UNIPD25	WL_08	
+135	Control	Firmicutes sp. UNIPD7	WL_08	
+1080	Control	Aeribacillus composti  UNIPD16	WL_08	
+74	AA+Ab	Tepidanaerobacteraceae sp. UNIPD27	WL_08	53.35458208836635
+73	AA	Tepidanaerobacteraceae sp. UNIPD27	WL_08	37.52365390319264
+72	Control	Tepidanaerobacteraceae sp. UNIPD27	WL_08	1.5712102040890763
+1962	Control	P. thermosuccinogenes UNIPD28	WL_08	
+1963	AA	P. thermosuccinogenes UNIPD28	WL_08	
+1964	AA+Ab	P. thermosuccinogenes UNIPD28	WL_08	
+1081	AA	Aeribacillus composti  UNIPD16	WL_08	
+1082	AA+Ab	Aeribacillus composti  UNIPD16	WL_08	
+11	AA+Ab	C. subterraneus UNIPD13	WL_08	
+10	AA	C. subterraneus UNIPD13	WL_08	
+9	Control	C. subterraneus UNIPD13	WL_08	
+1899	Control	Moorellia sp. UNIPD25	WL_08	
+1773	Control	Tepidimicrobiaceae sp. UNIPD23	WL_08	
+136	AA	Firmicutes sp. UNIPD7	WL_08	
+1143	Control	Limnochordia sp. UNIPD14	WL_08	
+1775	AA+Ab	Tepidimicrobiaceae sp. UNIPD23	WL_08	
+263	AA+Ab	Lutisporaceae sp. UNIPD17	WL_08	
+1585	AA	Moorella thermoacetica UNIPD30	WL_08	0.7696108762549105
+261	Control	Lutisporaceae sp. UNIPD17	WL_08	
+1836	Control	Moorellia sp. UNIPD5	WL_08	38.01891134906137
+1837	AA	Moorellia sp. UNIPD5	WL_08	6.647271825124391
+1838	AA+Ab	Moorellia sp. UNIPD5	WL_08	36.224745801165966
+1017	Control	Peptococcales sp. UNIPD29	WL_08	1.0238785136514343
+1018	AA	Peptococcales sp. UNIPD29	WL_08	1.0771056932579255
+1019	AA+Ab	Peptococcales sp. UNIPD29	WL_08	0.9972649238481888
+200	AA+Ab	Acetivibrionales sp. UNIPD20	WL_08	0.7480627547093759
+199	AA	Acetivibrionales sp. UNIPD20	WL_08	0.7480627547093759
+198	Control	Acetivibrionales sp. UNIPD20	WL_08	0.7480627547093759
+1145	AA+Ab	Limnochordia sp. UNIPD14	WL_08	
+1144	AA	Limnochordia sp. UNIPD14	WL_08	
+137	AA+Ab	Firmicutes sp. UNIPD7	WL_08	
+1584	Control	Moorella thermoacetica UNIPD30	WL_08	1.0713943303633213
+1710	Control	Firmicutes sp. UNIPD31	WL_08	
+515	AA+Ab	Tepidanaerobacteraceae sp. UNIPD3	WL_08	8.27311834886496
+578	AA+Ab	S. terraclitae UNIPD18	WL_08	
+1523	AA+Ab	Carbobacillus sp. UNIPD11	WL_08	
+1522	AA	Carbobacillus sp. UNIPD11	WL_08	
+1521	Control	Carbobacillus sp. UNIPD11	WL_08	
+702	Control	Bacilli sp. UNIPD10	WL_08	
+514	AA	Tepidanaerobacteraceae sp. UNIPD3	WL_08	16.149942399515634
+703	AA	Bacilli sp. UNIPD10	WL_08	
+704	AA+Ab	Bacilli sp. UNIPD10	WL_08	
+1460	AA+Ab	Tissierellaceae sp. UNIPD12	WL_08	
+1459	AA	Tissierellaceae sp. UNIPD12	WL_08	
+1458	Control	Tissierellaceae sp. UNIPD12	WL_08	
+830	AA+Ab	Peptococcales sp. UNIPD24	WL_08	
+829	AA	Peptococcales sp. UNIPD24	WL_08	
+828	Control	Peptococcales sp. UNIPD24	WL_08	
+765	Control	Tepidanaerobacteraceae sp. UNIPD1	WL_08	
+766	AA	Tepidanaerobacteraceae sp. UNIPD1	WL_08	
+767	AA+Ab	Tepidanaerobacteraceae sp. UNIPD1	WL_08	
+1395	Control	C. subterraneus  UNIPD8	WL_08	
+1396	AA	C. subterraneus  UNIPD8	WL_08	
+577	AA	S. terraclitae UNIPD18	WL_08	
+576	Control	S. terraclitae UNIPD18	WL_08	
+1586	AA+Ab	Moorella thermoacetica UNIPD30	WL_08	1.999198378451722
+1332	Control	Limnochordia sp. UNIPD22	WL_08	
+1334	AA+Ab	Limnochordia sp. UNIPD22	WL_08	
+1333	AA	Limnochordia sp. UNIPD22	WL_08	
+221	AA+Ab	Acetivibrionales sp. UNIPD20	WL_09	1.0070493454179257
+157	AA	Firmicutes sp. UNIPD7	WL_09	3.4128459618638516
+158	AA+Ab	Firmicutes sp. UNIPD7	WL_09	1.972573320907871
+724	AA	Bacilli sp. UNIPD10	WL_09	
+1859	AA+Ab	Moorellia sp. UNIPD5	WL_09	111.75853903977496
+1858	AA	Moorellia sp. UNIPD5	WL_09	61.19544401665695
+1857	Control	Moorellia sp. UNIPD5	WL_09	149.62116925322007
+1605	Control	Moorella thermoacetica UNIPD30	WL_09	1.673720121947282
+723	Control	Bacilli sp. UNIPD10	WL_09	
+849	Control	Peptococcales sp. UNIPD24	WL_09	2.651856319667577
+1606	AA	Moorella thermoacetica UNIPD30	WL_09	1.716122821238839
+1607	AA+Ab	Moorella thermoacetica UNIPD30	WL_09	7.789557546248724
+1479	Control	Tissierellaceae sp. UNIPD12	WL_09	165.33905449183325
+1481	AA+Ab	Tissierellaceae sp. UNIPD12	WL_09	195.2624131017504
+156	Control	Firmicutes sp. UNIPD7	WL_09	2.5031188051585516
+1164	Control	Limnochordia sp. UNIPD14	WL_09	114.14407914309805
+1165	AA	Limnochordia sp. UNIPD14	WL_09	115.28908372789817
+219	Control	Acetivibrionales sp. UNIPD20	WL_09	1.0070493454179257
+220	AA	Acetivibrionales sp. UNIPD20	WL_09	1.0070493454179257
+914	AA+Ab	Bacteria sp. UNIPD9	WL_09	5.58479748931228
+1166	AA+Ab	Limnochordia sp. UNIPD14	WL_09	134.756444438763
+1796	AA+Ab	Tepidimicrobiaceae sp. UNIPD23	WL_09	2.853088381503924
+1794	Control	Tepidimicrobiaceae sp. UNIPD23	WL_09	5.353400571653215
+282	Control	Lutisporaceae sp. UNIPD17	WL_09	8.109916880510584
+977	AA+Ab	G. thermodenitrificans UNIPD6	WL_09	3.2010820315586566
+976	AA	G. thermodenitrificans UNIPD6	WL_09	3.201082031558656
+1355	AA+Ab	Limnochordia sp. UNIPD22	WL_09	24.304855202104847
+1480	AA	Tissierellaceae sp. UNIPD12	WL_09	113.31455348516596
+725	AA+Ab	Bacilli sp. UNIPD10	WL_09	
+536	AA+Ab	Tepidanaerobacteraceae sp. UNIPD3	WL_09	2.3781950058966035
+283	AA	Lutisporaceae sp. UNIPD17	WL_09	5.297840671337608
+788	AA+Ab	Tepidanaerobacteraceae sp. UNIPD1	WL_09	1.6693763106430106
+787	AA	Tepidanaerobacteraceae sp. UNIPD1	WL_09	1.2817794114182044
+786	Control	Tepidanaerobacteraceae sp. UNIPD1	WL_09	1.540177344234742
+30	Control	C. subterraneus UNIPD13	WL_09	113.23513127462485
+1985	AA+Ab	P. thermosuccinogenes UNIPD28	WL_09	1.9132962881844908
+1984	AA	P. thermosuccinogenes UNIPD28	WL_09	1.0332371447200803
+1983	Control	P. thermosuccinogenes UNIPD28	WL_09	1.0332371447200803
+31	AA	C. subterraneus UNIPD13	WL_09	116.37013286245985
+32	AA+Ab	C. subterraneus UNIPD13	WL_09	80.74969583021944
+1101	Control	Aeribacillus composti  UNIPD16	WL_09	1.0256410256410255
+1102	AA	Aeribacillus composti  UNIPD16	WL_09	1.0256410256410255
+1103	AA+Ab	Aeribacillus composti  UNIPD16	WL_09	1.0256410256410255
+912	Control	Bacteria sp. UNIPD9	WL_09	1.3399189463019254
+1416	Control	C. subterraneus  UNIPD8	WL_09	96.22495981116737
+1418	AA+Ab	C. subterraneus  UNIPD8	WL_09	77.56494683906195
+93	Control	Tepidanaerobacteraceae sp. UNIPD27	WL_09	6.632268441571568
+94	AA	Tepidanaerobacteraceae sp. UNIPD27	WL_09	7.0400150029471895
+95	AA+Ab	Tepidanaerobacteraceae sp. UNIPD27	WL_09	7.123797720503594
+1922	AA+Ab	Moorellia sp. UNIPD25	WL_09	2.4752475247524752
+1921	AA	Moorellia sp. UNIPD25	WL_09	1.6501650165016502
+1920	Control	Moorellia sp. UNIPD25	WL_09	2.2002200220022003
+1040	AA+Ab	Peptococcales sp. UNIPD29	WL_09	2.5302438426695364
+1039	AA	Peptococcales sp. UNIPD29	WL_09	1.821876336031675
+1038	Control	Peptococcales sp. UNIPD29	WL_09	2.065272722665497
+534	Control	Tepidanaerobacteraceae sp. UNIPD3	WL_09	4.2669005543434855
+535	AA	Tepidanaerobacteraceae sp. UNIPD3	WL_09	3.2715007594873273
+1417	AA	C. subterraneus  UNIPD8	WL_09	122.45115399184539
+284	AA+Ab	Lutisporaceae sp. UNIPD17	WL_09	2.2050804821971526
+1795	AA	Tepidimicrobiaceae sp. UNIPD23	WL_09	4.015779543163005
+1353	Control	Limnochordia sp. UNIPD22	WL_09	61.97201221477331
+851	AA+Ab	Peptococcales sp. UNIPD24	WL_09	3.8273738579144334
+1732	AA	Firmicutes sp. UNIPD31	WL_09	3.0464751704902784
+1668	Control	Symbiobacterium sp. UNIPD15	WL_09	12.539116866671288
+1669	AA	Symbiobacterium sp. UNIPD15	WL_09	22.06962339898691
+1670	AA+Ab	Symbiobacterium sp. UNIPD15	WL_09	10.505454968809698
+1227	Control	T. xylanilyticum UNIPD19	WL_09	2.383460537665573
+1731	Control	Firmicutes sp. UNIPD31	WL_09	1.6847354790149265
+850	AA	Peptococcales sp. UNIPD24	WL_09	3.8851296932263284
+597	Control	S. terraclitae UNIPD18	WL_09	2.3028209556706964
+1228	AA	T. xylanilyticum UNIPD19	WL_09	4.413571679118432
+1229	AA+Ab	T. xylanilyticum UNIPD19	WL_09	1.8287833162189324
+598	AA	S. terraclitae UNIPD18	WL_09	1.7271157167530224
+1543	AA	Carbobacillus sp. UNIPD11	WL_09	3.24875683450662
+410	AA+Ab	Tepidanaerobacteraceae sp. UNIPD32	WL_09	2.410271934132505
+599	AA+Ab	S. terraclitae UNIPD18	WL_09	3.454231433506045
+345	Control	Peptostreptococcales sp. UNIPD2	WL_09	1.736111111111111
+346	AA	Peptostreptococcales sp. UNIPD2	WL_09	1.736111111111111
+347	AA+Ab	Peptostreptococcales sp. UNIPD2	WL_09	1.736111111111111
+473	AA+Ab	Tepidimicrobiaceae sp. UNIPD26	WL_09	5.386931565539747
+409	AA	Tepidanaerobacteraceae sp. UNIPD32	WL_09	1.8146908964937982
+472	AA	Tepidimicrobiaceae sp. UNIPD26	WL_09	6.230263984008971
+408	Control	Tepidanaerobacteraceae sp. UNIPD32	WL_09	1.7821951211538736
+471	Control	Tepidimicrobiaceae sp. UNIPD26	WL_09	6.645099321150582
+913	AA	Bacteria sp. UNIPD9	WL_09	1.3399189463019254
+1354	AA	Limnochordia sp. UNIPD22	WL_09	12.680610057676182
+975	Control	G. thermodenitrificans UNIPD6	WL_09	3.201082031558656
+1542	Control	Carbobacillus sp. UNIPD11	WL_09	4.842217163793629
+1544	AA+Ab	Carbobacillus sp. UNIPD11	WL_09	4.866587393853715
+1733	AA+Ab	Firmicutes sp. UNIPD31	WL_09	3.4184044294771034
+1046	AA+Ab	Peptococcales sp. UNIPD29	WL_10	1.2079371390111187
+1928	AA+Ab	Moorellia sp. UNIPD25	WL_10	0.835421888053467
+99	Control	Tepidanaerobacteraceae sp. UNIPD27	WL_10	4.033041108476023
+1927	AA	Moorellia sp. UNIPD25	WL_10	1.113895850737956
+1926	Control	Moorellia sp. UNIPD25	WL_10	1.113895850737956
+1674	Control	Symbiobacterium sp. UNIPD15	WL_10	3.5744406201413828
+1675	AA	Symbiobacterium sp. UNIPD15	WL_10	18.85510429826729
+1676	AA+Ab	Symbiobacterium sp. UNIPD15	WL_10	12.259514085854093
+100	AA	Tepidanaerobacteraceae sp. UNIPD27	WL_10	1.2537290320936552
+101	AA+Ab	Tepidanaerobacteraceae sp. UNIPD27	WL_10	2.635056148623384
+1044	Control	Peptococcales sp. UNIPD29	WL_10	1.6535637995470693
+1045	AA	Peptococcales sp. UNIPD29	WL_10	0.869762847305775
+1424	AA+Ab	C. subterraneus  UNIPD8	WL_10	94.1159308218549
+288	Control	Lutisporaceae sp. UNIPD17	WL_10	3.648447949451652
+1422	Control	C. subterraneus  UNIPD8	WL_10	166.58447736515174
+541	AA	Tepidanaerobacteraceae sp. UNIPD3	WL_10	1.8946977747676013
+792	Control	Tepidanaerobacteraceae sp. UNIPD1	WL_10	0.8375209380234506
+542	AA+Ab	Tepidanaerobacteraceae sp. UNIPD3	WL_10	1.483252090651034
+1550	AA+Ab	Carbobacillus sp. UNIPD11	WL_10	3.088344721192486
+1235	AA+Ab	T. xylanilyticum UNIPD19	WL_10	1.7402123161350294
+1234	AA	T. xylanilyticum UNIPD19	WL_10	5.840515906201849
+1549	AA	Carbobacillus sp. UNIPD11	WL_10	1.7081915542614656
+1991	AA+Ab	P. thermosuccinogenes UNIPD28	WL_10	0.7936103651492055
+1990	AA	P. thermosuccinogenes UNIPD28	WL_10	0.8571466037652798
+1989	Control	P. thermosuccinogenes UNIPD28	WL_10	0.8571466037652798
+1423	AA	C. subterraneus  UNIPD8	WL_10	126.90903111612329
+1548	Control	Carbobacillus sp. UNIPD11	WL_10	2.833077807997696
+36	Control	C. subterraneus UNIPD13	WL_10	168.90258581053345
+37	AA	C. subterraneus UNIPD13	WL_10	121.93520428429963
+38	AA+Ab	C. subterraneus UNIPD13	WL_10	88.62935560356149
+416	AA+Ab	Tepidanaerobacteraceae sp. UNIPD32	WL_10	1.4445212074446137
+415	AA	Tepidanaerobacteraceae sp. UNIPD32	WL_10	0.8419630714381562
+1107	Control	Aeribacillus composti  UNIPD16	WL_10	4.065040650406504
+793	AA	Tepidanaerobacteraceae sp. UNIPD1	WL_10	0.8375209380234506
+414	Control	Tepidanaerobacteraceae sp. UNIPD32	WL_10	1.378387287223112
+1108	AA	Aeribacillus composti  UNIPD16	WL_10	4.065040650406504
+1109	AA+Ab	Aeribacillus composti  UNIPD16	WL_10	4.065040650406504
+1233	Control	T. xylanilyticum UNIPD19	WL_10	2.580588852810841
+919	AA	Bacteria sp. UNIPD9	WL_10	1.3993842709207946
+729	Control	Bacilli sp. UNIPD10	WL_10	2.3420239083655496
+920	AA+Ab	Bacteria sp. UNIPD9	WL_10	2.0938023450586267
+227	AA+Ab	Acetivibrionales sp. UNIPD20	WL_10	0.8375209380234506
+1739	AA+Ab	Firmicutes sp. UNIPD31	WL_10	3.1701109596961268
+1170	Control	Limnochordia sp. UNIPD14	WL_10	69.0327132792374
+1171	AA	Limnochordia sp. UNIPD14	WL_10	54.33377407022365
+1485	Control	Tissierellaceae sp. UNIPD12	WL_10	293.93684112303725
+1802	AA+Ab	Tepidimicrobiaceae sp. UNIPD23	WL_10	4.565957203165428
+1801	AA	Tepidimicrobiaceae sp. UNIPD23	WL_10	1.9900146160068353
+1800	Control	Tepidimicrobiaceae sp. UNIPD23	WL_10	2.280373952667949
+1611	Control	Moorella thermoacetica UNIPD30	WL_10	0.845270714852773
+1486	AA	Tissierellaceae sp. UNIPD12	WL_10	202.4232041999278
+1487	AA+Ab	Tissierellaceae sp. UNIPD12	WL_10	277.8371948308637
+1172	AA+Ab	Limnochordia sp. UNIPD14	WL_10	117.19401227749162
+983	AA+Ab	G. thermodenitrificans UNIPD6	WL_10	0.9068511661564316
+982	AA	G. thermodenitrificans UNIPD6	WL_10	0.9068511661564317
+603	Control	S. terraclitae UNIPD18	WL_10	1.113895850737956
+981	Control	G. thermodenitrificans UNIPD6	WL_10	0.9068511661564317
+604	AA	S. terraclitae UNIPD18	WL_10	0.835421888053467
+605	AA+Ab	S. terraclitae UNIPD18	WL_10	0.835421888053467
+1612	AA	Moorella thermoacetica UNIPD30	WL_10	0.8666851433894639
+1359	Control	Limnochordia sp. UNIPD22	WL_10	4.713851147035553
+290	AA+Ab	Lutisporaceae sp. UNIPD17	WL_10	1.0610913598542688
+226	AA	Acetivibrionales sp. UNIPD20	WL_10	0.8375209380234506
+225	Control	Acetivibrionales sp. UNIPD20	WL_10	0.8375209380234506
+1738	AA	Firmicutes sp. UNIPD31	WL_10	4.213544842160382
+1737	Control	Firmicutes sp. UNIPD31	WL_10	4.930933372895173
+540	Control	Tepidanaerobacteraceae sp. UNIPD3	WL_10	1.769114434202231
+731	AA+Ab	Bacilli sp. UNIPD10	WL_10	1.7958590946970687
+730	AA	Bacilli sp. UNIPD10	WL_10	2.4597590269667893
+289	AA	Lutisporaceae sp. UNIPD17	WL_10	1.386504779311238
+857	AA+Ab	Peptococcales sp. UNIPD24	WL_10	1.60889102576666
+856	AA	Peptococcales sp. UNIPD24	WL_10	1.5754002310400026
+353	AA+Ab	Peptostreptococcales sp. UNIPD2	WL_10	2.083333333333333
+352	AA	Peptostreptococcales sp. UNIPD2	WL_10	2.083333333333333
+162	Control	Firmicutes sp. UNIPD7	WL_10	1.9058345672007686
+163	AA	Firmicutes sp. UNIPD7	WL_10	0.9851720173331969
+794	AA+Ab	Tepidanaerobacteraceae sp. UNIPD1	WL_10	0.8375209380234506
+164	AA+Ab	Firmicutes sp. UNIPD7	WL_10	1.3835901551703342
+1865	AA+Ab	Moorellia sp. UNIPD5	WL_10	8.868189607831354
+1864	AA	Moorellia sp. UNIPD5	WL_10	4.268309667635257
+1863	Control	Moorellia sp. UNIPD5	WL_10	9.630022142178001
+477	Control	Tepidimicrobiaceae sp. UNIPD26	WL_10	3.0453831699542104
+479	AA+Ab	Tepidimicrobiaceae sp. UNIPD26	WL_10	2.648345364552878
+478	AA	Tepidimicrobiaceae sp. UNIPD26	WL_10	4.639787028066819
+1613	AA+Ab	Moorella thermoacetica UNIPD30	WL_10	1.2036627866690883
+351	Control	Peptostreptococcales sp. UNIPD2	WL_10	2.083333333333333
+1361	AA+Ab	Limnochordia sp. UNIPD22	WL_10	5.236883018482366
+1360	AA	Limnochordia sp. UNIPD22	WL_10	2.0981951605358473
+855	Control	Peptococcales sp. UNIPD24	WL_10	2.081783862343364
+918	Control	Bacteria sp. UNIPD9	WL_10	1.3993842709207949

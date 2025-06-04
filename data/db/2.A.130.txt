@@ -1,0 +1,45 @@
+<TABLE>
+<TR><TD COLSPAN=5><a name="description"></a>&nbsp;<p><p style='text-align: center;'><strong>2.A.130.&nbsp; The Type 9 Secretory System (T9SS) Family&nbsp; </strong></p>
+<p>The type 9 secretion system (T9SS) is a protein export pathway in bacteria of the Gram-negative Fibrobacteres-Chlorobi-Bacteroidetes 
+superphylum and is an essential determinant of pathogenicity in severe 
+periodontal disease. The central element of the T9SS is a protein-conducting translocon located in the bacterial 
+outer membrane. Using cryo-electron microscopy,&nbsp;<span id='ref34549183.30405243' class='cite'>Lauber <em>et al.</em> 2018</span> provided 
+structural evidence that the translocon is the T9SS protein SprA. SprA 
+forms a large (36-strand) single polypeptide transmembrane 
+&beta;-barrel. The barrel pore is capped on the extracellular end, but has a 
+lateral opening to the external membrane surface. Structures of SprA 
+bound to different components of the T9SS showed that partner proteins 
+control access to the lateral opening and to the periplasmic end of the 
+pore. The SprA porin has a distinctive 
+architecture that uses an alternating access mechanism in which the two 
+ends of the protein-conducting channel are open at different times in response to the proton motive force (<em>pmf</em>).</p>
+<p>T9SS substrates are large (100&ndash;650&nbsp;kDa) multi-domain proteins that 
+fold in the periplasm before being exported through the outer membrane 
+translocon. Substrates are targeted to the translocon by means of a ~100 aa C-terminal folded signal domain (CTD). Distinct type A and type B CTDs differ in the T9SS components required for their export (<span id='ref34549183.30405243' class='cite'>Lauber <em>et al.</em> 2018</span>).</p>
+<p>The Bacteroidete T9SS contains at least 15 proteins.
+ GldK, GldL, GldM and GldN form a trans-periplasmic motor complex that 
+is thought to use the inner membrane <em>pmf </em>to drive 
+secretion at the outer membrane. PorQ, PorU, PorV and PorZ form a cell surface-exposed attachment complex that proteolytically removes the substrate CTD following transport and covalently links some substrate proteins to a lipopolysaccharide anchor.
+ A pool of PorV proteins in the outer membrane may shuttle 
+substrate proteins from the translocon to the attachment complex (<span id='ref34549183.30405243' class='cite'>Lauber <em>et al.</em> 2018</span>). The phylum Bacteroidetes is large and diverse, with rapid gliding 
+motility and the ability to digest macromolecules associated with many 
+genera and species. A novel protein secretion system, the Por secretion 
+system (PorSS; Type IX secretions system (T9SS)), has been identified in
+ two members of the phylum, the gliding bacterium <em>Flavobacterium johnsoniae</em> and the nonmotile oral pathogen <em>Porphyromonas gingivalis</em>&nbsp;(<a class='reflink' href='http://www.tcdb.org/search/result.php?tc=9.a.25#ref9735'>McBride and Zhu 2013</a>).</p>
+<p>The components of the T9SS complex are not similar in sequence to 
+those of other well-studied bacterial secretion systems. The <em>F. johnsoniae</em> T9SS genes are a subset of the gliding motility genes, suggesting a role for the secretory system in motility.&nbsp; <em>F. johnsoniae</em> T9SS is needed for assembly of the gliding motility apparatus and for secretion of a chitinase, and the <em>P. gingivalis</em> T9SS is involved in secretion of gingipain protease virulence factors.
+ Comparative analysis of 37 genomes of members of the phylum 
+Bacteroidetes revealed the widespread occurrence of gliding motility 
+genes and T9SS genes. Genes associated with other bacterial protein 
+secretion systems were less common. It has been suggested that gliding 
+motility is common among bacteria. Microscopic 
+observations confirmed that organisms previously described as nonmotile,
+ including <em>Croceibacter atlanticus</em>, '<em>Gramella forsetii</em>,' <em>Paludibacter propionicigenes</em>, <em>Riemerella anatipestifer</em>, and <em>Robiginitalea biformata</em>,
+ exhibit gliding motility. Three genes (<em>gldA</em>, <em>gldF</em> and <em>gldG</em>) that encode
+ an apparent ATP-binding cassette transporter required for <em>F. johnsoniae</em> gliding were absent from two related gliding bacteria, suggesting that this transporter is not central to gliding motility (<a class='reflink' href='http://www.tcdb.org/search/result.php?tc=9.a.25#ref9735'>McBride and Zhu 2013</a>).&nbsp;</p>
+<p>The transport reaction believed to be catalyzed by the T9SS, energized by the <em>pmf</em>, is:</p>
+<p style='text-align: center;'>Folded protein (periplasm) &rarr; Folded protein (extrenal medium).</p><BR></TD></TR><TR><TD COLSPAN=5><a name="references"></a>&nbsp;<p><B>References:</B><P></TD></TR><TR><TD COLSPAN=5>Lauber, F., J.C. Deme, S.M. Lea, and B.C. Berks. (2018).  Type 9 secretion system structures reveal a new protein transport mechanism.  Nature 564: 77-82.<BR><HR></TD></TR><TR><TD COLSPAN=5>McBride, M.J. and Y. Zhu. (2013).  Gliding motility and Por secretion system genes are widespread among members of the phylum bacteroidetes.  J. Bacteriol. 195: 270-278.<BR><HR></TD></TR><TR><TD COLSPAN=5>Veith, P.D., M.D. Glew, D.G. Gorasia, and E.C. Reynolds. (2017).  Type IX secretion: the generation of bacterial cell surface coatings involved in virulence, gliding motility and the degradation of complex biopolymers.  Mol. Microbiol. 106: 35-53.<BR><HR></TD></TR><TR><TD COLSPAN=5><B>Examples:</B><P></TD></TR><TR bgcolor="#99ccff"><TD>TC#</TD><TD>Name</TD><TD>Organismal Type</TD><TD>Example</TD></TR><TR bgcolor="#99ccff"><TD><b><A NAME="2.A.130.1.1"></A><A HREF="tcprotein.php?substrate=2.A.130.1.1&tcname=">2.A.130.1.1</a></TD><TD><b><font color=#3333CC><p>The Type 9 protein secretory system (T9SS) of about 15 components (<span id="ref34549183.30405243" class="cite"><span id="ref34549348.30405243" class="cite">Lauber <em>et al.</em> 2018</span></span>).&nbsp; See the family description for details, and the examples cited below for the characteristics and functions, when known, for the 15 potential constituents, which are listed with functional information in the left hand column of this entry (<span id="ref9702.23123910" class="cite">McBride and Zhu 2013</span>). <span id="ref34550557.28714554" class="cite">Veith <em>et al.</em> 2017</span> have reviewed these T9SSs, and describe 18 (or 19) constituents including regulatory proteins.</p></TD><TD><b><font color=#3333CC></TD><TD><b><font color=#3333CC><p>T9SS of <em>Porphyromonas gingivalis&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br /></em></p>
+<p>SprA, Sov, 2316 aas, forms a 32 stranded &beta;-barrel and is likely to be the channel for the folded protein substrates. Q7MW38 <br />Uncharacterized 8 stranded OM &beta;-barrel protein of 235 aas; associated with PorK and PorN. Q7MXJ5<br />Putative OM lipoprotein of 827 aas. Multiple copies in some bacteria. Q7MWR1<br />Predicted TonB-dependent receptor; lipoprotein of 491 aas. Q7MXB7<br />PorK, GldK, OM lipoprotein of 346 aas. Forms large periplasmic rings with PorN. Q7MXB6<br />PorL, GldL, IM protein of 516 aas and 2 TMSs. Interacts with PorM and PorX. Q7MXB5<br />PorM, GldM, IM protein of 361 aas with periplasmic domains. Interacts with PorL, PorK and PlrN. Q7MXB4<br />PorN, GldN, forms large periplasmic rings with PorK. B2RLE7<br />GldO, Paralog of PorN; not present in <em>P gingivalis</em>. Both GldN and GldO need to be disrupted to cause loss of motility in <em>F. johnsoniae</em>. Q7MXB8<br />PorP, SprF, SprP, predicted OM &beta;-barrel protein of 346 aas with multiple copies in some bacteria. Q7MWK8<br />PorQ, predicted 14 stranded OM &beta;-barrel protein of193 aas, like FadL. Binds PorZ. Q7MXL2<br />PorT, SprT, predicted 8 stranded OM &beta;-barrel protein of 1123 aas. Q7MXX2<br />PorU, Predicted C25 protease (gingipain) of 391 aas.&nbsp; Contains an uncleaved T9SS signal.&nbsp; May be the T9SS sortase. Binds PorV. Q7MXX1<br />PorV, LptO, Predicted 14 stranded OM &beta;-barrel protein of 1160 aas; like FadL.&nbsp; Binds T9SS substrates including PorU.&nbsp; May be a shuttle protein.<br />PorW, SprE, predicted lipoprotein with TPR repeats, of 518 aas. Q7MVV4</p></TD></TR><TR bgcolor="#ffffff" valign=top><TD COLSPAN=4 valign=top>&nbsp;</CENTER></TD></TR><TR bgcolor="#99ccff"><TD><b><A NAME="2.A.130.1.2"></A><A HREF="tcprotein.php?substrate=2.A.130.1.2&tcname=">2.A.130.1.2</a></TD><TD><b><font color=#3333CC><p>The Type 9 secretion system with 6 components, SprA, SprE, SprT, GldK, GldL and GldM.</p></TD><TD><b><font color=#3333CC></TD><TD><b><font color=#3333CC><p>6 components of the T9SS of <em>Flavobacterium johnsoniae (Cytophaga johnsonae)</em><em></em><br />GldK (464 aas; 1TMS) (Q5EGM5)<br />GldL (215 aas; 2TMSs) (Q5EGM4)<br />GldR1 (513 aas; 1TMS) (Q5EGM3)<br />SprA (2,403 aas; 1TMS) (Q5I6C7)<br />SprE (870 aas; 1TMS) (A1E5T9)<br />SprT (237 aas; 1TMS) (A5FJX0)<em> </em></p></TD></TR><TR bgcolor="#ffffff" valign=top><TD COLSPAN=4 valign=top>&nbsp;</CENTER></TD></TR></TABLE>
+</CENTER>
+</BODY>
+</HTML>

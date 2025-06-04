@@ -1,0 +1,8 @@
+<TABLE>
+<TR><TD COLSPAN=5><a name="description"></a>&nbsp;<p><p style="text-align: center;"><strong>9.B.273.&nbsp; The Phosphatidate Cytidylyltransferase (PCT) Family</strong>&nbsp;</p>
+<p>Phosphatidate cytidylyltransferases, or diacyl glyceride syntehtases, catalyze the reaction of CTP and 
+phosphatidate to form diphosphate and CDP-diacylglycerol, a central 
+liponucleotide for phospholipid biosynthesis. These proteins are of about 270 aas in length and have about 8 TMSs.</p><BR></TD></TR><TR><TD COLSPAN=5><B>Examples:</B><P></TD></TR><TR bgcolor="#99ccff"><TD>TC#</TD><TD>Name</TD><TD>Organismal Type</TD><TD>Example</TD></TR><TR bgcolor="#99ccff"><TD><b><A NAME="9.B.273.1.1"></A><A HREF="tcprotein.php?substrate=9.B.273.1.1&tcname=">9.B.273.1.1</a></TD><TD><b><font color=#3333CC><p>Phosphatidate cytidylyltransferaseof 385 aas and 9 TM</p></TD><TD><b><font color=#3333CC></TD><TD><b><font color=#3333CC><p>PCT of <em>Streptomyces zinciresistens</em></p></TD></TR><TR bgcolor="#ffffff" valign=top><TD COLSPAN=4 valign=top>&nbsp;</CENTER></TD></TR><TR bgcolor="#99ccff"><TD><b><A NAME="9.B.273.1.2"></A><A HREF="tcprotein.php?substrate=9.B.273.1.2&tcname=">9.B.273.1.2</a></TD><TD><b><font color=#3333CC><p>Phosphatidate cytidylyltransferase of 273 aas and 7 TMSs.</p></TD><TD><b><font color=#3333CC></TD><TD><b><font color=#3333CC><p>PCT of <em>Burkholderia cenocepacia</em></p></TD></TR><TR bgcolor="#ffffff" valign=top><TD COLSPAN=4 valign=top>&nbsp;</CENTER></TD></TR></TABLE>
+</CENTER>
+</BODY>
+</HTML>

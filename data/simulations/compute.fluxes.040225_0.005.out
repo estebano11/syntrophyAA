@@ -1,0 +1,1962 @@
+------------------
+
+--- Iter 0. Remaining 18 ---
+--- Running (1.5, 1.0, 0.7, 0.7, 1.0) ---
+----------------------------------------------
+1.0 standard deviations for the AAs
+----------------------------------
+>	 Control_1_B
+----------------------------------
+['vamb_spades_6', 'vamb_megahit_39', 'metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'vamb_spades_298', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'vamb_megahit_77', 'metabat2_spades_25', 'maxbin2_megahit_017', 'vamb_megahit_295', 'vamb_spades_1', 'vamb_spades_222', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'metabat2_megahit_14', 'maxbin2_spades_001']
+Built a community with a total of 39005 reactions.
+Built a community with a total of 34295 metabolites.
+--- Base ---
+first
+0.20541750487665023
+--- CoCo ---
+first
+0.13293292799144535
+----------------------------------
+>	 Control_2_B
+----------------------------------
+['metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'vamb_spades_298', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'vamb_megahit_77', 'metabat2_spades_25', 'maxbin2_megahit_017', 'vamb_megahit_295', 'vamb_spades_1', 'vamb_spades_222', 'concoct_megahit_6', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'maxbin2_spades_001']
+Built a community with a total of 36117 reactions.
+Built a community with a total of 31818 metabolites.
+--- Base ---
+first
+0.1190735776444924
+--- CoCo ---
+first
+0.10930312830488238
+----------------------------------
+>	 Control_3_B
+----------------------------------
+['metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'vamb_spades_298', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'vamb_megahit_77', 'metabat2_spades_25', 'maxbin2_megahit_017', 'vamb_megahit_295', 'vamb_spades_1', 'vamb_spades_222', 'concoct_megahit_6', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'maxbin2_spades_001']
+Built a community with a total of 36117 reactions.
+Built a community with a total of 31818 metabolites.
+--- Base ---
+Trying Base with original community in sample Control_3_B.
+-----Running the solution with pfba----
+0.16845557108471632
+--- CoCo ---
+Trying coco with original community in sample Control_3_B.
+-----Running the solution with pfba----
+0.10623630168423699
+----------------------------------
+>	 AA_1_B
+----------------------------------
+['vamb_spades_6', 'metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'vamb_megahit_77', 'metabat2_spades_25', 'maxbin2_megahit_017', 'vamb_megahit_295', 'vamb_spades_1', 'vamb_spades_222', 'concoct_megahit_6', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'metabat2_megahit_14', 'maxbin2_spades_001']
+Built a community with a total of 37163 reactions.
+Built a community with a total of 32773 metabolites.
+--- Base ---
+Trying Base with original community in sample AA_1_B.
+-----Running the solution with pfba----
+0.2164865931921362
+--- CoCo ---
+Trying coco with original community in sample AA_1_B.
+-----Running the solution with pfba----
+0.10672646057549377
+----------------------------------
+>	 AA_2_B
+----------------------------------
+['vamb_megahit_39', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'metabat2_spades_25', 'maxbin2_megahit_017', 'vamb_megahit_295', 'vamb_spades_1', 'vamb_spades_222', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'maxbin2_spades_001']
+Built a community with a total of 31857 reactions.
+Built a community with a total of 27971 metabolites.
+--- Base ---
+first
+0.13514630378342207
+--- CoCo ---
+first
+0.1238842705215495
+----------------------------------
+>	 AA_3_B
+----------------------------------
+['metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'metabat2_spades_25', 'maxbin2_megahit_017', 'vamb_megahit_295', 'vamb_spades_1', 'vamb_spades_222', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'maxbin2_spades_001']
+Built a community with a total of 31324 reactions.
+Built a community with a total of 27638 metabolites.
+--- Base ---
+first
+0.14713767000283423
+--- CoCo ---
+first
+0.13497590143859037
+----------------------------------
+>	 AAAb_1_B
+----------------------------------
+['vamb_spades_6', 'vamb_megahit_39', 'metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'metabat2_spades_25', 'maxbin2_megahit_017', 'maxbin2_spades_028', 'vamb_spades_1', 'vamb_spades_222', 'concoct_megahit_6', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'metabat2_megahit_14', 'maxbin2_spades_001']
+Built a community with a total of 38235 reactions.
+Built a community with a total of 33474 metabolites.
+--- Base ---
+first
+0.1540714721307665
+--- CoCo ---
+first
+0.14134575452697742
+----------------------------------
+>	 AAAb_2_B
+----------------------------------
+['vamb_spades_6', 'vamb_megahit_39', 'metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'vamb_spades_298', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'metabat2_spades_25', 'maxbin2_megahit_017', 'maxbin2_spades_028', 'vamb_spades_222', 'concoct_megahit_6', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'metabat2_megahit_14', 'maxbin2_spades_001']
+Built a community with a total of 38291 reactions.
+Built a community with a total of 33512 metabolites.
+--- Base ---
+first
+0.1175843554252361
+--- CoCo ---
+first
+0.10719187408874394
+Finished iter 0
+----------------------------------------------
+Finished iter 0
+------------------
+
+--- Iter 1. Remaining 17 ---
+--- Running (1.5, 1.0, 0.8, 0.8, 1.0) ---
+----------------------------------------------
+1.0 standard deviations for the AAs
+----------------------------------
+>	 Control_1_B
+----------------------------------
+['vamb_spades_6', 'vamb_megahit_39', 'metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'vamb_spades_298', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'vamb_megahit_77', 'metabat2_spades_25', 'maxbin2_megahit_017', 'vamb_megahit_295', 'vamb_spades_1', 'vamb_spades_222', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'metabat2_megahit_14', 'maxbin2_spades_001']
+Built a community with a total of 39005 reactions.
+Built a community with a total of 34295 metabolites.
+--- Base ---
+first
+0.23507879330471365
+--- CoCo ---
+first
+0.17361220790896145
+----------------------------------
+>	 Control_2_B
+----------------------------------
+['metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'vamb_spades_298', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'vamb_megahit_77', 'metabat2_spades_25', 'maxbin2_megahit_017', 'vamb_megahit_295', 'vamb_spades_1', 'vamb_spades_222', 'concoct_megahit_6', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'maxbin2_spades_001']
+Built a community with a total of 36117 reactions.
+Built a community with a total of 31818 metabolites.
+--- Base ---
+first
+0.1567017241386438
+--- CoCo ---
+first
+0.14267163938878888
+----------------------------------
+>	 Control_3_B
+----------------------------------
+['metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'vamb_spades_298', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'vamb_megahit_77', 'metabat2_spades_25', 'maxbin2_megahit_017', 'vamb_megahit_295', 'vamb_spades_1', 'vamb_spades_222', 'concoct_megahit_6', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'maxbin2_spades_001']
+Built a community with a total of 36117 reactions.
+Built a community with a total of 31818 metabolites.
+--- Base ---
+Trying Base with original community in sample Control_3_B.
+-----Running the solution with pfba----
+0.19252076128527548
+--- CoCo ---
+Trying coco with original community in sample Control_3_B.
+-----Running the solution with pfba----
+0.13851466648372682
+----------------------------------
+>	 AA_1_B
+----------------------------------
+['vamb_spades_6', 'metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'vamb_megahit_77', 'metabat2_spades_25', 'maxbin2_megahit_017', 'vamb_megahit_295', 'vamb_spades_1', 'vamb_spades_222', 'concoct_megahit_6', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'metabat2_megahit_14', 'maxbin2_spades_001']
+Built a community with a total of 37163 reactions.
+Built a community with a total of 32773 metabolites.
+--- Base ---
+Trying Base with original community in sample AA_1_B.
+-----Running the solution with pfba----
+0.24741322171246638
+--- CoCo ---
+Trying coco with original community in sample AA_1_B.
+-----Running the solution with pfba----
+0.17812317382748355
+----------------------------------
+>	 AA_2_B
+----------------------------------
+['vamb_megahit_39', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'metabat2_spades_25', 'maxbin2_megahit_017', 'vamb_megahit_295', 'vamb_spades_1', 'vamb_spades_222', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'maxbin2_spades_001']
+Built a community with a total of 31857 reactions.
+Built a community with a total of 27971 metabolites.
+--- Base ---
+first
+0.1727159566072365
+--- CoCo ---
+first
+0.16210108750240138
+----------------------------------
+>	 AA_3_B
+----------------------------------
+['metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'metabat2_spades_25', 'maxbin2_megahit_017', 'vamb_megahit_295', 'vamb_spades_1', 'vamb_spades_222', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'maxbin2_spades_001']
+Built a community with a total of 31324 reactions.
+Built a community with a total of 27638 metabolites.
+--- Base ---
+first
+0.19446729513107197
+--- CoCo ---
+first
+0.06555958744345555
+----------------------------------
+>	 AAAb_1_B
+----------------------------------
+['vamb_spades_6', 'vamb_megahit_39', 'metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'metabat2_spades_25', 'maxbin2_megahit_017', 'maxbin2_spades_028', 'vamb_spades_1', 'vamb_spades_222', 'concoct_megahit_6', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'metabat2_megahit_14', 'maxbin2_spades_001']
+Built a community with a total of 38235 reactions.
+Built a community with a total of 33474 metabolites.
+--- Base ---
+first
+0.19518906074773062
+--- CoCo ---
+first
+0.18429460208320186
+----------------------------------
+>	 AAAb_2_B
+----------------------------------
+['vamb_spades_6', 'vamb_megahit_39', 'metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'vamb_spades_298', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'metabat2_spades_25', 'maxbin2_megahit_017', 'maxbin2_spades_028', 'vamb_spades_222', 'concoct_megahit_6', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'metabat2_megahit_14', 'maxbin2_spades_001']
+Built a community with a total of 38291 reactions.
+Built a community with a total of 33512 metabolites.
+--- Base ---
+first
+0.1525117095798802
+--- CoCo ---
+first
+0.14048132171392308
+Finished iter 0
+----------------------------------------------
+Finished iter 1
+------------------
+
+--- Iter 10. Remaining 8 ---
+--- Running (3.0, 1.0, 0.7, 0.7, 1.5) ---
+----------------------------------------------
+1.5 standard deviations for the AAs
+----------------------------------
+>	 Control_1_B
+----------------------------------
+['vamb_spades_6', 'vamb_megahit_39', 'metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'vamb_spades_298', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'vamb_megahit_77', 'metabat2_spades_25', 'maxbin2_megahit_017', 'vamb_megahit_295', 'vamb_spades_1', 'vamb_spades_222', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'metabat2_megahit_14', 'maxbin2_spades_001']
+Built a community with a total of 39005 reactions.
+Built a community with a total of 34295 metabolites.
+--- Base ---
+first
+0.21173937204335141
+--- CoCo ---
+first
+0.13686502064282433
+----------------------------------
+>	 Control_2_B
+----------------------------------
+['metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'vamb_spades_298', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'vamb_megahit_77', 'metabat2_spades_25', 'maxbin2_megahit_017', 'vamb_megahit_295', 'vamb_spades_1', 'vamb_spades_222', 'concoct_megahit_6', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'maxbin2_spades_001']
+Built a community with a total of 36117 reactions.
+Built a community with a total of 31818 metabolites.
+--- Base ---
+first
+0.12334027860459193
+--- CoCo ---
+first
+0.11311779717760456
+----------------------------------
+>	 Control_3_B
+----------------------------------
+['metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'vamb_spades_298', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'vamb_megahit_77', 'metabat2_spades_25', 'maxbin2_megahit_017', 'vamb_megahit_295', 'vamb_spades_1', 'vamb_spades_222', 'concoct_megahit_6', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'maxbin2_spades_001']
+Built a community with a total of 36117 reactions.
+Built a community with a total of 31818 metabolites.
+--- Base ---
+Trying Base with original community in sample Control_3_B.
+-----Running the solution with pfba----
+0.1752361804041175
+--- CoCo ---
+Trying coco with original community in sample Control_3_B.
+-----Running the solution with pfba----
+0.11089267689709416
+----------------------------------
+>	 AA_1_B
+----------------------------------
+['vamb_spades_6', 'metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'vamb_megahit_77', 'metabat2_spades_25', 'maxbin2_megahit_017', 'vamb_megahit_295', 'vamb_spades_1', 'vamb_spades_222', 'concoct_megahit_6', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'metabat2_megahit_14', 'maxbin2_spades_001']
+Built a community with a total of 37163 reactions.
+Built a community with a total of 32773 metabolites.
+--- Base ---
+Trying Base with original community in sample AA_1_B.
+-----Running the solution with pfba----
+0.22127674707840464
+--- CoCo ---
+Trying coco with original community in sample AA_1_B.
+-----Running the solution with pfba----
+0.139339096985822
+----------------------------------
+>	 AA_2_B
+----------------------------------
+['vamb_megahit_39', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'metabat2_spades_25', 'maxbin2_megahit_017', 'vamb_megahit_295', 'vamb_spades_1', 'vamb_spades_222', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'maxbin2_spades_001']
+Built a community with a total of 31857 reactions.
+Built a community with a total of 27971 metabolites.
+--- Base ---
+first
+0.13825844347045688
+--- CoCo ---
+first
+0.1270043778817364
+----------------------------------
+>	 AA_3_B
+----------------------------------
+['metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'metabat2_spades_25', 'maxbin2_megahit_017', 'vamb_megahit_295', 'vamb_spades_1', 'vamb_spades_222', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'maxbin2_spades_001']
+Built a community with a total of 31324 reactions.
+Built a community with a total of 27638 metabolites.
+--- Base ---
+first
+0.15488793706184312
+--- CoCo ---
+first
+0.14205617323314484
+----------------------------------
+>	 AAAb_1_B
+----------------------------------
+['vamb_spades_6', 'vamb_megahit_39', 'metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'metabat2_spades_25', 'maxbin2_megahit_017', 'maxbin2_spades_028', 'vamb_spades_1', 'vamb_spades_222', 'concoct_megahit_6', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'metabat2_megahit_14', 'maxbin2_spades_001']
+Built a community with a total of 38235 reactions.
+Built a community with a total of 33474 metabolites.
+--- Base ---
+first
+0.15854316578226393
+--- CoCo ---
+first
+0.14550276902752118
+----------------------------------
+>	 AAAb_2_B
+----------------------------------
+['vamb_spades_6', 'vamb_megahit_39', 'metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'vamb_spades_298', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'metabat2_spades_25', 'maxbin2_megahit_017', 'maxbin2_spades_028', 'vamb_spades_222', 'concoct_megahit_6', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'metabat2_megahit_14', 'maxbin2_spades_001']
+Built a community with a total of 38291 reactions.
+Built a community with a total of 33512 metabolites.
+--- Base ---
+first
+0.12123905299950745
+--- CoCo ---
+first
+0.11211182296391049
+Finished iter 0
+----------------------------------------------
+Finished iter 10
+------------------
+
+--- Iter 11. Remaining 7 ---
+--- Running (3.0, 1.0, 0.8, 0.8, 1.5) ---
+----------------------------------------------
+1.5 standard deviations for the AAs
+----------------------------------
+>	 Control_1_B
+----------------------------------
+['vamb_spades_6', 'vamb_megahit_39', 'metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'vamb_spades_298', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'vamb_megahit_77', 'metabat2_spades_25', 'maxbin2_megahit_017', 'vamb_megahit_295', 'vamb_spades_1', 'vamb_spades_222', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'metabat2_megahit_14', 'maxbin2_spades_001']
+Built a community with a total of 39005 reactions.
+Built a community with a total of 34295 metabolites.
+--- Base ---
+first
+0.24192988798970663
+--- CoCo ---
+first
+0.17329382192928444
+----------------------------------
+>	 Control_2_B
+----------------------------------
+['metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'vamb_spades_298', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'vamb_megahit_77', 'metabat2_spades_25', 'maxbin2_megahit_017', 'vamb_megahit_295', 'vamb_spades_1', 'vamb_spades_222', 'concoct_megahit_6', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'maxbin2_spades_001']
+Built a community with a total of 36117 reactions.
+Built a community with a total of 31818 metabolites.
+--- Base ---
+first
+0.14850864297819427
+--- CoCo ---
+first
+0.147742671107705
+----------------------------------
+>	 Control_3_B
+----------------------------------
+['metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'vamb_spades_298', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'vamb_megahit_77', 'metabat2_spades_25', 'maxbin2_megahit_017', 'vamb_megahit_295', 'vamb_spades_1', 'vamb_spades_222', 'concoct_megahit_6', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'maxbin2_spades_001']
+Built a community with a total of 36117 reactions.
+Built a community with a total of 31818 metabolites.
+--- Base ---
+Trying Base with original community in sample Control_3_B.
+-----Running the solution with pfba----
+0.20026992030978905
+--- CoCo ---
+Trying coco with original community in sample Control_3_B.
+-----Running the solution with pfba----
+0.14424426038792937
+----------------------------------
+>	 AA_1_B
+----------------------------------
+['vamb_spades_6', 'metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'vamb_megahit_77', 'metabat2_spades_25', 'maxbin2_megahit_017', 'vamb_megahit_295', 'vamb_spades_1', 'vamb_spades_222', 'concoct_megahit_6', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'metabat2_megahit_14', 'maxbin2_spades_001']
+Built a community with a total of 37163 reactions.
+Built a community with a total of 32773 metabolites.
+--- Base ---
+Trying Base with original community in sample AA_1_B.
+-----Running the solution with pfba----
+0.2528876979678343
+--- CoCo ---
+Trying coco with original community in sample AA_1_B.
+-----Running the solution with pfba----
+0.17549863244595376
+----------------------------------
+>	 AA_2_B
+----------------------------------
+['vamb_megahit_39', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'metabat2_spades_25', 'maxbin2_megahit_017', 'vamb_megahit_295', 'vamb_spades_1', 'vamb_spades_222', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'maxbin2_spades_001']
+Built a community with a total of 31857 reactions.
+Built a community with a total of 27971 metabolites.
+--- Base ---
+first
+0.17499451237873198
+--- CoCo ---
+first
+0.16463023629178763
+----------------------------------
+>	 AA_3_B
+----------------------------------
+['metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'metabat2_spades_25', 'maxbin2_megahit_017', 'vamb_megahit_295', 'vamb_spades_1', 'vamb_spades_222', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'maxbin2_spades_001']
+Built a community with a total of 31324 reactions.
+Built a community with a total of 27638 metabolites.
+--- Base ---
+first
+0.2016396697982573
+--- CoCo ---
+first
+0.18550011245323586
+----------------------------------
+>	 AAAb_1_B
+----------------------------------
+['vamb_spades_6', 'vamb_megahit_39', 'metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'metabat2_spades_25', 'maxbin2_megahit_017', 'maxbin2_spades_028', 'vamb_spades_1', 'vamb_spades_222', 'concoct_megahit_6', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'metabat2_megahit_14', 'maxbin2_spades_001']
+Built a community with a total of 38235 reactions.
+Built a community with a total of 33474 metabolites.
+--- Base ---
+first
+0.20378154894329026
+--- CoCo ---
+first
+0.19006825720342896
+----------------------------------
+>	 AAAb_2_B
+----------------------------------
+['vamb_spades_6', 'vamb_megahit_39', 'metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'vamb_spades_298', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'metabat2_spades_25', 'maxbin2_megahit_017', 'maxbin2_spades_028', 'vamb_spades_222', 'concoct_megahit_6', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'metabat2_megahit_14', 'maxbin2_spades_001']
+Built a community with a total of 38291 reactions.
+Built a community with a total of 33512 metabolites.
+--- Base ---
+first
+0.13936802747350552
+--- CoCo ---
+first
+0.05633449362735707
+Finished iter 0
+----------------------------------------------
+Finished iter 11
+------------------
+
+--- Iter 12. Remaining 6 ---
+--- Running (1.5, 1.0, 0.7, 0.7, 3.0) ---
+----------------------------------------------
+3.0 standard deviations for the AAs
+----------------------------------
+>	 Control_1_B
+----------------------------------
+['vamb_spades_6', 'vamb_megahit_39', 'metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'vamb_spades_298', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'vamb_megahit_77', 'metabat2_spades_25', 'maxbin2_megahit_017', 'vamb_megahit_295', 'vamb_spades_1', 'vamb_spades_222', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'metabat2_megahit_14', 'maxbin2_spades_001']
+Built a community with a total of 39005 reactions.
+Built a community with a total of 34295 metabolites.
+--- Base ---
+first
+3.760635790084421e-08
+--- CoCo ---
+first
+0.13653620689272825
+----------------------------------
+>	 Control_2_B
+----------------------------------
+['metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'vamb_spades_298', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'vamb_megahit_77', 'metabat2_spades_25', 'maxbin2_megahit_017', 'vamb_megahit_295', 'vamb_spades_1', 'vamb_spades_222', 'concoct_megahit_6', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'maxbin2_spades_001']
+Built a community with a total of 36117 reactions.
+Built a community with a total of 31818 metabolites.
+--- Base ---
+first
+0.10898735825037198
+--- CoCo ---
+first
+0.1245633211446832
+----------------------------------
+>	 Control_3_B
+----------------------------------
+['metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'vamb_spades_298', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'vamb_megahit_77', 'metabat2_spades_25', 'maxbin2_megahit_017', 'vamb_megahit_295', 'vamb_spades_1', 'vamb_spades_222', 'concoct_megahit_6', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'maxbin2_spades_001']
+Built a community with a total of 36117 reactions.
+Built a community with a total of 31818 metabolites.
+--- Base ---
+Trying Base with original community in sample Control_3_B.
+-----Running the solution with pfba----
+0.1955780275448878
+--- CoCo ---
+Trying coco with original community in sample Control_3_B.
+-----Running the solution with pfba----
+0.12262354397336185
+----------------------------------
+>	 AA_1_B
+----------------------------------
+['vamb_spades_6', 'metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'vamb_megahit_77', 'metabat2_spades_25', 'maxbin2_megahit_017', 'vamb_megahit_295', 'vamb_spades_1', 'vamb_spades_222', 'concoct_megahit_6', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'metabat2_megahit_14', 'maxbin2_spades_001']
+Built a community with a total of 37163 reactions.
+Built a community with a total of 32773 metabolites.
+--- Base ---
+Trying Base with original community in sample AA_1_B.
+-----Running the solution with pfba----
+0.23564725646502294
+--- CoCo ---
+Trying coco with original community in sample AA_1_B.
+-----Running the solution with pfba----
+0.1486903245835432
+----------------------------------
+>	 AA_2_B
+----------------------------------
+['vamb_megahit_39', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'metabat2_spades_25', 'maxbin2_megahit_017', 'vamb_megahit_295', 'vamb_spades_1', 'vamb_spades_222', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'maxbin2_spades_001']
+Built a community with a total of 31857 reactions.
+Built a community with a total of 27971 metabolites.
+--- Base ---
+first
+0.14936211071098027
+--- CoCo ---
+first
+0.1364408130642001
+----------------------------------
+>	 AA_3_B
+----------------------------------
+['metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'metabat2_spades_25', 'maxbin2_megahit_017', 'vamb_megahit_295', 'vamb_spades_1', 'vamb_spades_222', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'maxbin2_spades_001']
+Built a community with a total of 31324 reactions.
+Built a community with a total of 27638 metabolites.
+--- Base ---
+first
+0.16525130456028944
+--- CoCo ---
+first
+0.1373388854722256
+----------------------------------
+>	 AAAb_1_B
+----------------------------------
+['vamb_spades_6', 'vamb_megahit_39', 'metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'metabat2_spades_25', 'maxbin2_megahit_017', 'maxbin2_spades_028', 'vamb_spades_1', 'vamb_spades_222', 'concoct_megahit_6', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'metabat2_megahit_14', 'maxbin2_spades_001']
+Built a community with a total of 38235 reactions.
+Built a community with a total of 33474 metabolites.
+--- Base ---
+first
+0.17215105500448474
+--- CoCo ---
+first
+0.15302188355543656
+----------------------------------
+>	 AAAb_2_B
+----------------------------------
+['vamb_spades_6', 'vamb_megahit_39', 'metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'vamb_spades_298', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'metabat2_spades_25', 'maxbin2_megahit_017', 'maxbin2_spades_028', 'vamb_spades_222', 'concoct_megahit_6', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'metabat2_megahit_14', 'maxbin2_spades_001']
+Built a community with a total of 38291 reactions.
+Built a community with a total of 33512 metabolites.
+--- Base ---
+first
+0.1375552432503446
+--- CoCo ---
+first
+0.12588123628977696
+Finished iter 0
+----------------------------------------------
+Finished iter 12
+------------------
+
+--- Iter 13. Remaining 5 ---
+--- Running (1.5, 1.0, 0.8, 0.8, 3.0) ---
+----------------------------------------------
+3.0 standard deviations for the AAs
+----------------------------------
+>	 Control_1_B
+----------------------------------
+['vamb_spades_6', 'vamb_megahit_39', 'metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'vamb_spades_298', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'vamb_megahit_77', 'metabat2_spades_25', 'maxbin2_megahit_017', 'vamb_megahit_295', 'vamb_spades_1', 'vamb_spades_222', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'metabat2_megahit_14', 'maxbin2_spades_001']
+Built a community with a total of 39005 reactions.
+Built a community with a total of 34295 metabolites.
+--- Base ---
+first
+0.21131080819198977
+--- CoCo ---
+first
+0.1783135876680767
+----------------------------------
+>	 Control_2_B
+----------------------------------
+['metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'vamb_spades_298', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'vamb_megahit_77', 'metabat2_spades_25', 'maxbin2_megahit_017', 'vamb_megahit_295', 'vamb_spades_1', 'vamb_spades_222', 'concoct_megahit_6', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'maxbin2_spades_001']
+Built a community with a total of 36117 reactions.
+Built a community with a total of 31818 metabolites.
+--- Base ---
+first
+0.17746557559787368
+--- CoCo ---
+first
+0.16269866051106535
+----------------------------------
+>	 Control_3_B
+----------------------------------
+['metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'vamb_spades_298', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'vamb_megahit_77', 'metabat2_spades_25', 'maxbin2_megahit_017', 'vamb_megahit_295', 'vamb_spades_1', 'vamb_spades_222', 'concoct_megahit_6', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'maxbin2_spades_001']
+Built a community with a total of 36117 reactions.
+Built a community with a total of 31818 metabolites.
+--- Base ---
+Trying Base with original community in sample Control_3_B.
+-----Running the solution with pfba----
+0.2235177356526092
+--- CoCo ---
+Trying coco with original community in sample Control_3_B.
+-----Running the solution with pfba----
+0.16114378216347935
+----------------------------------
+>	 AA_1_B
+----------------------------------
+['vamb_spades_6', 'metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'vamb_megahit_77', 'metabat2_spades_25', 'maxbin2_megahit_017', 'vamb_megahit_295', 'vamb_spades_1', 'vamb_spades_222', 'concoct_megahit_6', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'metabat2_megahit_14', 'maxbin2_spades_001']
+Built a community with a total of 37163 reactions.
+Built a community with a total of 32773 metabolites.
+--- Base ---
+Trying Base with original community in sample AA_1_B.
+-----Running the solution with pfba----
+0.26931112587064143
+--- CoCo ---
+Trying coco with original community in sample AA_1_B.
+-----Running the solution with pfba----
+0.19393053895489593
+----------------------------------
+>	 AA_2_B
+----------------------------------
+['vamb_megahit_39', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'metabat2_spades_25', 'maxbin2_megahit_017', 'vamb_megahit_295', 'vamb_spades_1', 'vamb_spades_222', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'maxbin2_spades_001']
+Built a community with a total of 31857 reactions.
+Built a community with a total of 27971 metabolites.
+--- Base ---
+first
+0.19356407333279516
+--- CoCo ---
+first
+0.12641160394460654
+----------------------------------
+>	 AA_3_B
+----------------------------------
+['metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'metabat2_spades_25', 'maxbin2_megahit_017', 'vamb_megahit_295', 'vamb_spades_1', 'vamb_spades_222', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'maxbin2_spades_001']
+Built a community with a total of 31324 reactions.
+Built a community with a total of 27638 metabolites.
+--- Base ---
+first
+0.2183542191838035
+--- CoCo ---
+first
+0.17949898879362086
+----------------------------------
+>	 AAAb_1_B
+----------------------------------
+['vamb_spades_6', 'vamb_megahit_39', 'metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'metabat2_spades_25', 'maxbin2_megahit_017', 'maxbin2_spades_028', 'vamb_spades_1', 'vamb_spades_222', 'concoct_megahit_6', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'metabat2_megahit_14', 'maxbin2_spades_001']
+Built a community with a total of 38235 reactions.
+Built a community with a total of 33474 metabolites.
+--- Base ---
+first
+0.22544654265700945
+--- CoCo ---
+first
+0.206522593225305
+----------------------------------
+>	 AAAb_2_B
+----------------------------------
+['vamb_spades_6', 'vamb_megahit_39', 'metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'vamb_spades_298', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'metabat2_spades_25', 'maxbin2_megahit_017', 'maxbin2_spades_028', 'vamb_spades_222', 'concoct_megahit_6', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'metabat2_megahit_14', 'maxbin2_spades_001']
+Built a community with a total of 38291 reactions.
+Built a community with a total of 33512 metabolites.
+--- Base ---
+first
+0.1794064509331356
+--- CoCo ---
+first
+0.16457304270134424
+Finished iter 0
+----------------------------------------------
+Finished iter 13
+------------------
+
+--- Iter 14. Remaining 4 ---
+--- Running (2.0, 1.0, 0.7, 0.7, 3.0) ---
+----------------------------------------------
+3.0 standard deviations for the AAs
+----------------------------------
+>	 Control_1_B
+----------------------------------
+['vamb_spades_6', 'vamb_megahit_39', 'metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'vamb_spades_298', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'vamb_megahit_77', 'metabat2_spades_25', 'maxbin2_megahit_017', 'vamb_megahit_295', 'vamb_spades_1', 'vamb_spades_222', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'metabat2_megahit_14', 'maxbin2_spades_001']
+Built a community with a total of 39005 reactions.
+Built a community with a total of 34295 metabolites.
+--- Base ---
+first
+3.760635790084421e-08
+--- CoCo ---
+first
+0.148415024037716
+----------------------------------
+>	 Control_2_B
+----------------------------------
+['metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'vamb_spades_298', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'vamb_megahit_77', 'metabat2_spades_25', 'maxbin2_megahit_017', 'vamb_megahit_295', 'vamb_spades_1', 'vamb_spades_222', 'concoct_megahit_6', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'maxbin2_spades_001']
+Built a community with a total of 36117 reactions.
+Built a community with a total of 31818 metabolites.
+--- Base ---
+first
+0.10898735825037198
+--- CoCo ---
+first
+0.12192327996338492
+----------------------------------
+>	 Control_3_B
+----------------------------------
+['metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'vamb_spades_298', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'vamb_megahit_77', 'metabat2_spades_25', 'maxbin2_megahit_017', 'vamb_megahit_295', 'vamb_spades_1', 'vamb_spades_222', 'concoct_megahit_6', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'maxbin2_spades_001']
+Built a community with a total of 36117 reactions.
+Built a community with a total of 31818 metabolites.
+--- Base ---
+Trying Base with original community in sample Control_3_B.
+-----Running the solution with pfba----
+0.1955780275448878
+--- CoCo ---
+Trying coco with original community in sample Control_3_B.
+-----Running the solution with pfba----
+0.12354412452102938
+----------------------------------
+>	 AA_1_B
+----------------------------------
+['vamb_spades_6', 'metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'vamb_megahit_77', 'metabat2_spades_25', 'maxbin2_megahit_017', 'vamb_megahit_295', 'vamb_spades_1', 'vamb_spades_222', 'concoct_megahit_6', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'metabat2_megahit_14', 'maxbin2_spades_001']
+Built a community with a total of 37163 reactions.
+Built a community with a total of 32773 metabolites.
+--- Base ---
+Trying Base with original community in sample AA_1_B.
+-----Running the solution with pfba----
+0.23564725646502294
+--- CoCo ---
+Trying coco with original community in sample AA_1_B.
+-----Running the solution with pfba----
+0.1484545248790806
+----------------------------------
+>	 AA_2_B
+----------------------------------
+['vamb_megahit_39', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'metabat2_spades_25', 'maxbin2_megahit_017', 'vamb_megahit_295', 'vamb_spades_1', 'vamb_spades_222', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'maxbin2_spades_001']
+Built a community with a total of 31857 reactions.
+Built a community with a total of 27971 metabolites.
+--- Base ---
+first
+0.14936211071098027
+--- CoCo ---
+first
+0.13643259820988923
+----------------------------------
+>	 AA_3_B
+----------------------------------
+['metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'metabat2_spades_25', 'maxbin2_megahit_017', 'vamb_megahit_295', 'vamb_spades_1', 'vamb_spades_222', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'maxbin2_spades_001']
+Built a community with a total of 31324 reactions.
+Built a community with a total of 27638 metabolites.
+--- Base ---
+first
+0.16525130456028944
+--- CoCo ---
+first
+0.1535115692608913
+----------------------------------
+>	 AAAb_1_B
+----------------------------------
+['vamb_spades_6', 'vamb_megahit_39', 'metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'metabat2_spades_25', 'maxbin2_megahit_017', 'maxbin2_spades_028', 'vamb_spades_1', 'vamb_spades_222', 'concoct_megahit_6', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'metabat2_megahit_14', 'maxbin2_spades_001']
+Built a community with a total of 38235 reactions.
+Built a community with a total of 33474 metabolites.
+--- Base ---
+first
+0.17215105500448474
+--- CoCo ---
+first
+0.060810084128923435
+----------------------------------
+>	 AAAb_2_B
+----------------------------------
+['vamb_spades_6', 'vamb_megahit_39', 'metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'vamb_spades_298', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'metabat2_spades_25', 'maxbin2_megahit_017', 'maxbin2_spades_028', 'vamb_spades_222', 'concoct_megahit_6', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'metabat2_megahit_14', 'maxbin2_spades_001']
+Built a community with a total of 38291 reactions.
+Built a community with a total of 33512 metabolites.
+--- Base ---
+first
+0.1375552432503446
+--- CoCo ---
+first
+0.125897245246064
+Finished iter 0
+----------------------------------------------
+Finished iter 14
+------------------
+
+--- Iter 15. Remaining 3 ---
+--- Running (2.0, 1.0, 0.8, 0.8, 3.0) ---
+----------------------------------------------
+3.0 standard deviations for the AAs
+----------------------------------
+>	 Control_1_B
+----------------------------------
+['vamb_spades_6', 'vamb_megahit_39', 'metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'vamb_spades_298', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'vamb_megahit_77', 'metabat2_spades_25', 'maxbin2_megahit_017', 'vamb_megahit_295', 'vamb_spades_1', 'vamb_spades_222', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'metabat2_megahit_14', 'maxbin2_spades_001']
+Built a community with a total of 39005 reactions.
+Built a community with a total of 34295 metabolites.
+--- Base ---
+first
+0.21131080819198977
+--- CoCo ---
+first
+0.19395407632366088
+----------------------------------
+>	 Control_2_B
+----------------------------------
+['metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'vamb_spades_298', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'vamb_megahit_77', 'metabat2_spades_25', 'maxbin2_megahit_017', 'vamb_megahit_295', 'vamb_spades_1', 'vamb_spades_222', 'concoct_megahit_6', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'maxbin2_spades_001']
+Built a community with a total of 36117 reactions.
+Built a community with a total of 31818 metabolites.
+--- Base ---
+first
+0.17746557559787368
+--- CoCo ---
+first
+0.162665733384492
+----------------------------------
+>	 Control_3_B
+----------------------------------
+['metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'vamb_spades_298', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'vamb_megahit_77', 'metabat2_spades_25', 'maxbin2_megahit_017', 'vamb_megahit_295', 'vamb_spades_1', 'vamb_spades_222', 'concoct_megahit_6', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'maxbin2_spades_001']
+Built a community with a total of 36117 reactions.
+Built a community with a total of 31818 metabolites.
+--- Base ---
+Trying Base with original community in sample Control_3_B.
+-----Running the solution with pfba----
+0.2235177356526092
+--- CoCo ---
+Trying coco with original community in sample Control_3_B.
+-----Running the solution with pfba----
+0.16124239376489896
+----------------------------------
+>	 AA_1_B
+----------------------------------
+['vamb_spades_6', 'metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'vamb_megahit_77', 'metabat2_spades_25', 'maxbin2_megahit_017', 'vamb_megahit_295', 'vamb_spades_1', 'vamb_spades_222', 'concoct_megahit_6', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'metabat2_megahit_14', 'maxbin2_spades_001']
+Built a community with a total of 37163 reactions.
+Built a community with a total of 32773 metabolites.
+--- Base ---
+Trying Base with original community in sample AA_1_B.
+-----Running the solution with pfba----
+0.26931112587064143
+--- CoCo ---
+Trying coco with original community in sample AA_1_B.
+-----Running the solution with pfba----
+0.19671676223050485
+----------------------------------
+>	 AA_2_B
+----------------------------------
+['vamb_megahit_39', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'metabat2_spades_25', 'maxbin2_megahit_017', 'vamb_megahit_295', 'vamb_spades_1', 'vamb_spades_222', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'maxbin2_spades_001']
+Built a community with a total of 31857 reactions.
+Built a community with a total of 27971 metabolites.
+--- Base ---
+first
+0.19356407333279516
+--- CoCo ---
+first
+0.07983081629091887
+----------------------------------
+>	 AA_3_B
+----------------------------------
+['metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'metabat2_spades_25', 'maxbin2_megahit_017', 'vamb_megahit_295', 'vamb_spades_1', 'vamb_spades_222', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'maxbin2_spades_001']
+Built a community with a total of 31324 reactions.
+Built a community with a total of 27638 metabolites.
+--- Base ---
+first
+0.2183542191838035
+--- CoCo ---
+first
+0.2004532201744302
+----------------------------------
+>	 AAAb_1_B
+----------------------------------
+['vamb_spades_6', 'vamb_megahit_39', 'metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'metabat2_spades_25', 'maxbin2_megahit_017', 'maxbin2_spades_028', 'vamb_spades_1', 'vamb_spades_222', 'concoct_megahit_6', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'metabat2_megahit_14', 'maxbin2_spades_001']
+Built a community with a total of 38235 reactions.
+Built a community with a total of 33474 metabolites.
+--- Base ---
+first
+0.22544654265700945
+--- CoCo ---
+first
+0.20658129297769282
+----------------------------------
+>	 AAAb_2_B
+----------------------------------
+['vamb_spades_6', 'vamb_megahit_39', 'metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'vamb_spades_298', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'metabat2_spades_25', 'maxbin2_megahit_017', 'maxbin2_spades_028', 'vamb_spades_222', 'concoct_megahit_6', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'metabat2_megahit_14', 'maxbin2_spades_001']
+Built a community with a total of 38291 reactions.
+Built a community with a total of 33512 metabolites.
+--- Base ---
+first
+0.1794064509331356
+--- CoCo ---
+first
+0.16450511390846626
+Finished iter 0
+----------------------------------------------
+Finished iter 15
+------------------
+
+--- Iter 16. Remaining 2 ---
+--- Running (3.0, 1.0, 0.7, 0.7, 3.0) ---
+----------------------------------------------
+3.0 standard deviations for the AAs
+----------------------------------
+>	 Control_1_B
+----------------------------------
+['vamb_spades_6', 'vamb_megahit_39', 'metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'vamb_spades_298', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'vamb_megahit_77', 'metabat2_spades_25', 'maxbin2_megahit_017', 'vamb_megahit_295', 'vamb_spades_1', 'vamb_spades_222', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'metabat2_megahit_14', 'maxbin2_spades_001']
+Built a community with a total of 39005 reactions.
+Built a community with a total of 34295 metabolites.
+--- Base ---
+first
+3.760635790084421e-08
+--- CoCo ---
+first
+0.14851145047411948
+----------------------------------
+>	 Control_2_B
+----------------------------------
+['metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'vamb_spades_298', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'vamb_megahit_77', 'metabat2_spades_25', 'maxbin2_megahit_017', 'vamb_megahit_295', 'vamb_spades_1', 'vamb_spades_222', 'concoct_megahit_6', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'maxbin2_spades_001']
+Built a community with a total of 36117 reactions.
+Built a community with a total of 31818 metabolites.
+--- Base ---
+first
+0.10898735825037198
+--- CoCo ---
+first
+0.09289536171792395
+----------------------------------
+>	 Control_3_B
+----------------------------------
+['metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'vamb_spades_298', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'vamb_megahit_77', 'metabat2_spades_25', 'maxbin2_megahit_017', 'vamb_megahit_295', 'vamb_spades_1', 'vamb_spades_222', 'concoct_megahit_6', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'maxbin2_spades_001']
+Built a community with a total of 36117 reactions.
+Built a community with a total of 31818 metabolites.
+--- Base ---
+Trying Base with original community in sample Control_3_B.
+-----Running the solution with pfba----
+0.1955780275448878
+--- CoCo ---
+Trying coco with original community in sample Control_3_B.
+-----Running the solution with pfba----
+0.12342039901380994
+----------------------------------
+>	 AA_1_B
+----------------------------------
+['vamb_spades_6', 'metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'vamb_megahit_77', 'metabat2_spades_25', 'maxbin2_megahit_017', 'vamb_megahit_295', 'vamb_spades_1', 'vamb_spades_222', 'concoct_megahit_6', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'metabat2_megahit_14', 'maxbin2_spades_001']
+Built a community with a total of 37163 reactions.
+Built a community with a total of 32773 metabolites.
+--- Base ---
+Trying Base with original community in sample AA_1_B.
+-----Running the solution with pfba----
+0.23564725646502294
+--- CoCo ---
+Trying coco with original community in sample AA_1_B.
+-----Running the solution with pfba----
+0.14386729745770205
+----------------------------------
+>	 AA_2_B
+----------------------------------
+['vamb_megahit_39', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'metabat2_spades_25', 'maxbin2_megahit_017', 'vamb_megahit_295', 'vamb_spades_1', 'vamb_spades_222', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'maxbin2_spades_001']
+Built a community with a total of 31857 reactions.
+Built a community with a total of 27971 metabolites.
+--- Base ---
+first
+0.14936211071098027
+--- CoCo ---
+first
+0.13643116635400054
+----------------------------------
+>	 AA_3_B
+----------------------------------
+['metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'metabat2_spades_25', 'maxbin2_megahit_017', 'vamb_megahit_295', 'vamb_spades_1', 'vamb_spades_222', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'maxbin2_spades_001']
+Built a community with a total of 31324 reactions.
+Built a community with a total of 27638 metabolites.
+--- Base ---
+first
+0.16525130456028944
+--- CoCo ---
+first
+0.15365845185893762
+----------------------------------
+>	 AAAb_1_B
+----------------------------------
+['vamb_spades_6', 'vamb_megahit_39', 'metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'metabat2_spades_25', 'maxbin2_megahit_017', 'maxbin2_spades_028', 'vamb_spades_1', 'vamb_spades_222', 'concoct_megahit_6', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'metabat2_megahit_14', 'maxbin2_spades_001']
+Built a community with a total of 38235 reactions.
+Built a community with a total of 33474 metabolites.
+--- Base ---
+first
+0.17215105500448474
+--- CoCo ---
+first
+0.15788460902117493
+----------------------------------
+>	 AAAb_2_B
+----------------------------------
+['vamb_spades_6', 'vamb_megahit_39', 'metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'vamb_spades_298', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'metabat2_spades_25', 'maxbin2_megahit_017', 'maxbin2_spades_028', 'vamb_spades_222', 'concoct_megahit_6', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'metabat2_megahit_14', 'maxbin2_spades_001']
+Built a community with a total of 38291 reactions.
+Built a community with a total of 33512 metabolites.
+--- Base ---
+first
+0.1375552432503446
+--- CoCo ---
+first
+0.12588239280979888
+Finished iter 0
+----------------------------------------------
+Finished iter 16
+------------------
+
+--- Iter 17. Remaining 1 ---
+--- Running (3.0, 1.0, 0.8, 0.8, 3.0) ---
+----------------------------------------------
+3.0 standard deviations for the AAs
+----------------------------------
+>	 Control_1_B
+----------------------------------
+['vamb_spades_6', 'vamb_megahit_39', 'metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'vamb_spades_298', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'vamb_megahit_77', 'metabat2_spades_25', 'maxbin2_megahit_017', 'vamb_megahit_295', 'vamb_spades_1', 'vamb_spades_222', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'metabat2_megahit_14', 'maxbin2_spades_001']
+Built a community with a total of 39005 reactions.
+Built a community with a total of 34295 metabolites.
+--- Base ---
+first
+0.21131080819198977
+--- CoCo ---
+first
+0.19396210877553063
+----------------------------------
+>	 Control_2_B
+----------------------------------
+['metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'vamb_spades_298', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'vamb_megahit_77', 'metabat2_spades_25', 'maxbin2_megahit_017', 'vamb_megahit_295', 'vamb_spades_1', 'vamb_spades_222', 'concoct_megahit_6', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'maxbin2_spades_001']
+Built a community with a total of 36117 reactions.
+Built a community with a total of 31818 metabolites.
+--- Base ---
+first
+0.17746557559787368
+--- CoCo ---
+first
+0.16217903464007025
+----------------------------------
+>	 Control_3_B
+----------------------------------
+['metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'vamb_spades_298', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'vamb_megahit_77', 'metabat2_spades_25', 'maxbin2_megahit_017', 'vamb_megahit_295', 'vamb_spades_1', 'vamb_spades_222', 'concoct_megahit_6', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'maxbin2_spades_001']
+Built a community with a total of 36117 reactions.
+Built a community with a total of 31818 metabolites.
+--- Base ---
+Trying Base with original community in sample Control_3_B.
+-----Running the solution with pfba----
+0.2235177356526092
+--- CoCo ---
+Trying coco with original community in sample Control_3_B.
+-----Running the solution with pfba----
+0.15434453698344391
+----------------------------------
+>	 AA_1_B
+----------------------------------
+['vamb_spades_6', 'metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'vamb_megahit_77', 'metabat2_spades_25', 'maxbin2_megahit_017', 'vamb_megahit_295', 'vamb_spades_1', 'vamb_spades_222', 'concoct_megahit_6', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'metabat2_megahit_14', 'maxbin2_spades_001']
+Built a community with a total of 37163 reactions.
+Built a community with a total of 32773 metabolites.
+--- Base ---
+Trying Base with original community in sample AA_1_B.
+-----Running the solution with pfba----
+0.26931112587064143
+--- CoCo ---
+Trying coco with original community in sample AA_1_B.
+-----Running the solution with pfba----
+0.1939520369200663
+----------------------------------
+>	 AA_2_B
+----------------------------------
+['vamb_megahit_39', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'metabat2_spades_25', 'maxbin2_megahit_017', 'vamb_megahit_295', 'vamb_spades_1', 'vamb_spades_222', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'maxbin2_spades_001']
+Built a community with a total of 31857 reactions.
+Built a community with a total of 27971 metabolites.
+--- Base ---
+first
+0.19356407333279516
+--- CoCo ---
+first
+0.12837896513784475
+----------------------------------
+>	 AA_3_B
+----------------------------------
+['metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'metabat2_spades_25', 'maxbin2_megahit_017', 'vamb_megahit_295', 'vamb_spades_1', 'vamb_spades_222', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'maxbin2_spades_001']
+Built a community with a total of 31324 reactions.
+Built a community with a total of 27638 metabolites.
+--- Base ---
+first
+0.2183542191838035
+--- CoCo ---
+first
+0.20045221797394547
+----------------------------------
+>	 AAAb_1_B
+----------------------------------
+['vamb_spades_6', 'vamb_megahit_39', 'metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'metabat2_spades_25', 'maxbin2_megahit_017', 'maxbin2_spades_028', 'vamb_spades_1', 'vamb_spades_222', 'concoct_megahit_6', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'metabat2_megahit_14', 'maxbin2_spades_001']
+Built a community with a total of 38235 reactions.
+Built a community with a total of 33474 metabolites.
+--- Base ---
+first
+0.22544654265700945
+--- CoCo ---
+first
+0.20655862368238515
+----------------------------------
+>	 AAAb_2_B
+----------------------------------
+['vamb_spades_6', 'vamb_megahit_39', 'metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'vamb_spades_298', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'metabat2_spades_25', 'maxbin2_megahit_017', 'maxbin2_spades_028', 'vamb_spades_222', 'concoct_megahit_6', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'metabat2_megahit_14', 'maxbin2_spades_001']
+Built a community with a total of 38291 reactions.
+Built a community with a total of 33512 metabolites.
+--- Base ---
+first
+0.1794064509331356
+--- CoCo ---
+first
+0.1644094658292572
+Finished iter 0
+----------------------------------------------
+Finished iter 17
+------------------
+
+--- Iter 2. Remaining 16 ---
+--- Running (2.0, 1.0, 0.7, 0.7, 1.0) ---
+----------------------------------------------
+1.0 standard deviations for the AAs
+----------------------------------
+>	 Control_1_B
+----------------------------------
+['vamb_spades_6', 'vamb_megahit_39', 'metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'vamb_spades_298', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'vamb_megahit_77', 'metabat2_spades_25', 'maxbin2_megahit_017', 'vamb_megahit_295', 'vamb_spades_1', 'vamb_spades_222', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'metabat2_megahit_14', 'maxbin2_spades_001']
+Built a community with a total of 39005 reactions.
+Built a community with a total of 34295 metabolites.
+--- Base ---
+first
+0.20541750487665023
+--- CoCo ---
+first
+0.13295547520055648
+----------------------------------
+>	 Control_2_B
+----------------------------------
+['metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'vamb_spades_298', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'vamb_megahit_77', 'metabat2_spades_25', 'maxbin2_megahit_017', 'vamb_megahit_295', 'vamb_spades_1', 'vamb_spades_222', 'concoct_megahit_6', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'maxbin2_spades_001']
+Built a community with a total of 36117 reactions.
+Built a community with a total of 31818 metabolites.
+--- Base ---
+first
+0.1190735776444924
+--- CoCo ---
+first
+0.10924593853357424
+----------------------------------
+>	 Control_3_B
+----------------------------------
+['metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'vamb_spades_298', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'vamb_megahit_77', 'metabat2_spades_25', 'maxbin2_megahit_017', 'vamb_megahit_295', 'vamb_spades_1', 'vamb_spades_222', 'concoct_megahit_6', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'maxbin2_spades_001']
+Built a community with a total of 36117 reactions.
+Built a community with a total of 31818 metabolites.
+--- Base ---
+Trying Base with original community in sample Control_3_B.
+-----Running the solution with pfba----
+0.16845557108471632
+--- CoCo ---
+Trying coco with original community in sample Control_3_B.
+-----Running the solution with pfba----
+0.10621835292992483
+----------------------------------
+>	 AA_1_B
+----------------------------------
+['vamb_spades_6', 'metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'vamb_megahit_77', 'metabat2_spades_25', 'maxbin2_megahit_017', 'vamb_megahit_295', 'vamb_spades_1', 'vamb_spades_222', 'concoct_megahit_6', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'metabat2_megahit_14', 'maxbin2_spades_001']
+Built a community with a total of 37163 reactions.
+Built a community with a total of 32773 metabolites.
+--- Base ---
+Trying Base with original community in sample AA_1_B.
+-----Running the solution with pfba----
+0.2164865931921362
+--- CoCo ---
+Trying coco with original community in sample AA_1_B.
+-----Running the solution with pfba----
+0.1363530864661453
+----------------------------------
+>	 AA_2_B
+----------------------------------
+['vamb_megahit_39', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'metabat2_spades_25', 'maxbin2_megahit_017', 'vamb_megahit_295', 'vamb_spades_1', 'vamb_spades_222', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'maxbin2_spades_001']
+Built a community with a total of 31857 reactions.
+Built a community with a total of 27971 metabolites.
+--- Base ---
+first
+0.13514630378342207
+--- CoCo ---
+first
+0.12377018320463354
+----------------------------------
+>	 AA_3_B
+----------------------------------
+['metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'metabat2_spades_25', 'maxbin2_megahit_017', 'vamb_megahit_295', 'vamb_spades_1', 'vamb_spades_222', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'maxbin2_spades_001']
+Built a community with a total of 31324 reactions.
+Built a community with a total of 27638 metabolites.
+--- Base ---
+first
+0.14713767000283423
+--- CoCo ---
+first
+0.1335316447173909
+----------------------------------
+>	 AAAb_1_B
+----------------------------------
+['vamb_spades_6', 'vamb_megahit_39', 'metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'metabat2_spades_25', 'maxbin2_megahit_017', 'maxbin2_spades_028', 'vamb_spades_1', 'vamb_spades_222', 'concoct_megahit_6', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'metabat2_megahit_14', 'maxbin2_spades_001']
+Built a community with a total of 38235 reactions.
+Built a community with a total of 33474 metabolites.
+--- Base ---
+first
+0.1540714721307665
+--- CoCo ---
+first
+0.1413509215480089
+----------------------------------
+>	 AAAb_2_B
+----------------------------------
+['vamb_spades_6', 'vamb_megahit_39', 'metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'vamb_spades_298', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'metabat2_spades_25', 'maxbin2_megahit_017', 'maxbin2_spades_028', 'vamb_spades_222', 'concoct_megahit_6', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'metabat2_megahit_14', 'maxbin2_spades_001']
+Built a community with a total of 38291 reactions.
+Built a community with a total of 33512 metabolites.
+--- Base ---
+first
+0.1175843554252361
+--- CoCo ---
+first
+0.15212760231279113
+Finished iter 0
+----------------------------------------------
+Finished iter 2
+------------------
+
+--- Iter 3. Remaining 15 ---
+--- Running (2.0, 1.0, 0.8, 0.8, 1.0) ---
+----------------------------------------------
+1.0 standard deviations for the AAs
+----------------------------------
+>	 Control_1_B
+----------------------------------
+['vamb_spades_6', 'vamb_megahit_39', 'metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'vamb_spades_298', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'vamb_megahit_77', 'metabat2_spades_25', 'maxbin2_megahit_017', 'vamb_megahit_295', 'vamb_spades_1', 'vamb_spades_222', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'metabat2_megahit_14', 'maxbin2_spades_001']
+Built a community with a total of 39005 reactions.
+Built a community with a total of 34295 metabolites.
+--- Base ---
+first
+0.23507879330471365
+--- CoCo ---
+first
+0.17364002935810155
+----------------------------------
+>	 Control_2_B
+----------------------------------
+['metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'vamb_spades_298', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'vamb_megahit_77', 'metabat2_spades_25', 'maxbin2_megahit_017', 'vamb_megahit_295', 'vamb_spades_1', 'vamb_spades_222', 'concoct_megahit_6', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'maxbin2_spades_001']
+Built a community with a total of 36117 reactions.
+Built a community with a total of 31818 metabolites.
+--- Base ---
+first
+0.1567017241386438
+--- CoCo ---
+first
+0.14275424017422297
+----------------------------------
+>	 Control_3_B
+----------------------------------
+['metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'vamb_spades_298', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'vamb_megahit_77', 'metabat2_spades_25', 'maxbin2_megahit_017', 'vamb_megahit_295', 'vamb_spades_1', 'vamb_spades_222', 'concoct_megahit_6', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'maxbin2_spades_001']
+Built a community with a total of 36117 reactions.
+Built a community with a total of 31818 metabolites.
+--- Base ---
+Trying Base with original community in sample Control_3_B.
+-----Running the solution with pfba----
+0.19252076128527548
+--- CoCo ---
+Trying coco with original community in sample Control_3_B.
+-----Running the solution with pfba----
+0.1395770727568598
+----------------------------------
+>	 AA_1_B
+----------------------------------
+['vamb_spades_6', 'metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'vamb_megahit_77', 'metabat2_spades_25', 'maxbin2_megahit_017', 'vamb_megahit_295', 'vamb_spades_1', 'vamb_spades_222', 'concoct_megahit_6', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'metabat2_megahit_14', 'maxbin2_spades_001']
+Built a community with a total of 37163 reactions.
+Built a community with a total of 32773 metabolites.
+--- Base ---
+Trying Base with original community in sample AA_1_B.
+-----Running the solution with pfba----
+0.24741322171246638
+--- CoCo ---
+Trying coco with original community in sample AA_1_B.
+-----Running the solution with pfba----
+0.17752906090590764
+----------------------------------
+>	 AA_2_B
+----------------------------------
+['vamb_megahit_39', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'metabat2_spades_25', 'maxbin2_megahit_017', 'vamb_megahit_295', 'vamb_spades_1', 'vamb_spades_222', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'maxbin2_spades_001']
+Built a community with a total of 31857 reactions.
+Built a community with a total of 27971 metabolites.
+--- Base ---
+first
+0.1727159566072365
+--- CoCo ---
+first
+0.1620518915239913
+----------------------------------
+>	 AA_3_B
+----------------------------------
+['metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'metabat2_spades_25', 'maxbin2_megahit_017', 'vamb_megahit_295', 'vamb_spades_1', 'vamb_spades_222', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'maxbin2_spades_001']
+Built a community with a total of 31324 reactions.
+Built a community with a total of 27638 metabolites.
+--- Base ---
+first
+0.19446729513107197
+--- CoCo ---
+first
+0.18056588854496095
+----------------------------------
+>	 AAAb_1_B
+----------------------------------
+['vamb_spades_6', 'vamb_megahit_39', 'metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'metabat2_spades_25', 'maxbin2_megahit_017', 'maxbin2_spades_028', 'vamb_spades_1', 'vamb_spades_222', 'concoct_megahit_6', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'metabat2_megahit_14', 'maxbin2_spades_001']
+Built a community with a total of 38235 reactions.
+Built a community with a total of 33474 metabolites.
+--- Base ---
+first
+0.19518906074773062
+--- CoCo ---
+first
+0.18464675793621885
+----------------------------------
+>	 AAAb_2_B
+----------------------------------
+['vamb_spades_6', 'vamb_megahit_39', 'metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'vamb_spades_298', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'metabat2_spades_25', 'maxbin2_megahit_017', 'maxbin2_spades_028', 'vamb_spades_222', 'concoct_megahit_6', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'metabat2_megahit_14', 'maxbin2_spades_001']
+Built a community with a total of 38291 reactions.
+Built a community with a total of 33512 metabolites.
+--- Base ---
+first
+0.1525117095798802
+--- CoCo ---
+first
+0.17399119979560762
+Finished iter 0
+----------------------------------------------
+Finished iter 3
+------------------
+
+--- Iter 4. Remaining 14 ---
+--- Running (3.0, 1.0, 0.7, 0.7, 1.0) ---
+----------------------------------------------
+1.0 standard deviations for the AAs
+----------------------------------
+>	 Control_1_B
+----------------------------------
+['vamb_spades_6', 'vamb_megahit_39', 'metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'vamb_spades_298', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'vamb_megahit_77', 'metabat2_spades_25', 'maxbin2_megahit_017', 'vamb_megahit_295', 'vamb_spades_1', 'vamb_spades_222', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'metabat2_megahit_14', 'maxbin2_spades_001']
+Built a community with a total of 39005 reactions.
+Built a community with a total of 34295 metabolites.
+--- Base ---
+first
+0.20541750487665023
+--- CoCo ---
+first
+0.13296293324882627
+----------------------------------
+>	 Control_2_B
+----------------------------------
+['metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'vamb_spades_298', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'vamb_megahit_77', 'metabat2_spades_25', 'maxbin2_megahit_017', 'vamb_megahit_295', 'vamb_spades_1', 'vamb_spades_222', 'concoct_megahit_6', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'maxbin2_spades_001']
+Built a community with a total of 36117 reactions.
+Built a community with a total of 31818 metabolites.
+--- Base ---
+first
+0.1190735776444924
+--- CoCo ---
+first
+0.1093096494194547
+----------------------------------
+>	 Control_3_B
+----------------------------------
+['metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'vamb_spades_298', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'vamb_megahit_77', 'metabat2_spades_25', 'maxbin2_megahit_017', 'vamb_megahit_295', 'vamb_spades_1', 'vamb_spades_222', 'concoct_megahit_6', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'maxbin2_spades_001']
+Built a community with a total of 36117 reactions.
+Built a community with a total of 31818 metabolites.
+--- Base ---
+Trying Base with original community in sample Control_3_B.
+-----Running the solution with pfba----
+0.16845557108471632
+--- CoCo ---
+Trying coco with original community in sample Control_3_B.
+-----Running the solution with pfba----
+0.10612724758392592
+----------------------------------
+>	 AA_1_B
+----------------------------------
+['vamb_spades_6', 'metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'vamb_megahit_77', 'metabat2_spades_25', 'maxbin2_megahit_017', 'vamb_megahit_295', 'vamb_spades_1', 'vamb_spades_222', 'concoct_megahit_6', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'metabat2_megahit_14', 'maxbin2_spades_001']
+Built a community with a total of 37163 reactions.
+Built a community with a total of 32773 metabolites.
+--- Base ---
+Trying Base with original community in sample AA_1_B.
+-----Running the solution with pfba----
+0.2164865931921362
+--- CoCo ---
+Trying coco with original community in sample AA_1_B.
+-----Running the solution with pfba----
+0.11814676706150216
+----------------------------------
+>	 AA_2_B
+----------------------------------
+['vamb_megahit_39', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'metabat2_spades_25', 'maxbin2_megahit_017', 'vamb_megahit_295', 'vamb_spades_1', 'vamb_spades_222', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'maxbin2_spades_001']
+Built a community with a total of 31857 reactions.
+Built a community with a total of 27971 metabolites.
+--- Base ---
+first
+0.13514630378342207
+--- CoCo ---
+first
+0.12287225987675705
+----------------------------------
+>	 AA_3_B
+----------------------------------
+['metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'metabat2_spades_25', 'maxbin2_megahit_017', 'vamb_megahit_295', 'vamb_spades_1', 'vamb_spades_222', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'maxbin2_spades_001']
+Built a community with a total of 31324 reactions.
+Built a community with a total of 27638 metabolites.
+--- Base ---
+first
+0.14713767000283423
+--- CoCo ---
+first
+0.1375198977080873
+----------------------------------
+>	 AAAb_1_B
+----------------------------------
+['vamb_spades_6', 'vamb_megahit_39', 'metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'metabat2_spades_25', 'maxbin2_megahit_017', 'maxbin2_spades_028', 'vamb_spades_1', 'vamb_spades_222', 'concoct_megahit_6', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'metabat2_megahit_14', 'maxbin2_spades_001']
+Built a community with a total of 38235 reactions.
+Built a community with a total of 33474 metabolites.
+--- Base ---
+first
+0.1540714721307665
+--- CoCo ---
+first
+0.14100004486031395
+----------------------------------
+>	 AAAb_2_B
+----------------------------------
+['vamb_spades_6', 'vamb_megahit_39', 'metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'vamb_spades_298', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'metabat2_spades_25', 'maxbin2_megahit_017', 'maxbin2_spades_028', 'vamb_spades_222', 'concoct_megahit_6', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'metabat2_megahit_14', 'maxbin2_spades_001']
+Built a community with a total of 38291 reactions.
+Built a community with a total of 33512 metabolites.
+--- Base ---
+first
+0.1175843554252361
+--- CoCo ---
+first
+0.10745069405654738
+Finished iter 0
+----------------------------------------------
+Finished iter 4
+------------------
+
+--- Iter 5. Remaining 13 ---
+--- Running (3.0, 1.0, 0.8, 0.8, 1.0) ---
+----------------------------------------------
+1.0 standard deviations for the AAs
+----------------------------------
+>	 Control_1_B
+----------------------------------
+['vamb_spades_6', 'vamb_megahit_39', 'metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'vamb_spades_298', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'vamb_megahit_77', 'metabat2_spades_25', 'maxbin2_megahit_017', 'vamb_megahit_295', 'vamb_spades_1', 'vamb_spades_222', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'metabat2_megahit_14', 'maxbin2_spades_001']
+Built a community with a total of 39005 reactions.
+Built a community with a total of 34295 metabolites.
+--- Base ---
+first
+0.23507879330471365
+--- CoCo ---
+first
+0.17353412150570868
+----------------------------------
+>	 Control_2_B
+----------------------------------
+['metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'vamb_spades_298', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'vamb_megahit_77', 'metabat2_spades_25', 'maxbin2_megahit_017', 'vamb_megahit_295', 'vamb_spades_1', 'vamb_spades_222', 'concoct_megahit_6', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'maxbin2_spades_001']
+Built a community with a total of 36117 reactions.
+Built a community with a total of 31818 metabolites.
+--- Base ---
+first
+0.1567017241386438
+--- CoCo ---
+first
+0.1427599709090034
+----------------------------------
+>	 Control_3_B
+----------------------------------
+['metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'vamb_spades_298', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'vamb_megahit_77', 'metabat2_spades_25', 'maxbin2_megahit_017', 'vamb_megahit_295', 'vamb_spades_1', 'vamb_spades_222', 'concoct_megahit_6', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'maxbin2_spades_001']
+Built a community with a total of 36117 reactions.
+Built a community with a total of 31818 metabolites.
+--- Base ---
+Trying Base with original community in sample Control_3_B.
+-----Running the solution with pfba----
+0.19252076128527548
+--- CoCo ---
+Trying coco with original community in sample Control_3_B.
+-----Running the solution with pfba----
+0.1388729811741677
+----------------------------------
+>	 AA_1_B
+----------------------------------
+['vamb_spades_6', 'metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'vamb_megahit_77', 'metabat2_spades_25', 'maxbin2_megahit_017', 'vamb_megahit_295', 'vamb_spades_1', 'vamb_spades_222', 'concoct_megahit_6', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'metabat2_megahit_14', 'maxbin2_spades_001']
+Built a community with a total of 37163 reactions.
+Built a community with a total of 32773 metabolites.
+--- Base ---
+Trying Base with original community in sample AA_1_B.
+-----Running the solution with pfba----
+0.24741322171246638
+--- CoCo ---
+Trying coco with original community in sample AA_1_B.
+-----Running the solution with pfba----
+0.17814023772584436
+----------------------------------
+>	 AA_2_B
+----------------------------------
+['vamb_megahit_39', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'metabat2_spades_25', 'maxbin2_megahit_017', 'vamb_megahit_295', 'vamb_spades_1', 'vamb_spades_222', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'maxbin2_spades_001']
+Built a community with a total of 31857 reactions.
+Built a community with a total of 27971 metabolites.
+--- Base ---
+first
+0.1727159566072365
+--- CoCo ---
+first
+0.1612167798695735
+----------------------------------
+>	 AA_3_B
+----------------------------------
+['metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'metabat2_spades_25', 'maxbin2_megahit_017', 'vamb_megahit_295', 'vamb_spades_1', 'vamb_spades_222', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'maxbin2_spades_001']
+Built a community with a total of 31324 reactions.
+Built a community with a total of 27638 metabolites.
+--- Base ---
+first
+0.19446729513107197
+--- CoCo ---
+first
+0.18078834509135963
+----------------------------------
+>	 AAAb_1_B
+----------------------------------
+['vamb_spades_6', 'vamb_megahit_39', 'metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'metabat2_spades_25', 'maxbin2_megahit_017', 'maxbin2_spades_028', 'vamb_spades_1', 'vamb_spades_222', 'concoct_megahit_6', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'metabat2_megahit_14', 'maxbin2_spades_001']
+Built a community with a total of 38235 reactions.
+Built a community with a total of 33474 metabolites.
+--- Base ---
+first
+0.19518906074773062
+--- CoCo ---
+first
+0.18468009200434526
+----------------------------------
+>	 AAAb_2_B
+----------------------------------
+['vamb_spades_6', 'vamb_megahit_39', 'metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'vamb_spades_298', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'metabat2_spades_25', 'maxbin2_megahit_017', 'maxbin2_spades_028', 'vamb_spades_222', 'concoct_megahit_6', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'metabat2_megahit_14', 'maxbin2_spades_001']
+Built a community with a total of 38291 reactions.
+Built a community with a total of 33512 metabolites.
+--- Base ---
+first
+0.1525117095798802
+--- CoCo ---
+first
+0.14047087132035227
+Finished iter 0
+----------------------------------------------
+Finished iter 5
+------------------
+
+--- Iter 6. Remaining 12 ---
+--- Running (1.5, 1.0, 0.7, 0.7, 1.5) ---
+----------------------------------------------
+1.5 standard deviations for the AAs
+----------------------------------
+>	 Control_1_B
+----------------------------------
+['vamb_spades_6', 'vamb_megahit_39', 'metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'vamb_spades_298', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'vamb_megahit_77', 'metabat2_spades_25', 'maxbin2_megahit_017', 'vamb_megahit_295', 'vamb_spades_1', 'vamb_spades_222', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'metabat2_megahit_14', 'maxbin2_spades_001']
+Built a community with a total of 39005 reactions.
+Built a community with a total of 34295 metabolites.
+--- Base ---
+first
+0.21173937204335141
+--- CoCo ---
+first
+0.13472749356105196
+----------------------------------
+>	 Control_2_B
+----------------------------------
+['metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'vamb_spades_298', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'vamb_megahit_77', 'metabat2_spades_25', 'maxbin2_megahit_017', 'vamb_megahit_295', 'vamb_spades_1', 'vamb_spades_222', 'concoct_megahit_6', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'maxbin2_spades_001']
+Built a community with a total of 36117 reactions.
+Built a community with a total of 31818 metabolites.
+--- Base ---
+first
+0.12334027860459193
+--- CoCo ---
+first
+0.11312243936342843
+----------------------------------
+>	 Control_3_B
+----------------------------------
+['metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'vamb_spades_298', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'vamb_megahit_77', 'metabat2_spades_25', 'maxbin2_megahit_017', 'vamb_megahit_295', 'vamb_spades_1', 'vamb_spades_222', 'concoct_megahit_6', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'maxbin2_spades_001']
+Built a community with a total of 36117 reactions.
+Built a community with a total of 31818 metabolites.
+--- Base ---
+Trying Base with original community in sample Control_3_B.
+-----Running the solution with pfba----
+0.1752361804041175
+--- CoCo ---
+Trying coco with original community in sample Control_3_B.
+-----Running the solution with pfba----
+0.11067712131476098
+----------------------------------
+>	 AA_1_B
+----------------------------------
+['vamb_spades_6', 'metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'vamb_megahit_77', 'metabat2_spades_25', 'maxbin2_megahit_017', 'vamb_megahit_295', 'vamb_spades_1', 'vamb_spades_222', 'concoct_megahit_6', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'metabat2_megahit_14', 'maxbin2_spades_001']
+Built a community with a total of 37163 reactions.
+Built a community with a total of 32773 metabolites.
+--- Base ---
+Trying Base with original community in sample AA_1_B.
+-----Running the solution with pfba----
+0.22127674707840464
+--- CoCo ---
+Trying coco with original community in sample AA_1_B.
+-----Running the solution with pfba----
+0.13285806278257276
+----------------------------------
+>	 AA_2_B
+----------------------------------
+['vamb_megahit_39', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'metabat2_spades_25', 'maxbin2_megahit_017', 'vamb_megahit_295', 'vamb_spades_1', 'vamb_spades_222', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'maxbin2_spades_001']
+Built a community with a total of 31857 reactions.
+Built a community with a total of 27971 metabolites.
+--- Base ---
+first
+0.13825844347045688
+--- CoCo ---
+first
+0.12735586199721272
+----------------------------------
+>	 AA_3_B
+----------------------------------
+['metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'metabat2_spades_25', 'maxbin2_megahit_017', 'vamb_megahit_295', 'vamb_spades_1', 'vamb_spades_222', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'maxbin2_spades_001']
+Built a community with a total of 31324 reactions.
+Built a community with a total of 27638 metabolites.
+--- Base ---
+first
+0.15488793706184312
+--- CoCo ---
+first
+0.1359909502650023
+----------------------------------
+>	 AAAb_1_B
+----------------------------------
+['vamb_spades_6', 'vamb_megahit_39', 'metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'metabat2_spades_25', 'maxbin2_megahit_017', 'maxbin2_spades_028', 'vamb_spades_1', 'vamb_spades_222', 'concoct_megahit_6', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'metabat2_megahit_14', 'maxbin2_spades_001']
+Built a community with a total of 38235 reactions.
+Built a community with a total of 33474 metabolites.
+--- Base ---
+first
+0.15854316578226393
+--- CoCo ---
+first
+0.14541894625565885
+----------------------------------
+>	 AAAb_2_B
+----------------------------------
+['vamb_spades_6', 'vamb_megahit_39', 'metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'vamb_spades_298', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'metabat2_spades_25', 'maxbin2_megahit_017', 'maxbin2_spades_028', 'vamb_spades_222', 'concoct_megahit_6', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'metabat2_megahit_14', 'maxbin2_spades_001']
+Built a community with a total of 38291 reactions.
+Built a community with a total of 33512 metabolites.
+--- Base ---
+first
+0.12123905299950745
+--- CoCo ---
+first
+0.11208247739569302
+Finished iter 0
+----------------------------------------------
+Finished iter 6
+------------------
+
+--- Iter 7. Remaining 11 ---
+--- Running (1.5, 1.0, 0.8, 0.8, 1.5) ---
+----------------------------------------------
+1.5 standard deviations for the AAs
+----------------------------------
+>	 Control_1_B
+----------------------------------
+['vamb_spades_6', 'vamb_megahit_39', 'metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'vamb_spades_298', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'vamb_megahit_77', 'metabat2_spades_25', 'maxbin2_megahit_017', 'vamb_megahit_295', 'vamb_spades_1', 'vamb_spades_222', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'metabat2_megahit_14', 'maxbin2_spades_001']
+Built a community with a total of 39005 reactions.
+Built a community with a total of 34295 metabolites.
+--- Base ---
+first
+0.24192988798970663
+--- CoCo ---
+first
+0.17590070935832133
+----------------------------------
+>	 Control_2_B
+----------------------------------
+['metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'vamb_spades_298', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'vamb_megahit_77', 'metabat2_spades_25', 'maxbin2_megahit_017', 'vamb_megahit_295', 'vamb_spades_1', 'vamb_spades_222', 'concoct_megahit_6', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'maxbin2_spades_001']
+Built a community with a total of 36117 reactions.
+Built a community with a total of 31818 metabolites.
+--- Base ---
+first
+0.14850864297819427
+--- CoCo ---
+first
+0.14770904535123844
+----------------------------------
+>	 Control_3_B
+----------------------------------
+['metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'vamb_spades_298', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'vamb_megahit_77', 'metabat2_spades_25', 'maxbin2_megahit_017', 'vamb_megahit_295', 'vamb_spades_1', 'vamb_spades_222', 'concoct_megahit_6', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'maxbin2_spades_001']
+Built a community with a total of 36117 reactions.
+Built a community with a total of 31818 metabolites.
+--- Base ---
+Trying Base with original community in sample Control_3_B.
+-----Running the solution with pfba----
+0.20026992030978905
+--- CoCo ---
+Trying coco with original community in sample Control_3_B.
+-----Running the solution with pfba----
+0.14438970531151032
+----------------------------------
+>	 AA_1_B
+----------------------------------
+['vamb_spades_6', 'metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'vamb_megahit_77', 'metabat2_spades_25', 'maxbin2_megahit_017', 'vamb_megahit_295', 'vamb_spades_1', 'vamb_spades_222', 'concoct_megahit_6', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'metabat2_megahit_14', 'maxbin2_spades_001']
+Built a community with a total of 37163 reactions.
+Built a community with a total of 32773 metabolites.
+--- Base ---
+Trying Base with original community in sample AA_1_B.
+-----Running the solution with pfba----
+0.2528876979678343
+--- CoCo ---
+Trying coco with original community in sample AA_1_B.
+-----Running the solution with pfba----
+0.1819842025852535
+----------------------------------
+>	 AA_2_B
+----------------------------------
+['vamb_megahit_39', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'metabat2_spades_25', 'maxbin2_megahit_017', 'vamb_megahit_295', 'vamb_spades_1', 'vamb_spades_222', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'maxbin2_spades_001']
+Built a community with a total of 31857 reactions.
+Built a community with a total of 27971 metabolites.
+--- Base ---
+first
+0.17499451237873198
+--- CoCo ---
+first
+0.16647686373833478
+----------------------------------
+>	 AA_3_B
+----------------------------------
+['metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'metabat2_spades_25', 'maxbin2_megahit_017', 'vamb_megahit_295', 'vamb_spades_1', 'vamb_spades_222', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'maxbin2_spades_001']
+Built a community with a total of 31324 reactions.
+Built a community with a total of 27638 metabolites.
+--- Base ---
+first
+0.2016396697982573
+--- CoCo ---
+first
+0.17740155889817763
+----------------------------------
+>	 AAAb_1_B
+----------------------------------
+['vamb_spades_6', 'vamb_megahit_39', 'metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'metabat2_spades_25', 'maxbin2_megahit_017', 'maxbin2_spades_028', 'vamb_spades_1', 'vamb_spades_222', 'concoct_megahit_6', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'metabat2_megahit_14', 'maxbin2_spades_001']
+Built a community with a total of 38235 reactions.
+Built a community with a total of 33474 metabolites.
+--- Base ---
+first
+0.20378154894329026
+--- CoCo ---
+first
+0.18941057805181172
+----------------------------------
+>	 AAAb_2_B
+----------------------------------
+['vamb_spades_6', 'vamb_megahit_39', 'metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'vamb_spades_298', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'metabat2_spades_25', 'maxbin2_megahit_017', 'maxbin2_spades_028', 'vamb_spades_222', 'concoct_megahit_6', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'metabat2_megahit_14', 'maxbin2_spades_001']
+Built a community with a total of 38291 reactions.
+Built a community with a total of 33512 metabolites.
+--- Base ---
+first
+0.13936802747350552
+--- CoCo ---
+first
+0.0541356716347402
+Finished iter 0
+----------------------------------------------
+Finished iter 7
+------------------
+
+--- Iter 8. Remaining 10 ---
+--- Running (2.0, 1.0, 0.7, 0.7, 1.5) ---
+----------------------------------------------
+1.5 standard deviations for the AAs
+----------------------------------
+>	 Control_1_B
+----------------------------------
+['vamb_spades_6', 'vamb_megahit_39', 'metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'vamb_spades_298', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'vamb_megahit_77', 'metabat2_spades_25', 'maxbin2_megahit_017', 'vamb_megahit_295', 'vamb_spades_1', 'vamb_spades_222', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'metabat2_megahit_14', 'maxbin2_spades_001']
+Built a community with a total of 39005 reactions.
+Built a community with a total of 34295 metabolites.
+--- Base ---
+first
+0.21173937204335141
+--- CoCo ---
+first
+0.13677487644671185
+----------------------------------
+>	 Control_2_B
+----------------------------------
+['metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'vamb_spades_298', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'vamb_megahit_77', 'metabat2_spades_25', 'maxbin2_megahit_017', 'vamb_megahit_295', 'vamb_spades_1', 'vamb_spades_222', 'concoct_megahit_6', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'maxbin2_spades_001']
+Built a community with a total of 36117 reactions.
+Built a community with a total of 31818 metabolites.
+--- Base ---
+first
+0.12334027860459193
+--- CoCo ---
+first
+0.11311948848370992
+----------------------------------
+>	 Control_3_B
+----------------------------------
+['metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'vamb_spades_298', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'vamb_megahit_77', 'metabat2_spades_25', 'maxbin2_megahit_017', 'vamb_megahit_295', 'vamb_spades_1', 'vamb_spades_222', 'concoct_megahit_6', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'maxbin2_spades_001']
+Built a community with a total of 36117 reactions.
+Built a community with a total of 31818 metabolites.
+--- Base ---
+Trying Base with original community in sample Control_3_B.
+-----Running the solution with pfba----
+0.1752361804041175
+--- CoCo ---
+Trying coco with original community in sample Control_3_B.
+-----Running the solution with pfba----
+0.11026536791309514
+----------------------------------
+>	 AA_1_B
+----------------------------------
+['vamb_spades_6', 'metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'vamb_megahit_77', 'metabat2_spades_25', 'maxbin2_megahit_017', 'vamb_megahit_295', 'vamb_spades_1', 'vamb_spades_222', 'concoct_megahit_6', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'metabat2_megahit_14', 'maxbin2_spades_001']
+Built a community with a total of 37163 reactions.
+Built a community with a total of 32773 metabolites.
+--- Base ---
+Trying Base with original community in sample AA_1_B.
+-----Running the solution with pfba----
+0.22127674707840464
+--- CoCo ---
+Trying coco with original community in sample AA_1_B.
+-----Running the solution with pfba----
+0.1373055018265888
+----------------------------------
+>	 AA_2_B
+----------------------------------
+['vamb_megahit_39', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'metabat2_spades_25', 'maxbin2_megahit_017', 'vamb_megahit_295', 'vamb_spades_1', 'vamb_spades_222', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'maxbin2_spades_001']
+Built a community with a total of 31857 reactions.
+Built a community with a total of 27971 metabolites.
+--- Base ---
+first
+0.13825844347045688
+--- CoCo ---
+first
+0.12710328092497214
+----------------------------------
+>	 AA_3_B
+----------------------------------
+['metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'metabat2_spades_25', 'maxbin2_megahit_017', 'vamb_megahit_295', 'vamb_spades_1', 'vamb_spades_222', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'maxbin2_spades_001']
+Built a community with a total of 31324 reactions.
+Built a community with a total of 27638 metabolites.
+--- Base ---
+first
+0.15488793706184312
+--- CoCo ---
+first
+0.14207036323070557
+----------------------------------
+>	 AAAb_1_B
+----------------------------------
+['vamb_spades_6', 'vamb_megahit_39', 'metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'metabat2_spades_25', 'maxbin2_megahit_017', 'maxbin2_spades_028', 'vamb_spades_1', 'vamb_spades_222', 'concoct_megahit_6', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'metabat2_megahit_14', 'maxbin2_spades_001']
+Built a community with a total of 38235 reactions.
+Built a community with a total of 33474 metabolites.
+--- Base ---
+first
+0.15854316578226393
+--- CoCo ---
+first
+0.14519788607505785
+----------------------------------
+>	 AAAb_2_B
+----------------------------------
+['vamb_spades_6', 'vamb_megahit_39', 'metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'vamb_spades_298', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'metabat2_spades_25', 'maxbin2_megahit_017', 'maxbin2_spades_028', 'vamb_spades_222', 'concoct_megahit_6', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'metabat2_megahit_14', 'maxbin2_spades_001']
+Built a community with a total of 38291 reactions.
+Built a community with a total of 33512 metabolites.
+--- Base ---
+first
+0.12123905299950745
+--- CoCo ---
+first
+0.15956044411158588
+Finished iter 0
+----------------------------------------------
+Finished iter 8
+------------------
+
+--- Iter 9. Remaining 9 ---
+--- Running (2.0, 1.0, 0.8, 0.8, 1.5) ---
+----------------------------------------------
+1.5 standard deviations for the AAs
+----------------------------------
+>	 Control_1_B
+----------------------------------
+['vamb_spades_6', 'vamb_megahit_39', 'metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'vamb_spades_298', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'vamb_megahit_77', 'metabat2_spades_25', 'maxbin2_megahit_017', 'vamb_megahit_295', 'vamb_spades_1', 'vamb_spades_222', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'metabat2_megahit_14', 'maxbin2_spades_001']
+Built a community with a total of 39005 reactions.
+Built a community with a total of 34295 metabolites.
+--- Base ---
+first
+0.24192988798970663
+--- CoCo ---
+first
+0.1787159430444506
+----------------------------------
+>	 Control_2_B
+----------------------------------
+['metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'vamb_spades_298', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'vamb_megahit_77', 'metabat2_spades_25', 'maxbin2_megahit_017', 'vamb_megahit_295', 'vamb_spades_1', 'vamb_spades_222', 'concoct_megahit_6', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'maxbin2_spades_001']
+Built a community with a total of 36117 reactions.
+Built a community with a total of 31818 metabolites.
+--- Base ---
+first
+0.14850864297819427
+--- CoCo ---
+first
+0.1477371476285736
+----------------------------------
+>	 Control_3_B
+----------------------------------
+['metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'vamb_spades_298', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'vamb_megahit_77', 'metabat2_spades_25', 'maxbin2_megahit_017', 'vamb_megahit_295', 'vamb_spades_1', 'vamb_spades_222', 'concoct_megahit_6', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'maxbin2_spades_001']
+Built a community with a total of 36117 reactions.
+Built a community with a total of 31818 metabolites.
+--- Base ---
+Trying Base with original community in sample Control_3_B.
+-----Running the solution with pfba----
+0.20026992030978905
+--- CoCo ---
+Trying coco with original community in sample Control_3_B.
+-----Running the solution with pfba----
+0.14255105106234492
+----------------------------------
+>	 AA_1_B
+----------------------------------
+['vamb_spades_6', 'metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'vamb_megahit_77', 'metabat2_spades_25', 'maxbin2_megahit_017', 'vamb_megahit_295', 'vamb_spades_1', 'vamb_spades_222', 'concoct_megahit_6', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'metabat2_megahit_14', 'maxbin2_spades_001']
+Built a community with a total of 37163 reactions.
+Built a community with a total of 32773 metabolites.
+--- Base ---
+Trying Base with original community in sample AA_1_B.
+-----Running the solution with pfba----
+0.2528876979678343
+--- CoCo ---
+Trying coco with original community in sample AA_1_B.
+-----Running the solution with pfba----
+0.1825071456251312
+----------------------------------
+>	 AA_2_B
+----------------------------------
+['vamb_megahit_39', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'metabat2_spades_25', 'maxbin2_megahit_017', 'vamb_megahit_295', 'vamb_spades_1', 'vamb_spades_222', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'maxbin2_spades_001']
+Built a community with a total of 31857 reactions.
+Built a community with a total of 27971 metabolites.
+--- Base ---
+first
+0.17499451237873198
+--- CoCo ---
+first
+0.16589710823222162
+----------------------------------
+>	 AA_3_B
+----------------------------------
+['metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'metabat2_spades_25', 'maxbin2_megahit_017', 'vamb_megahit_295', 'vamb_spades_1', 'vamb_spades_222', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'maxbin2_spades_001']
+Built a community with a total of 31324 reactions.
+Built a community with a total of 27638 metabolites.
+--- Base ---
+first
+0.2016396697982573
+--- CoCo ---
+first
+0.1860821394452299
+----------------------------------
+>	 AAAb_1_B
+----------------------------------
+['vamb_spades_6', 'vamb_megahit_39', 'metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'metabat2_spades_25', 'maxbin2_megahit_017', 'maxbin2_spades_028', 'vamb_spades_1', 'vamb_spades_222', 'concoct_megahit_6', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'metabat2_megahit_14', 'maxbin2_spades_001']
+Built a community with a total of 38235 reactions.
+Built a community with a total of 33474 metabolites.
+--- Base ---
+first
+0.20378154894329026
+--- CoCo ---
+first
+0.19006893630931967
+----------------------------------
+>	 AAAb_2_B
+----------------------------------
+['vamb_spades_6', 'vamb_megahit_39', 'metabat1_spades_2', 'vamb_spades_267', 'metabat2_spades_18', 'metabat1_megahit_20', 'vamb_spades_812', 'vamb_spades_298', 'maxbin2_spades_006', 'vamb_spades_21', 'metabat2_spades_15', 'metabat2_spades_25', 'maxbin2_megahit_017', 'maxbin2_spades_028', 'vamb_spades_222', 'concoct_megahit_6', 'vamb_spades_1056', 'vamb_spades_857', 'vamb_spades_286', 'metabat2_megahit_33', 'vamb_spades_108', 'metabat2_megahit_24', 'vamb_megahit_488', 'metabat2_megahit_14', 'maxbin2_spades_001']
+Built a community with a total of 38291 reactions.
+Built a community with a total of 33512 metabolites.
+--- Base ---
+first
+0.13936802747350552
+--- CoCo ---
+first
+0.1821285013025877
+Finished iter 0
+----------------------------------------------
+Finished iter 9

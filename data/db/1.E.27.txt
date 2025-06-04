@@ -1,0 +1,35 @@
+<TABLE>
+<TR><TD COLSPAN=5><a name="description"></a>&nbsp;<p><p style='text-align: center;'><strong>1.E.27 The BhlA Holin (BhlA Holin) Family </strong></p>
+<p>A 71 aa 
+BhlA bacteriocin-related holin-like peptide with 1 N-terminal TMS is encoded upstream of a gene encoding
+an 86 aa holin-like peptide, XhlB in the genome of 
+<em>Bacillus pumilus</em> strain WAPB4 (<a class='reflink' href='#ref9439'>Aunpad and Panbangred 2012</a>). 
+XhlB is composed of two putative transmembrane 
+domains separated by a &beta;-turn and numerous charged residues in the 
+C-terminus. Dual start motifs were found in both BhlA and XhlB.&nbsp; To analyze the effect of BhlA on bacteria cells, its ORF was 
+cloned and expressed in <em>Escherichia coli</em>. Expression of BhlA was toxic, and the 
+site of action was in the cell membrane, causing 
+death by membrane disruption as demonstrated by 
+transmission electron microscopy (<a class='reflink' href='#ref9439'>Aunpad and Panbangred 2012</a>).</p><BR></TD></TR><TR><TD COLSPAN=5><a name="references"></a>&nbsp;<p><B>References:</B><P></TD></TR><TR><TD COLSPAN=5>Anthony, T., G.S. Chellappa, T. Rajesh, and P. Gunasekaran. (2010).  Functional analysis of a putative holin-like peptide-coding gene in the genome of <i>Bacillus licheniformis</i> AnBa9.  Arch. Microbiol. 192: 51-56.<BR><HR></TD></TR><TR><TD COLSPAN=5>Aunpad, R. and W. Panbangred. (2012).  Evidence for two putative holin-like peptides encoding genes of <i>Bacillus pumilus</i> strain WAPB4.  Curr. Microbiol. 64: 343-348.<BR><HR></TD></TR><TR><TD COLSPAN=5>Brüser, T. and D. Mehner-Breitfeld. (2022).  Occurrence and potential mechanism of holin-mediated non-lytic protein translocation in bacteria.  Microb Cell 9: 159-173.<BR><HR></TD></TR><TR><TD COLSPAN=5><B>Examples:</B><P></TD></TR><TR bgcolor="#99ccff"><TD>TC#</TD><TD>Name</TD><TD>Organismal Type</TD><TD>Example</TD></TR><TR bgcolor="#99ccff"><TD><b><A NAME="1.E.27.1.1"></A><A HREF="tcprotein.php?substrate=1.E.27.1.1&tcname=">1.E.27.1.1</a></TD><TD><b><font color=#3333CC><p>holin BhlA (70 aas). A member of the DUF2762 family.&nbsp; Its holin function has been demonstrated (<span id="ref9439.22231453" class="cite">Aunpad and Panbangred 2012</span>).</p></TD><TD><b><font color=#3333CC><p>Firmicutes</p></TD><TD><b><font color=#3333CC><p>BhlA of<em> Bacillus pumilus</em></p></TD></TR><TR bgcolor="#ffffff" valign=top><TD COLSPAN=4 valign=top>&nbsp;</CENTER></TD></TR><TR bgcolor="#99ccff"><TD><b><A NAME="1.E.27.1.2"></A><A HREF="tcprotein.php?substrate=1.E.27.1.2&tcname=">1.E.27.1.2</a></TD><TD><b><font color=#3333CC><p><em>Bacillus subtilis</em> phage SP beta-holin-like protein (70 aas).</p></TD><TD><b><font color=#3333CC><p>Viruses</p></TD><TD><b><font color=#3333CC><p>Phage SP beta-holin</p></TD></TR><TR bgcolor="#ffffff" valign=top><TD COLSPAN=4 valign=top>&nbsp;</CENTER></TD></TR><TR bgcolor="#99ccff"><TD><b><A NAME="1.E.27.1.3"></A><A HREF="tcprotein.php?substrate=1.E.27.1.3&tcname=">1.E.27.1.3</a></TD><TD><b><font color=#3333CC><p>Phage-like protein (80 aas).</p></TD><TD><b><font color=#3333CC><p>Firmicutes</p></TD><TD><b><font color=#3333CC><p>Phage-like protein of <em>Clostridium botulinum</em></p></TD></TR><TR bgcolor="#ffffff" valign=top><TD COLSPAN=4 valign=top>&nbsp;</CENTER></TD></TR><TR bgcolor="#99ccff"><TD><b><A NAME="1.E.27.1.4"></A><A HREF="tcprotein.php?substrate=1.E.27.1.4&tcname=">1.E.27.1.4</a></TD><TD><b><font color=#3333CC><p>Holin protein BhlA (<span id="ref9442.19967339" class="cite">Anthony <em>et al.</em> 2010</span>).</p></TD><TD><b><font color=#3333CC><p>Firmicutes</p></TD><TD><b><font color=#3333CC><p>BhlA of <em>Bacillus licheniformis</em></p></TD></TR><TR bgcolor="#ffffff" valign=top><TD COLSPAN=4 valign=top>&nbsp;</CENTER></TD></TR><TR bgcolor="#99ccff"><TD><b><A NAME="1.E.27.1.5"></A><A HREF="tcprotein.php?substrate=1.E.27.1.5&tcname=">1.E.27.1.5</a></TD><TD><b><font color=#3333CC><p>Bacteriocin UviB of 64 aas.&nbsp; This protein is in the DUF2762 Superfamily.</p></TD><TD><b><font color=#3333CC></TD><TD><b><font color=#3333CC><p>UviB of <em>Clostridium perfringens</em></p>
+<p>&nbsp;</p></TD></TR><TR bgcolor="#ffffff" valign=top><TD COLSPAN=4 valign=top>&nbsp;</CENTER></TD></TR><TR bgcolor="#99ccff"><TD><b><A NAME="1.E.27.1.6"></A><A HREF="tcprotein.php?substrate=1.E.27.1.6&tcname=">1.E.27.1.6</a></TD><TD><b><font color=#3333CC><p>Uncharacterized protein of 76 aas</p></TD><TD><b><font color=#3333CC></TD><TD><b><font color=#3333CC><p>UP of <em>Bacillus cereus</em></p></TD></TR><TR bgcolor="#ffffff" valign=top><TD COLSPAN=4 valign=top>&nbsp;</CENTER></TD></TR><TR bgcolor="#99ccff"><TD><b><A NAME="1.E.27.1.7"></A><A HREF="tcprotein.php?substrate=1.E.27.1.7&tcname=">1.E.27.1.7</a></TD><TD><b><font color=#3333CC><p>Uncharacterized protein of 78 aas</p></TD><TD><b><font color=#3333CC></TD><TD><b><font color=#3333CC><p>UP of <em>Bacillus thuringiensis</em></p></TD></TR><TR bgcolor="#ffffff" valign=top><TD COLSPAN=4 valign=top>&nbsp;</CENTER></TD></TR><TR bgcolor="#99ccff"><TD><b><A NAME="1.E.27.1.8"></A><A HREF="tcprotein.php?substrate=1.E.27.1.8&tcname=">1.E.27.1.8</a></TD><TD><b><font color=#3333CC><p>Plasmid-encoded UviB-like holin of 65 aas with 1 TMS, TpeE. This protein mediates non-lytic protein translocation (<span id="ref34555451.36262927" class="cite">Br&uuml;ser and Mehner-Breitfeld 2022</span>). Holins generate large membrane lesions that 
+permit the passage of endolysins across the cytoplasmic membrane of 
+prokaryotes, ultimately resulting in cell wall degradation and cell 
+lysis. However, there are&nbsp; examples known for non-lytic 
+holin-dependent secretion of proteins by bacteria, indicating that 
+holins may transport proteins without causing large membrane 
+lesions. Phage-derived holins can be used for a non-lytic endolysin 
+translocation to permeabilize the cell wall for the passage of secreted 
+proteins. In addition, clostridia, which do not possess the Tat pathway 
+for transport of folded proteins, most likely employ non-lytic 
+holin-mediated transport also for secretion of toxins and bacteriocins 
+that are incompatible with the general Sec pathway. The small holin TpeE mediates non-lytic toxin secretion in <em>Clostridium perfringens</em>. TpeE contains only one short transmembrane 
+helix that is followed by an amphipathic helix, which is reminiscent of 
+TatA, the membrane-permeabilizing component of the Tat translocon for 
+folded proteins.&nbsp;<span id="ref34555451.36262927" class="cite">Br&uuml;ser and Mehner-Breitfeld 2022</span> reviewed the known cases of non-lytic 
+holin-mediated transport and then focus on the structural and functional
+ comparison of TatA and TpeE, resulting in a mechanistic model for 
+holin-mediated transport. This model is strongly supported by a so far 
+not recognized naturally occurring holin-endolysin fusion protein.</p></TD><TD><b><font color=#3333CC></TD><TD><b><font color=#3333CC></TD></TR><TR bgcolor="#ffffff" valign=top><TD COLSPAN=4 valign=top>&nbsp;</CENTER></TD></TR></TABLE>
+</CENTER>
+</BODY>
+</HTML>

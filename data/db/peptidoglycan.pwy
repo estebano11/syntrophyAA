@@ -1,0 +1,94 @@
+PWY	KO	Gene	Name
+Transferase/Dehydrogenase	K00790	murA	 UDP-N-acetylglucosamine 1-carboxyvinyltransferase [EC:2.5.1.7]
+Transferase/Dehydrogenase	K00075	murB	 UDP-N-acetylmuramate dehydrogenase [EC:1.3.1.98]
+Amino acid ligase	K01924	murC	 UDP-N-acetylmuramate--alanine ligase [EC:6.3.2.8]
+Amino acid ligase	K01925	murD	 UDP-N-acetylmuramoylalanine--D-glutamate ligase [EC:6.3.2.9]
+Amino acid ligase	K01928	murE	 UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase [EC:6.3.2.13]
+Amino acid ligase	K05362	murE	 UDP-N-acetylmuramoyl-L-alanyl-D-glutamate-L-lysine ligase [EC:6.3.2.7]
+Amino acid ligase	K15792	murEF	 MurE/MurF fusion protein [EC:6.3.2.13 6.3.2.10]
+Amino acid ligase	K01798	alr-murF	 Alr-MurF fusion protein [EC:5.1.1.1 6.3.2.10]
+Amino acid ligase	K01921	ddl	 D-alanine-D-alanine ligase [EC:6.3.2.4]
+Amino acid ligase	K11693	femX,	 peptidoglycan pentaglycine glycine transferase (the first glycine) [EC:2.3.2.16]
+Amino acid ligase	K11694	femA	 peptidoglycan pentaglycine glycine transferase (the second and third glycine) [EC:2.3.2.17]
+Amino acid ligase	K11695	femB	 peptidoglycan pentaglycine glycine transferase (the fourth and fifth glycine) [EC:2.3.2.18]
+Amino acid ligase	K05363	murM	 serine/alanine adding enzyme [EC:2.3.2.10]
+Amino acid ligase	K12554	murN	 alanine adding enzyme [EC:2.3.2.-]
+Racemase	K01775	alr	 alanine racemase [EC:5.1.1.1]
+Racemase	K01798	alr-murF	 Alr-MurF fusion protein [EC:5.1.1.1 6.3.2.10]
+Racemase	K01776	murI	 glutamate racemase [EC:5.1.1.3]
+Carboxypeptidase	K01297	ldcA	 muramoyltetrapeptide carboxypeptidase [EC:3.4.17.13]
+Glycosyltransferase	K01000	mraY	 phospho-N-acetylmuramoyl-pentapeptide-transferase [EC:2.7.8.13]
+Glycosyltransferase	K02563	murG	 UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase [EC:2.4.1.227]
+Diphosphatase	K06153	bacA	 undecaprenyl-diphosphatase [EC:3.6.1.27]
+Diphosphatase	K19302	bcrC	 undecaprenyl-diphosphatase [EC:3.6.1.27]
+Flippase	K03980	murJ,	 putative peptidoglycan lipid II flippase
+Glycosyltransferase/DD-Transpeptidase (Class A PBP)	K05366	mrcA	 penicillin-binding protein 1A [EC:2.4.99.28 3.4.16.4]
+Glycosyltransferase/DD-Transpeptidase (Class A PBP)	K05365	mrcB	 penicillin-binding protein 1B [EC:2.4.99.28 3.4.16.4]
+Glycosyltransferase/DD-Transpeptidase (Class A PBP)	K05367	pbpC	 penicillin-binding protein 1C [EC:2.4.99.28]
+Glycosyltransferase/DD-Transpeptidase (Class A PBP)	K03693	pbp1b	 penicillin-binding protein 1B
+Glycosyltransferase/DD-Transpeptidase (Class A PBP)	K12555	pbp2A	 penicillin-binding protein 2A [EC:2.4.99.28 3.4.16.4]
+Glycosyltransferase/DD-Transpeptidase (Class A PBP)	K18770	pbpD	 penicillin-binding protein 4 [EC:2.4.99.28 3.4.16.4]
+Glycosyltransferase/DD-Transpeptidase (Class A PBP)	K21464	pbpG	 penicillin-binding protein 2D [EC:2.4.99.28 3.4.16.4]
+DD-Transpeptidase (Class B PBP)	K05515	mrdA	 penicillin-binding protein 2 [EC:3.4.16.4]
+DD-Transpeptidase (Class B PBP)	K03587	ftsI	 cell division protein FtsI (penicillin-binding protein 3) [EC:3.4.16.4]
+DD-Transpeptidase (Class B PBP)	K02545	mecA	 penicillin-binding protein 2 prime [EC:3.4.16.4]
+DD-Transpeptidase (Class B PBP)	K12552	pbpA	 penicillin-binding protein 1 [EC:3.4.-.-]
+DD-Transpeptidase (Class B PBP)	K12553	pbp3	 penicillin-binding protein 3 [EC:3.4.-.-]
+DD-Transpeptidase (Class B PBP)	K00687	pbp2B,	 penicillin-binding protein 2B
+DD-Transpeptidase (Class B PBP)	K12556	pbp2X	 penicillin-binding protein 2X
+DD-Transpeptidase (Class B PBP)	K08724	pbpB	 penicillin-binding protein 2B
+DD-Transpeptidase (Class B PBP)	K18149	pbp5,	 penicillin-binding protein
+DD-Transpeptidase (Class B PBP)	K08384	spoVD	 stage V sporulation protein D (sporulation-specific penicillin-binding protein)
+DD-Transpeptidase (Class B PBP)	K21465	pbpA	 penicillin-binding protein A
+DD-Transpeptidase (Class B PBP)	K21466	pbpH	 penicillin-binding protein H
+DD-Transpeptidase (Class B PBP)	K21467	pbpC	 penicillin-binding protein 3
+DD-Transpeptidase (Class B PBP)	K21468	pbpI	 penicillin-binding protein 4B
+DD-Transpeptidase (Class B PBP)	K05364	pbpA	 penicillin-binding protein A
+DD-Carboxypeptidase/DD-Endopeptidase (Low molecular weight PBP)	K07258	dacC,	 serine-type D-Ala-D-Ala carboxypeptidase (penicillin-binding protein 5/6) [EC:3.4.16.4]
+DD-Carboxypeptidase/DD-Endopeptidase (Low molecular weight PBP)	K07259	dacB	 serine-type D-Ala-D-Ala carboxypeptidase/endopeptidase (penicillin-binding protein 4) [EC:3.4.16.4 3.4.21.-]
+DD-Carboxypeptidase/DD-Endopeptidase (Low molecular weight PBP)	K18988	ampH	 serine-type D-Ala-D-Ala carboxypeptidase/endopeptidase [EC:3.4.16.4 3.4.21.-]
+DD-Carboxypeptidase/DD-Endopeptidase (Low molecular weight PBP)	K21469	pbp4b	 serine-type D-Ala-D-Ala carboxypeptidase [EC:3.4.16.4]
+DD-Carboxypeptidase/DD-Endopeptidase (Low molecular weight PBP)	K07262	pbpG	 serine-type D-Ala-D-Ala endopeptidase (penicillin-binding protein 7) [EC:3.4.21.-]
+Glycosyltransferase	K03814	mtgA	 monofunctional glycosyltransferase [EC:2.4.99.28]
+Glycosyltransferase	K12551	sgtA	 monofunctional glycosyltransferase [EC:2.4.99.28]
+Glycosyltransferase	K04478	sgtB	 monofunctional glycosyltransferase [EC:2.4.99.28]
+Transpeptidase	K16291	erfK	 L,D-transpeptidase ErfK/SrfK
+Transpeptidase	K19234	ynhG	 L,D-transpeptidase YnhG
+Transpeptidase	K19235	ybiS	 L,D-transpeptidase YbiS
+Transpeptidase	K19236	ycfS	 L,D-transpeptidase YcfS
+Transpeptidase	K21470	ycbB	 L,D-transpeptidase YcbB
+Carboxypeptidase	K08641	vanX	 zinc D-Ala-D-Ala dipeptidase [EC:3.4.13.22]
+Carboxypeptidase	K07260	vanY	 zinc D-Ala-D-Ala carboxypeptidase [EC:3.4.17.14]
+Carboxypeptidase	K18866	vanXY	 zinc D-Ala-D-Ala dipeptidase/carboxypeptidase [EC:3.4.13.22 3.4.17.14]
+Carboxypeptidase	K08640	E3.4.17.14	 zinc D-Ala-D-Ala carboxypeptidase [EC:3.4.17.14]
+Endopeptidase	K07261	mepA	 penicillin-insensitive murein DD-endopeptidase [EC:3.4.24.-]
+Endopeptidase	K19303	mepH	 murein DD-endopeptidase [EC:3.4.-.-]
+Endopeptidase	K13694	mepS,	 murein DD-endopeptidase / murein LD-carboxypeptidase [EC:3.4.-.- 3.4.17.13]
+Endopeptidase	K19304	mepM	 murein DD-endopeptidase [EC:3.4.24.-]
+Endopeptidase	K19224	lytE,	 peptidoglycan DL-endopeptidase LytE [EC:3.4.-.-]
+Endopeptidase	K19223	lytF,	 peptidoglycan DL-endopeptidase LytF [EC:3.4.-.-]
+Endopeptidase	K21471	cwlO	 peptidoglycan DL-endopeptidase CwlO [EC:3.4.-.-]
+Endopeptidase	K19220	cwlS	 peptidoglycan DL-endopeptidase CwlS [EC:3.4.-.-]
+Endopeptidase	K21472	lytH	 peptidoglycan LD-endopeptidase LytH [EC:3.4.-.-]
+Endopeptidase	K17733	cwlK	 peptidoglycan LD-endopeptidase CwlK [EC:3.4.-.-]
+Endopeptidase	K21473	ripA	 peptidoglycan DL-endopeptidase RipA [EC:3.4.-.-]
+Endopeptidase	K21474	ripB	 peptidoglycan DL-endopeptidase RipB [EC:3.4.-.-]
+Endopeptidase	K08259	lytM	 lysostaphin [EC:3.4.24.75]
+Sortase	K07284	srtA	 sortase A [EC:3.4.22.70]
+Sortase	K08600	srtB	 sortase B [EC:3.4.22.71]
+Sortase	K24447	artA	 archaeosortase A [EC:3.4.22.-]
+Lytic transglycosylase	K08309	slt	 peptidoglycan lytic transglycosylase [EC:4.2.2.29]
+Lytic transglycosylase	K08304	mltA	 peptidoglycan lytic transglycosylase A [EC:4.2.2.29]
+Lytic transglycosylase	K08305	mltB	 peptidoglycan lytic transglycosylase B [EC:4.2.2.29]
+Lytic transglycosylase	K08306	mltC	 peptidoglycan lytic transglycosylase C [EC:4.2.2.29]
+Lytic transglycosylase	K08307	mltD,	 peptidoglycan lytic transglycosylase D [EC:4.2.2.29]
+Lytic transglycosylase	K08308	mltE,	 peptidoglycan lytic transglycosylase E [EC:4.2.2.29]
+Lytic transglycosylase	K18691	mltF	 peptidoglycan lytic transglycosylase F [EC:4.2.2.29]
+Lytic transglycosylase	K07082	mltG	 peptidoglycan lytic transglycosylase G [EC:4.2.2.29]
+Lytic transglycosylase	K03642	rlpA	 peptidoglycan lytic transglycosylase [EC:4.2.2.29]
+Lytic transglycosylase	K27245	sleB	 peptidoglycan lytic transglycosylase [EC:4.2.2.29]
+Lytic transglycosylase	K06381	spoIID	 stage II sporulation protein D (peptidoglycan lytic transglycosylase) [EC:4.2.2.29]
+Amidase	K01448	amiABC	 N-acetylmuramoyl-L-alanine amidase [EC:3.5.1.28]
+Amidase	K11066	amiD	 N-acetylmuramoyl-L-alanine amidase [EC:3.5.1.28]
+Amidase	K03806	ampD	 N-acetyl-anhydromuramoyl-L-alanine amidase [EC:3.5.1.28]
+Structural protein	K06078	lpp	 murein lipoprotein

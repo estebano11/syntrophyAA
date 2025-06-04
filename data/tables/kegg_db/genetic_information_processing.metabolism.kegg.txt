@@ -1,0 +1,358 @@
+99973 Transcription
+K02466 gutM; glucitol operon activator protein
+K03627 MBF1; putative transcription factor
+K03622 ssh10b; archaea-specific DNA-binding protein
+K03623 yhcO; ribonuclease inhibitor
+K03704 cspA; cold shock protein
+K07591 tdcR; threonine dehydratase operon activator protein
+K04796 RUXX; small nuclear ribonucleoprotein
+K11100 SNRPN, SMN; small nuclear ribonucleoprotein N
+K07740 rsd; regulator of sigma D
+K07741 antB; anti-repressor protein
+K07802 trpL; trp operon leader peptide
+K08278 thrL; thr operon leader peptide
+K15833 hycA; formate hydrogenlyase regulatory protein HycA
+K15834 hycH; formate hydrogenlyase maturation protein HycH
+K02589 nifHD1, nifI1; nitrogen regulatory protein PII 1
+K02590 nifHD2, nifI2; nitrogen regulatory protein PII 2
+K04752 glnK; nitrogen regulatory protein P-II 2
+K16335 TORC; CREB-regulated transcription coactivator
+K16509 spxA; regulatory protein spx
+K18666 ASCC1; activating signal cointegrator complex subunit 1
+K18667 ASCC2; activating signal cointegrator complex subunit 2
+K18774 PNRC1; proline-rich nuclear receptor coactivator 1
+K19432 slrA; anti-repressor of SlrR
+K19495 JAZF1; juxtaposed with another zinc finger protein 1
+K19512 MAMLD1; mastermind-like domain-containing protein 1
+K06959 tex; protein Tex
+K21389 ADN1; adhesion defective protein 1
+K21390 ADN2; adhesion defective protein 2
+K21391 ADN3; adhesion defective protein 3
+K21554 CREBRF, LRF; CREB3 regulatory factor
+K21627 IFH1; protein IFH1
+K21628 MSA1; G1-specific transcription factors activator MSA1
+K21629 MSA2; G1-specific transcription factors activator MSA2
+K21640 nrpRII; global nitrogen regulator NrpRII
+K21753 PASD1; circadian clock protein PASD1
+K22383 IRF2BP; interferon regulatory factor 2-binding protein
+K22388 NAB; NGFI-A-binding protein
+K22403 ZMIZ; zinc finger MIZ domain-containing protein
+K22525 MKL; MKL/myocardin-like protein
+K22526 MYOCD; myocardin
+K22527 CITED1; Cbp/p300-interacting transactivator 1
+K22528 CITED4; Cbp/p300-interacting transactivator 4
+K22649 BCL9, BCL9L; B-cell CLL/lymphoma 9 protein
+K07743 K07743; transcriptional regulator
+K07744 K07744; transcriptional regulator
+K07745 K07745; transcriptional regulator
+K24380 CST10; cystatin-10
+K24397 DAOA; D-amino acid oxidase activator
+K09777 remA; extracellular matrix regulatory protein A
+K24648 remB; extracellular matrix regulatory protein B
+K24724 AES, TLE5; TLE family member 5 (amino-terminal enhancer of split)
+K25826 CBFB; core-binding factor subunit beta
+K26435 MTDH, AEG1; protein LYRIC
+99975 Protein processing
+K03668 hslJ; heat shock protein HslJ
+K06891 clpS; ATP-dependent Clp protease adaptor protein ClpS
+K19411 mcsA; protein arginine kinase activator
+K03545 tig; trigger factor
+K17247 msrQ; methionine sulfoxide reductase heme-binding subunit
+K02380 fdhE; FdhE protein
+K03187 ureE; urease accessory protein
+K03188 ureF; urease accessory protein
+K03189 ureG; urease accessory protein
+K03190 ureD, ureH; urease accessory protein
+K03192 ureJ; urease accessory protein
+K03664 smpB; SsrA-binding protein
+K04653 hypC; hydrogenase expression/formation protein HypC
+K04654 hypD; hydrogenase expression/formation protein HypD
+K04655 hypE; hydrogenase expression/formation protein HypE
+K04656 hypF; hydrogenase maturation protein HypF
+K07388 K07388; hydrogenase expression/formation protein
+K06191 nrdH; glutaredoxin-like protein NrdH
+K07391 comM; magnesium chelatase family protein
+K07392 PRS2; AAA family ATPase
+K07394 K07394; SM-20-related protein
+K07395 K07395; putative proteasome-type protease
+K07396 K07396; putative protein-disulfide isomerase
+K07397 yhfA; putative redox protein
+K07398 K07398; conserved protein with predicted RNA binding PUA domain
+K07399 resB, ccs1; cytochrome c biogenesis protein
+K07400 nfuA; Fe/S biogenesis protein NfuA
+K07401 K07401; selenoprotein W-related protein
+K07402 xdhC; xanthine dehydrogenase accessory factor
+K07403 nfeD; membrane-bound serine protease (ClpP class)
+K11208 yncG; GST-like protein
+K15367 sseA; secretion system chaperone SseA
+K18984 ssaE; secretion system chaperone SsaE
+K15368 sscA; secretion system chaperone SscA
+K16511 mecA1_2; adapter protein MecA 1/2
+03015 mRNA surveillance pathway [PATH:ko03015]
+K12882 NCBP1, CBP80; nuclear cap-binding protein subunit 1
+K12883 NCBP2, CBP20; nuclear cap-binding protein subunit 2
+K14328 UPF3, RENT3; regulator of nonsense transcripts 3
+K12876 RBM8A, Y14; RNA-binding protein 8A
+K12877 MAGOH; protein mago nashi
+K14323 CASC3, MLN51; protein CASC3
+K13025 EIF4A3, FAL1; ATP-dependent RNA helicase [EC:3.6.4.13]
+K14324 SAP18; histone deacetylase complex subunit SAP18
+K13114 PNN; pinin
+K12875 ACIN1, ACINUS; apoptotic chromatin condensation inducer in the nucleus
+K14325 RNPS1; RNA-binding protein with serine-rich domain 1
+K12881 THOC4, ALY; THO complex subunit 4
+K18655 DDX19, DBP5; ATP-dependent RNA helicase DDX19/DBP5 [EC:3.6.4.13]
+K18723 GLE1; nucleoporin GLE1
+K14284 NXF, TAP, MEX67; nuclear RNA export factor
+K14285 NXT1_2, P15; NTF2-related export protein 1/2
+K14543 MTR2; mRNA transport regulator MTR2
+K12812 DDX39B, UAP56, SUB2; ATP-dependent RNA helicase UAP56/SUB2 [EC:3.6.4.13]
+K14294 WIBG, PYM; partner of Y14 and mago
+K13171 SRRM1, SRM160; serine/arginine repetitive matrix protein 1
+K13917 RNGTT; mRNA-capping enzyme [EC:2.7.7.50 3.6.1.74]
+K00565 RNMT; mRNA (guanine-N7-)-methyltransferase [EC:2.1.1.56]
+K13098 TLS, FUS; RNA-binding protein FUS
+K23600 TARDBP, TDP43; TAR DNA-binding protein 43
+K14396 PABPN1, PABP2; polyadenylate-binding protein 2
+K14397 NUDT21, CPSF5, CFIM25; cleavage and polyadenylation specificity factor subunit 5
+K14398 CPSF6_7; cleavage and polyadenylation specificity factor subunit 6/7
+K14376 PAP; poly(A) polymerase [EC:2.7.7.19]
+K14399 CLP1, HERB; polyribonucleotide 5'-hydroxyl-kinase [EC:2.7.1.78]
+K14400 PCF11; pre-mRNA cleavage complex 2 protein Pcf11
+K14401 CPSF1, CFT1; cleavage and polyadenylation specificity factor subunit 1
+K14402 CPSF2, CFT2; cleavage and polyadenylation specificity factor subunit 2
+K14403 CPSF3, YSH1; cleavage and polyadenylation specificity factor subunit 3 [EC:3.1.27.-]
+K14404 CPSF4, YTH1; cleavage and polyadenylation specificity factor subunit 4
+K14405 FIP1L1, FIP1; pre-mRNA 3'-end-processing factor FIP1
+K15541 MPE1; protein MPE1
+K15542 PFS2; polyadenylation factor subunit 2
+K14962 WDR82, SWD2, CPS35; COMPASS component SWD2
+K15543 REF2; RNA end formation protein 2
+K06269 PPP1C; serine/threonine-protein phosphatase PP1 catalytic subunit [EC:3.1.3.16]
+K15544 SSU72; RNA polymerase II subunit A C-terminal domain phosphatase SSU72 [EC:3.1.3.16]
+K14406 CSTF1; cleavage stimulation factor subunit 1
+K14407 CSTF2, RNA15; cleavage stimulation factor subunit 2
+K14408 CSTF3, RNA14; cleavage stimulation factor subunit 3
+K06100 SYMPK; symplekin
+K12595 SKI7; superkiller protein 7
+K14411 MSI; RNA-binding protein Musashi
+K13126 PABPC; polyadenylate-binding protein
+K03265 ETF1, ERF1; peptide chain release factor subunit 1
+K03267 ERF3, GSPT; peptide chain release factor subunit 3
+K14326 UPF1, RENT1; regulator of nonsense transcripts 1 [EC:3.6.4.13 5.6.2.3]
+K14327 UPF2, RENT2; regulator of nonsense transcripts 2
+K08873 SMG1; serine/threonine-protein kinase SMG1 [EC:2.7.11.1]
+K14409 SMG7, EST1C; protein SMG7
+K11125 SMG5, EST1B; protein SMG5
+K11124 SMG6, EST1A; protein SMG6 [EC:3.1.-.-]
+K04382 PPP2C; serine/threonine-protein phosphatase 2A catalytic subunit [EC:3.1.3.16]
+K03456 PPP2R1; serine/threonine-protein phosphatase 2A regulatory subunit A
+K04354 PPP2R2; serine/threonine-protein phosphatase 2A regulatory subunit B
+K11583 PPP2R3; serine/threonine-protein phosphatase 2A regulatory subunit B''
+K11584 PPP2R5; serine/threonine-protein phosphatase 2A regulatory subunit B'
+K14416 HBS1; elongation factor 1 alpha-like protein
+K06965 PELO, DOM34, pelA; protein pelota
+03010 Ribosome [PATH:ko03010]
+K02945 RP-S1, rpsA; small subunit ribosomal protein S1
+K02967 RP-S2, MRPS2, rpsB; small subunit ribosomal protein S2
+K02982 RP-S3, rpsC; small subunit ribosomal protein S3
+K02986 RP-S4, rpsD; small subunit ribosomal protein S4
+K02988 RP-S5, MRPS5, rpsE; small subunit ribosomal protein S5
+K02990 RP-S6, MRPS6, rpsF; small subunit ribosomal protein S6
+K02992 RP-S7, MRPS7, rpsG; small subunit ribosomal protein S7
+K02994 RP-S8, rpsH; small subunit ribosomal protein S8
+K02996 RP-S9, MRPS9, rpsI; small subunit ribosomal protein S9
+K02946 RP-S10, MRPS10, rpsJ; small subunit ribosomal protein S10
+K02948 RP-S11, MRPS11, rpsK; small subunit ribosomal protein S11
+K02950 RP-S12, MRPS12, rpsL; small subunit ribosomal protein S12
+K02952 RP-S13, rpsM; small subunit ribosomal protein S13
+K02954 RP-S14, MRPS14, rpsN; small subunit ribosomal protein S14
+K02956 RP-S15, MRPS15, rpsO; small subunit ribosomal protein S15
+K02959 RP-S16, MRPS16, rpsP; small subunit ribosomal protein S16
+K02961 RP-S17, MRPS17, rpsQ; small subunit ribosomal protein S17
+K02963 RP-S18, MRPS18, rpsR; small subunit ribosomal protein S18
+K02965 RP-S19, rpsS; small subunit ribosomal protein S19
+K02968 RP-S20, rpsT; small subunit ribosomal protein S20
+K02970 RP-S21, MRPS21, rpsU; small subunit ribosomal protein S21
+K02981 RP-S2e, RPS2; small subunit ribosomal protein S2e
+K02985 RP-S3e, RPS3; small subunit ribosomal protein S3e
+K02984 RP-S3Ae, RPS3A; small subunit ribosomal protein S3Ae
+K02987 RP-S4e, RPS4; small subunit ribosomal protein S4e
+K02989 RP-S5e, RPS5; small subunit ribosomal protein S5e
+K02991 RP-S6e, RPS6; small subunit ribosomal protein S6e
+K02993 RP-S7e, RPS7; small subunit ribosomal protein S7e
+K02995 RP-S8e, RPS8; small subunit ribosomal protein S8e
+K02997 RP-S9e, RPS9; small subunit ribosomal protein S9e
+K02947 RP-S10e, RPS10; small subunit ribosomal protein S10e
+K02949 RP-S11e, RPS11; small subunit ribosomal protein S11e
+K02951 RP-S12e, RPS12; small subunit ribosomal protein S12e
+K02953 RP-S13e, RPS13; small subunit ribosomal protein S13e
+K02955 RP-S14e, RPS14; small subunit ribosomal protein S14e
+K02958 RP-S15e, RPS15; small subunit ribosomal protein S15e
+K02957 RP-S15Ae, RPS15A; small subunit ribosomal protein S15Ae
+K02960 RP-S16e, RPS16; small subunit ribosomal protein S16e
+K02962 RP-S17e, RPS17; small subunit ribosomal protein S17e
+K02964 RP-S18e, RPS18; small subunit ribosomal protein S18e
+K02966 RP-S19e, RPS19; small subunit ribosomal protein S19e
+K02969 RP-S20e, RPS20; small subunit ribosomal protein S20e
+K02971 RP-S21e, RPS21; small subunit ribosomal protein S21e
+K02973 RP-S23e, RPS23; small subunit ribosomal protein S23e
+K02974 RP-S24e, RPS24; small subunit ribosomal protein S24e
+K02975 RP-S25e, RPS25; small subunit ribosomal protein S25e
+K02976 RP-S26e, RPS26; small subunit ribosomal protein S26e
+K02978 RP-S27e, RPS27; small subunit ribosomal protein S27e
+K02977 RP-S27Ae, RPS27A, UBA80; ubiquitin-small subunit ribosomal protein S27Ae
+K02979 RP-S28e, RPS28; small subunit ribosomal protein S28e
+K02980 RP-S29e, RPS29; small subunit ribosomal protein S29e
+K02983 RP-S30e, RPS30; small subunit ribosomal protein S30e
+K02998 RP-SAe, RPSA; small subunit ribosomal protein SAe
+K02863 RP-L1, MRPL1, rplA; large subunit ribosomal protein L1
+K02886 RP-L2, MRPL2, rplB; large subunit ribosomal protein L2
+K02906 RP-L3, MRPL3, rplC; large subunit ribosomal protein L3
+K02926 RP-L4, MRPL4, rplD; large subunit ribosomal protein L4
+K02931 RP-L5, MRPL5, rplE; large subunit ribosomal protein L5
+K02933 RP-L6, MRPL6, rplF; large subunit ribosomal protein L6
+K02935 RP-L7, MRPL12, rplL; large subunit ribosomal protein L7/L12
+K02939 RP-L9, MRPL9, rplI; large subunit ribosomal protein L9
+K02864 RP-L10, MRPL10, rplJ; large subunit ribosomal protein L10
+K02867 RP-L11, MRPL11, rplK; large subunit ribosomal protein L11
+K02869 RP-L12, rpl12; large subunit ribosomal protein L12
+K02871 RP-L13, MRPL13, rplM; large subunit ribosomal protein L13
+K02874 RP-L14, MRPL14, rplN; large subunit ribosomal protein L14
+K02876 RP-L15, MRPL15, rplO; large subunit ribosomal protein L15
+K02878 RP-L16, MRPL16, rplP; large subunit ribosomal protein L16
+K02879 RP-L17, MRPL17, rplQ; large subunit ribosomal protein L17
+K02881 RP-L18, MRPL18, rplR; large subunit ribosomal protein L18
+K02884 RP-L19, MRPL19, rplS; large subunit ribosomal protein L19
+K02887 RP-L20, MRPL20, rplT; large subunit ribosomal protein L20
+K02888 RP-L21, MRPL21, rplU; large subunit ribosomal protein L21
+K02890 RP-L22, MRPL22, rplV; large subunit ribosomal protein L22
+K02892 RP-L23, MRPL23, rplW; large subunit ribosomal protein L23
+K02895 RP-L24, MRPL24, rplX; large subunit ribosomal protein L24
+K02897 RP-L25, rplY; large subunit ribosomal protein L25
+K02899 RP-L27, MRPL27, rpmA; large subunit ribosomal protein L27
+K02902 RP-L28, MRPL28, rpmB; large subunit ribosomal protein L28
+K02904 RP-L29, rpmC; large subunit ribosomal protein L29
+K02907 RP-L30, MRPL30, rpmD; large subunit ribosomal protein L30
+K02909 RP-L31, rpmE; large subunit ribosomal protein L31
+K02911 RP-L32, MRPL32, rpmF; large subunit ribosomal protein L32
+K02913 RP-L33, MRPL33, rpmG; large subunit ribosomal protein L33
+K02914 RP-L34, MRPL34, rpmH; large subunit ribosomal protein L34
+K02916 RP-L35, MRPL35, rpmI; large subunit ribosomal protein L35
+K02919 RP-L36, MRPL36, rpmJ; large subunit ribosomal protein L36
+K07590 RP-L7A, rplGB; large subunit ribosomal protein L7A
+K02925 RP-L3e, RPL3; large subunit ribosomal protein L3e
+K02930 RP-L4e, RPL4; large subunit ribosomal protein L4e
+K02932 RP-L5e, RPL5; large subunit ribosomal protein L5e
+K02934 RP-L6e, RPL6; large subunit ribosomal protein L6e
+K02937 RP-L7e, RPL7; large subunit ribosomal protein L7e
+K02936 RP-L7Ae, RPL7A; large subunit ribosomal protein L7Ae
+K02938 RP-L8e, RPL8; large subunit ribosomal protein L8e
+K02940 RP-L9e, RPL9; large subunit ribosomal protein L9e
+K02866 RP-L10e, RPL10; large subunit ribosomal protein L10e
+K02865 RP-L10Ae, RPL10A; large subunit ribosomal protein L10Ae
+K02868 RP-L11e, RPL11; large subunit ribosomal protein L11e
+K02870 RP-L12e, RPL12; large subunit ribosomal protein L12e
+K02873 RP-L13e, RPL13; large subunit ribosomal protein L13e
+K02872 RP-L13Ae, RPL13A; large subunit ribosomal protein L13Ae
+K02875 RP-L14e, RPL14; large subunit ribosomal protein L14e
+K02877 RP-L15e, RPL15; large subunit ribosomal protein L15e
+K02880 RP-L17e, RPL17; large subunit ribosomal protein L17e
+K02883 RP-L18e, RPL18; large subunit ribosomal protein L18e
+K02882 RP-L18Ae, RPL18A; large subunit ribosomal protein L18Ae
+K02885 RP-L19e, RPL19; large subunit ribosomal protein L19e
+K02889 RP-L21e, RPL21; large subunit ribosomal protein L21e
+K02891 RP-L22e, RPL22; large subunit ribosomal protein L22e
+K02894 RP-L23e, RPL23; large subunit ribosomal protein L23e
+K02893 RP-L23Ae, RPL23A; large subunit ribosomal protein L23Ae
+K02896 RP-L24e, RPL24; large subunit ribosomal protein L24e
+K02898 RP-L26e, RPL26; large subunit ribosomal protein L26e
+K02901 RP-L27e, RPL27; large subunit ribosomal protein L27e
+K02900 RP-L27Ae, RPL27A; large subunit ribosomal protein L27Ae
+K02903 RP-L28e, RPL28; large subunit ribosomal protein L28e
+K02905 RP-L29e, RPL29; large subunit ribosomal protein L29e
+K02908 RP-L30e, RPL30; large subunit ribosomal protein L30e
+K02910 RP-L31e, RPL31; large subunit ribosomal protein L31e
+K02912 RP-L32e, RPL32; large subunit ribosomal protein L32e
+K02915 RP-L34e, RPL34; large subunit ribosomal protein L34e
+K02918 RP-L35e, RPL35; large subunit ribosomal protein L35e
+K02917 RP-L35Ae, RPL35A; large subunit ribosomal protein L35Ae
+K02920 RP-L36e, RPL36; large subunit ribosomal protein L36e
+K02922 RP-L37e, RPL37; large subunit ribosomal protein L37e
+K02921 RP-L37Ae, RPL37A; large subunit ribosomal protein L37Ae
+K02923 RP-L38e, RPL38; large subunit ribosomal protein L38e
+K02924 RP-L39e, RPL39; large subunit ribosomal protein L39e
+K02927 RP-L40e, RPL40, UBA52; ubiquitin-large subunit ribosomal protein L40e
+K02928 RP-L41e, RPL41; large subunit ribosomal protein L41e
+K02929 RP-L44e, RPL44; large subunit ribosomal protein L44e
+K02941 RP-LP0, RPLP0; large subunit ribosomal protein LP0
+K02942 RP-LP1, RPLP1; large subunit ribosomal protein LP1
+K02943 RP-LP2, RPLP2; large subunit ribosomal protein LP2
+K02944 RP-LX, rplX; large subunit ribosomal protein LX
+K01977 16SrRNA, rrs; 16S ribosomal RNA
+K01980 23SrRNA, rrl; 23S ribosomal RNA
+K01985 5SrRNA, rrf; 5S ribosomal RNA
+K01979 SSUrRNA; small subunit 18S ribosomal RNA
+K01982 LSUrRNA; large subunit 28S/25S ribosomal RNA
+K01981 LSU5S; large subunit 5S ribosomal RNA
+K01986 LSU5.8S; large subunit 5.8S ribosomal RNA
+99976 Replication and repair
+K07443 ybaZ; methylated-DNA-protein-cysteine methyltransferase related protein
+K07445 K07445; putative DNA methylase
+K07449 K07449; similar to archaeal holliday junction resolvase and Mrr protein
+K07450 K07450; putative resolvase
+K01146 xni; protein Xni
+K07453 K07453; putative restriction endonuclease
+K07454 K07454; putative restriction endonuclease
+K06993 K06993; ribonuclease H-related protein
+K03630 radC; DNA repair protein RadC
+K09760 rmuC; DNA recombination protein RmuC
+K07457 K07457; endonuclease III related protein
+K07459 ybjD; putative ATP-dependent endonuclease of the OLD family
+K07460 yraN; putative endonuclease
+K07461 K07461; putative endonuclease
+K07463 K07463; archaea-specific RecJ-like exonuclease
+K07465 K07465; putative RecB family exonuclease
+K04096 smf; DNA processing protein
+K02086 dnaD; DNA replication protein
+K07467 nicK; putative DNA relaxase
+K07357 fimB; type 1 fimbriae regulatory protein FimB
+K07358 fimE; type 1 fimbriae regulatory protein FimE
+K07470 sbmC; DNA gyrase inhibitor
+K07472 TIP49; TBP-interacting protein
+K07474 xtmA; phage terminase small subunit
+K06909 xtmB; phage terminase large subunit
+K07476 yusF; toprim domain protein
+K07477 K07477; translin
+K07478 ycaJ; putative ATPase
+K07479 yrdD; putative DNA topoisomerase
+K10762 ydaV; putative replication protein
+K14060 pinR; putative DNA-invertase from lambdoid prophage Rac
+K06919 K06919; putative DNA primase/helicase
+K16782 NEURL2; neuralized-like protein 2
+K07505 repA; regulatory protein RepA
+K07500 K07500; DNA endonuclease
+K07501 K07501; 3'-5' exonuclease
+K07480 insB; insertion element IS1 protein InsB
+K07481 K07481; transposase, IS5 family
+K18320 IS15, IS26; transposase, IS6 family
+K07482 K07482; transposase, IS30 family
+K07483 K07483; transposase
+K07484 K07484; transposase
+K07485 K07485; transposase
+K07486 K07486; transposase
+K07487 K07487; transposase
+K07488 K07488; transposase
+K07489 K07489; transposase
+K07491 rayT; REP-associated tyrosine transposase
+K07492 K07492; putative transposase
+K07493 K07493; putative transposase
+K07494 K07494; putative transposase
+K07495 K07495; putative transposase
+K07496 K07496; putative transposase
+K07497 K07497; putative transposase
+K07498 K07498; putative transposase
+K07499 K07499; putative transposase
+K01152 isftu1; isftu1 transposase
+K14059 int; integrase
+K24551 BCAS4; breast carcinoma-amplified sequence 4
